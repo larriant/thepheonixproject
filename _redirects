@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://heuristic-fermi-090193.netlify.com/* http://wiki.julyandavey.com/:splat 301!
