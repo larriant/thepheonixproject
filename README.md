@@ -15,5 +15,3 @@ Edit files as you like.
 * git commit -m "message"
 * git push origin master
 
-
-# thepheonixproject

@@ -13,12 +13,9 @@
 * https://www.reddit.com/r/collapse
 
 
-## People to Email
+## Organisations
 * Schumacher College (https://www.schumachercollege.org.uk/)
 * Alter Ego (http://alterego.network/)
 * Edgeryders (https://edgeryders.eu/)
-
-## Possibles
-* https://embercombe.org/catalyst/
-
+* Embercombe (https://embercombe.org/catalyst/)
 
