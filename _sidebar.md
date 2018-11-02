@@ -1,33 +1,39 @@
 * [Home][1]
-* Altruism
-	* [What is Altruism][2]
-	* [Why Altruism][3]
-	* [How to Altruism][4]
-	* [Altruism Streams][5]
-	* [Groups][6]
-	* [Day Course][7]
-	*  [Altruism Ideas][8]
-	* [Altruism Links][9]
-	* [Altruism Science][10]
-	*  [Feedback][11]
-	* [Exponential][12]
-	* [Name Ideas][13]
 * General
-	* [Places to Post Articles][14]
-	* [Quotes][15]
+	* [Places to Post Articles][2]
+	* [Quotes][3]
+* Map Theory
+	* Modernism
+	* Post-Modernism
+	* Meta-Modernism
+	* Values
+	* Meta-Rationality
+* Altruism
+	* [What is Altruism][4]
+	* [Why Altruism][5]
+	* [How to Altruism][6]
+	* [Altruism Streams][7]
+	* [Groups][8]
+	* [Day Course][9]
+	* [Altruism Ideas][10]
+	* [Altruism Links][11]
+	* [Altruism Science][12]
+	*  [Feedback][13]
+	* [Exponential][14]
+	* [Name Ideas][15]
 
 [1]:	/
-[2]:	whatisaltruism.md
-[3]:	whyaltruism.md
-[4]:	howaltruism.md
-[5]:	altruismstreams.md
-[6]:	groups.md
-[7]:	daycourse.md
-[8]:	altruismideas.md
-[9]:	altruismlinks.md
-[10]:	altruismscience.md
-[11]:	feedback.md
-[12]:	exponential.md
-[13]:	nameideas.md
-[14]:	placestopost.md
-[15]:	quotes.md
+[2]:	placestopost.md
+[3]:	quotes.md
+[4]:	whatisaltruism.md
+[5]:	whyaltruism.md
+[6]:	howaltruism.md
+[7]:	altruismstreams.md
+[8]:	groups.md
+[9]:	daycourse.md
+[10]:	altruismideas.md
+[11]:	altruismlinks.md
+[12]:	altruismscience.md
+[13]:	feedback.md
+[14]:	exponential.md
+[15]:	nameideas.md

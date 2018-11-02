@@ -12,7 +12,6 @@
 * https://www.reddit.com/r/Anticonsumption/
 * https://www.reddit.com/r/collapse
 
-
 ## Organisations
 * Schumacher College (https://www.schumachercollege.org.uk/)
 * Alter Ego (http://alterego.network/)
