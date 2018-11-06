@@ -13,4 +13,3 @@ Financial and material. Self-explanatory. The current focus of modern philanthro
 … ?
 Also **political engagement** can be an important way to make change happen and help people.
 Note: Burning man events help people in all 5 of anarchism, giving, psychology, environmental and creativity streams!
-

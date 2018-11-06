@@ -45,4 +45,3 @@ Then either:
 * A day of personal and communal discovery of what we can uniquely contribute.
 * Find existing projects and go help them! We should look to collaborate with others as much as possible.
 * End with socialising (cannabis, beers?) and group flow activities like IGO + Group Art + Group Improv.
-

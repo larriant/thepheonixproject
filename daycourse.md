@@ -2,8 +2,7 @@
 Aim: Inspire, awaken and facilitate altruism 
 
 To do:
-+ Add research examples where needed  
-		  
++ Add research examples where needed
 
 Sections (need to import our ideas from main ideas doc):
 + What is altruism? 
@@ -27,7 +26,7 @@ Arguments for true altruism
 Distinctions: Empathy, compassion and love
 Example: reaction to homeless people
 
-## Why Altruism? 
+## Why Altruism?
 + Current state of world, revolutions and crises.  BOOM equation.
 + Altruism as solution
 + Switching from current to altruistic operating systems
@@ -89,5 +88,4 @@ Altruism Challenges to students for the following weeks
 Can organise a relaxed social a week later to discuss how these went.
 
 Questionnaire - early course events have massive research potential. Things to ask: 
-+ ?   
-
++ ?

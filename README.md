@@ -1,4 +1,4 @@
-# The Pheonix Project
+# The Phoenix Project
 
 A wiki to develop our ideas.
 
@@ -14,4 +14,3 @@ Edit files as you like.
 * git add -A
 * git commit -m "message"
 * git push origin master
-

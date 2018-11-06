@@ -33,4 +33,3 @@ Well nothing is really new and original.
 Interesting. Although I don't think people have authentic desire to live a life in one way. How they choose to live their lives is pretty much determined by the social and cultural context. i.e. we can't just stand back and let people live a life however they want. We have to choose a culture that is better than others. But obviously not force people to be involved. Also think there are other ways to embody the "new operating system" than just 'purpose seeking'. i.e. absurdist life, art etc
 
 > "Why are you so desperately impatient to fix everything?"
-

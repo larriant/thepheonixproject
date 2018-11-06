@@ -10,33 +10,26 @@ What transforms a meeting into a circle is the willingness of people to shift fr
 #### Components of Circle
 
 + Intention - shapes the circle and determines who will come, how long the circle will meet, and what kinds of outcomes are to be expected. The caller of the circle spends time articulating intention and invitation.
-    
 + Start-Point Or Welcome - Gesture to shift people's attention from social space to council space. Gesture may be a moment of silence, reading a poem or listening to a song.
-    
 + Setting the Circle - The center of the circle should hold an object that represents the intention of the circle. Any symbol fits this purpose: flowers, a bowl or basket, a candle.
-    
 + Check-In / Greeting - Check-in helps people into a frame of mind for council and reminds everyone of their commitment to the expressed intention. Very sharing, especially a brief story, weaves the interpersonal net.
-    
 + Guardian - the single most important tool for aiding self-governance and bringing circle back to intention is the role of guardian.  One circle member volunteers to watch and safeguard group energy and observe the circle's process. The guardian usually employs a gentle noise-maker such as a chime that signals to everyone to stop aciton, take a breath, rest in a space of slience. Any member may call for a pause.
-    
 + Setting Circle Agreements - Agreements often used include: we hold all stories or personal material in confidentiality. We listen to each other with compassion and curiosity. We ask for what we need and offer what we can.
-    
-    
 + Three Principles 
-    1) *Leadership rotates* among all circle members
-    2) *Responsibility is shared* for the quality of experience
-    3) *Reliance is on wholeness*, rather than on any personal agenda
+	1) *Leadership rotates* among all circle members
+	2) *Responsibility is shared* for the quality of experience
+	3) *Reliance is on wholeness*, rather than on any personal agenda
 
 + The Practices
-    1) *Speak with intention*: noting what has relevance to the conversation in the moment
-    2) *Listen with attention*: respectful of the learning process for all members of the group
-    3) *Tend to the well being of the circle*: remaining aware of the impact of our contributions
+	1) *Speak with intention*: noting what has relevance to the conversation in the moment
+	2) *Listen with attention*: respectful of the learning process for all members of the group
+	3) *Tend to the well being of the circle*: remaining aware of the impact of our contributions
 
 + Forms of Council
-    1) *Talking piece council* is often used as a part of check-in, check-out and whenever there is a desire to slow down the conversation, collect all voices and contributions and be able to speak without interruption.
-    2) *Conversation Council* is often used when reaction, interaction and an interjection of new ideas, thoughts and opinions are needed.
-    3) *Reflection, or silent council* gives each member time and space to reflect on what is occurring, or needs to occur, in the course of a meeting. Silence may be called so that each person can consider the role or impact they are having on the group, or to help the group realign with their intention, or to sit with a question until there is clarity.
- 
+	1) *Talking piece council* is often used as a part of check-in, check-out and whenever there is a desire to slow down the conversation, collect all voices and contributions and be able to speak without interruption.
+	2) *Conversation Council* is often used when reaction, interaction and an interjection of new ideas, thoughts and opinions are needed.
+	3) *Reflection, or silent council* gives each member time and space to reflect on what is occurring, or needs to occur, in the course of a meeting. Silence may be called so that each person can consider the role or impact they are having on the group, or to help the group realign with their intention, or to sit with a question until there is clarity.
+	 
 + Check-out and Farewell - it is important to allow a few minutes for each person to comment on what they learned, or what stays in their heart and mind as they leave. Provides a formal end to the meeting.
 
 ### World Café Method
@@ -72,7 +65,6 @@ Four Principles
 2) “Whenever it starts is the right time” recognizes that spirit and creativity don’t run on the clock, so while we’re here, we’ll all keep a vigilant watch for great ideas and new insights, which can happen at anytime.
 
 3) “Whatever happens is the only thing that could have” allows everyone to let go of the could haves, would haves and should haves, so that we can give our full attention to the reality of what is happening, is working, and is possible right now. 
-   
 4) “When it’s over, it’s over” acknowledges that you never know just how long it’ll take to deal with a given issue, and reminds us that getting the work done is more important than sticking to an arbitrary schedule.
 
 
@@ -80,7 +72,7 @@ The one law is The Law of Two Feet, or in some cases, The Law of Personal Mobili
 
 The facilitator invites anyone who’s ready to come to the center of the cirle, grab a market and a sheet of paper and write down their burning question, passionate issue, or great idea.
 
-"My name is ____, my issue is _____"
+"My name is \_\_\_\_, my issue is \_\_\_\_\_"
 
 They tape their sheet to the wall and assign it a place and a time (from a pre-arranged set of space/time choices).
 
@@ -112,7 +104,6 @@ https://appreciativeinquiry.champlain.edu/learn/appreciative-inquiry-introductio
 1. Define - What is the topic of inquiry? - what the system wants more of. What generative topic do we want to focus on together?
 
 2. Discover - Appreciating the best of 'what is' - Discovery is based on dialogue, as a way of finding 'what works'. 
-   
 3. Dream - Imagining 'what could be' - Imagining uses past achievements, and succeses identified in the discovery phase to imagine new possiblities and envisage a preferred future.
 
 4. Design - Determining 'what should be' - Design brings together the stories from discovery with the imagination and creativity from deam. The best of what is with what might be. To create What should be - the ideal.

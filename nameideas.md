@@ -26,5 +26,3 @@ It's possible.
 Together
 Expanded Altruism
 Altruist Circle.
-
-
