@@ -13,4 +13,4 @@ Edit files as you like.
 ## To Release
 * git add -A
 * git commit -m "message"
-* git push origin master
+* git push origin masterdocsify serve docs

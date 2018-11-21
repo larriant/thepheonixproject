@@ -1,7 +1,6 @@
-# Groups
+# Methodologies for working with groups
 
-## Methods and Practices to Understand (from The Art of Hosting)
-### The Circle Way
+### 1. The Circle Way
 
 https://www.thecircleway.net/
 
@@ -32,7 +31,7 @@ What transforms a meeting into a circle is the willingness of people to shift fr
 	 
 + Check-out and Farewell - it is important to allow a few minutes for each person to comment on what they learned, or what stays in their heart and mind as they leave. Provides a formal end to the meeting.
 
-### World Café Method
+### 2. World Café Method
 
 http://www.theworldcafe.com/key-concepts-resources/world-cafe-method/
 
@@ -50,7 +49,7 @@ Graphic Recording: capturing people's ideas and expressions - in words, images a
 
 http://www.theworldcafe.com/wp-content/uploads/2015/07/Cafe-To-Go-Revised.pdf
 
-### Open Space World
+### 3. Open Space World
 
 http://openspaceworld.org/wp2/
 
@@ -84,11 +83,11 @@ In some events the proceedings are captured by computer. The person convenes a s
 
 In the closing circle, everyone in the room attests to the fact that, together we have done what most thought was impossible.
 
-### Appreciative Inquiry
+### 4. Appreciative Inquiry
 
 https://appreciativeinquiry.champlain.edu/learn/appreciative-inquiry-introduction/
 
-5 Principles:
+#### 5 Principles:
 
 1) Constructionist Principle (words create worlds) - reality as we know it is a subjective vs objective state and is sociall created through language and conversations.
 
@@ -100,7 +99,7 @@ https://appreciativeinquiry.champlain.edu/learn/appreciative-inquiry-introductio
 
 5) Positive Principle (Positive questions lead to positive change) - Momentum for (small or) large scale change requires large amounts of positive affect and social bonding. This momentum is best generated through positive questions that amplify the positive core.
 
-5D Cycle
+#### 5D Cycle
 1. Define - What is the topic of inquiry? - what the system wants more of. What generative topic do we want to focus on together?
 
 2. Discover - Appreciating the best of 'what is' - Discovery is based on dialogue, as a way of finding 'what works'. 

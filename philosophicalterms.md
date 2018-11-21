@@ -1,9 +1,9 @@
 # Philosophical Terms
 
 3 Parts of Metaphysics (what is there and what is it like?):
-Ontology: What exists?
-Epistemology: What is knowledge?
-Cosmology: What is the Cosmos? (the whole)
+* Ontology: What exists?
+* Epistemology: What is knowledge?
+* Cosmology: What is the Cosmos? (the whole)
 
 
 
@@ -16,5 +16,5 @@ Philosophical Relativism: knowledge about is always historically, socially, and 
 Naturalism: idea that only natural as opposed to supernatural or spiritual laws and forces operate in the world.
 
 
-Normative: making claims what is right and wrong. 
-Positive: factual statements that attempt to describe reality. 
+* Normative: making claims what is right and wrong. 
+* Positive: factual statements that attempt to describe reality. 

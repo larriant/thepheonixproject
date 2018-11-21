@@ -1,5 +1,4 @@
 # Places to Post Articles
-
 ## Websites
 * http://lesswrong.com/
 * https://news.ycombinator.com/

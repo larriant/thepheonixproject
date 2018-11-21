@@ -53,16 +53,6 @@
 					<integer>16</integer>
 				</dict>
 			</dict>
-			<key>Places to Post Articles.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>563203550.13509202</real>
-				<key>version</key>
-				<dict>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>5</integer>
-				</dict>
-			</dict>
 			<key>Quotes.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -81,26 +71,6 @@
 				<dict>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>14</integer>
-				</dict>
-			</dict>
-			<key>Related Organisations.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>563203716.15529895</real>
-				<key>version</key>
-				<dict>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>19</integer>
-				</dict>
-			</dict>
-			<key>_sidebar.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>563203550.39521503</real>
-				<key>version</key>
-				<dict>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>15</integer>
 				</dict>
 			</dict>
 			<key>altruismideas.md</key>
@@ -189,6 +159,30 @@
 					<integer>32</integer>
 				</dict>
 			</dict>
+			<key>placestopost.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>564504326.26072705</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>9</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>41</integer>
+				</dict>
+			</dict>
+			<key>relatedorganisations.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>564504306.58546603</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>9</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>39</integer>
+				</dict>
+			</dict>
 			<key>whatisaltruism.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -226,10 +220,10 @@
 			<string>daycourse.md</string>
 		</array>
 		<array>
-			<string>Places to Post Articles.md</string>
+			<string>placestopost.md</string>
 		</array>
 		<array>
-			<string>Related Organisations.md</string>
+			<string>relatedorganisations.md</string>
 		</array>
 		<array>
 			<string>whatisaltruism.md</string>
@@ -264,9 +258,6 @@
 		<array>
 			<string>README.md</string>
 		</array>
-		<array>
-			<string>_sidebar.md</string>
-		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -282,7 +273,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>9</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>33</integer>
+			<integer>42</integer>
 		</dict>
 	</dict>
 </dict>
