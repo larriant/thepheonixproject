@@ -53,22 +53,6 @@
 					<integer>16</integer>
 				</dict>
 			</dict>
-			<key>Name Ideas.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>563204356.38460302</real>
-				<key>lastModification</key>
-				<real>563204356.38460302</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>6</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>23</integer>
-				</dict>
-			</dict>
 			<key>Places to Post Articles.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -171,22 +155,6 @@
 					<integer>28</integer>
 				</dict>
 			</dict>
-			<key>conferences.md.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>563380762.96935594</real>
-				<key>lastModification</key>
-				<real>563380762.96935594</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>7</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>29</integer>
-				</dict>
-			</dict>
 			<key>daycourse.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -207,6 +175,18 @@
 					<integer>5</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>20</integer>
+				</dict>
+			</dict>
+			<key>philosophicalterms.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>564501850.31917095</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>9</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>32</integer>
 				</dict>
 			</dict>
 			<key>whatisaltruism.md</key>
@@ -234,13 +214,10 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>Name Ideas.md</string>
-		</array>
-		<array>
 			<string>nameideas.md</string>
 		</array>
 		<array>
-			<string>conferences.md.md</string>
+			<string>philosophicalterms.md</string>
 		</array>
 		<array>
 			<string>conferences.md</string>
@@ -303,9 +280,9 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-			<integer>7</integer>
+			<integer>9</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>29</integer>
+			<integer>33</integer>
 		</dict>
 	</dict>
 </dict>
