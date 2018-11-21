@@ -28,7 +28,7 @@ What transforms a meeting into a circle is the willingness of people to shift fr
 	1) *Talking piece council* is often used as a part of check-in, check-out and whenever there is a desire to slow down the conversation, collect all voices and contributions and be able to speak without interruption.
 	2) *Conversation Council* is often used when reaction, interaction and an interjection of new ideas, thoughts and opinions are needed.
 	3) *Reflection, or silent council* gives each member time and space to reflect on what is occurring, or needs to occur, in the course of a meeting. Silence may be called so that each person can consider the role or impact they are having on the group, or to help the group realign with their intention, or to sit with a question until there is clarity.
-	 
+	  
 + Check-out and Farewell - it is important to allow a few minutes for each person to comment on what they learned, or what stays in their heart and mind as they leave. Provides a formal end to the meeting.
 
 ### 2. World Café Method

@@ -13,4 +13,7 @@ Edit files as you like.
 ## To Release
 * git add -A
 * git commit -m "message"
-* git push origin masterdocsify serve docs
+* git push origin master
+
+## To run on local
+* docsify serve ./
