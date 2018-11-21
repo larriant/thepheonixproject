@@ -1,7 +1,8 @@
 * [Home](/)
 * General
 	* [Places to Post Articles](placestopost.md)
-	* [Related Organisations](relatedorganisations.md)
+	* [Organisations](organisations.md)
+  * [People](people.md)
 	* [Conferences](conferences.md)
 	* [Quotes](quotes.md)
 * Map Theory

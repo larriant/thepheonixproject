@@ -1,4 +1,7 @@
-# Related Organisations
+# Organisations
+This is a list of organisations related to the values of The Phoenix Project.
+
+
 * [Alter Ego][1]
 * [Edgeryders][2]
 * [Rebel Wisdom][3]

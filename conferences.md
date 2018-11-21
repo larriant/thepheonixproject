@@ -1,5 +1,5 @@
 # Conferences
-This page is for listing upcoming conferences we could go to.
+This page is for listing upcoming conferences related to The Phoenix Projects values.
 
 + [Beyond Convention][1] (July)
 + [Alter Ego][2] (September)

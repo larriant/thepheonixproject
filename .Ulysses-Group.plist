@@ -147,6 +147,18 @@
 					<integer>20</integer>
 				</dict>
 			</dict>
+			<key>organisations.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>564505489.168154</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>9</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>43</integer>
+				</dict>
+			</dict>
 			<key>philosophicalterms.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -169,18 +181,6 @@
 					<integer>9</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>41</integer>
-				</dict>
-			</dict>
-			<key>relatedorganisations.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>564504306.58546603</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>9</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>39</integer>
 				</dict>
 			</dict>
 			<key>whatisaltruism.md</key>
@@ -223,7 +223,7 @@
 			<string>placestopost.md</string>
 		</array>
 		<array>
-			<string>relatedorganisations.md</string>
+			<string>organisations.md</string>
 		</array>
 		<array>
 			<string>whatisaltruism.md</string>
@@ -273,7 +273,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>9</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>42</integer>
+			<integer>44</integer>
 		</dict>
 	</dict>
 </dict>
