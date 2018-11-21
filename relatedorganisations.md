@@ -13,6 +13,12 @@
 * [Lateral Conversations][7]
 * [Future Fossils][8]
 
+# Art
+* [Transmodernity][9] (film)
+
+# Feminism / Gender
+* [Xenofeminism][10]
+
 [1]:	http://alterego.network/
 [2]:	https://edgeryders.eu
 [3]:	https://www.rebelwisdom.co.uk/
@@ -21,3 +27,5 @@
 [6]:	http://www.emerge.is/
 [7]:	http://www.tom-amarque.de/lateralconversations/
 [8]:	https://shows.pippa.io/futurefossils/?fbclid=IwAR0mlkU2S1A7MKGH-6l0i23mN66ADvOS9uoQBzDKRlpaLaxc713lJaTuB1I
+[9]:	https://www.transmodernity.org/
+[10]:	http://www.laboriacuboniks.net/
