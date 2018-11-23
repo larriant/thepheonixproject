@@ -10,7 +10,6 @@ This is a list of organisations related to the values of The Phoenix Project.
 * [Schumacher College][4]
 * [Embercombe][5]
 
-
 # Podcasts
 * [Emerge][6]
 * [Lateral Conversations][7]
@@ -22,6 +21,9 @@ This is a list of organisations related to the values of The Phoenix Project.
 # Feminism / Gender
 * [Xenofeminism][10]
 
+# Berlin
+* [Create Meaning][11]
+
 [1]:	http://alterego.network/
 [2]:	https://edgeryders.eu
 [3]:	https://www.rebelwisdom.co.uk/
@@ -32,3 +34,4 @@ This is a list of organisations related to the values of The Phoenix Project.
 [8]:	https://shows.pippa.io/futurefossils/?fbclid=IwAR0mlkU2S1A7MKGH-6l0i23mN66ADvOS9uoQBzDKRlpaLaxc713lJaTuB1I
 [9]:	https://www.transmodernity.org/
 [10]:	http://www.laboriacuboniks.net/
+[11]:	http://www.createmeaning.com/?fbclid=IwAR1_TYACpW9xVEZX_Fv-brRNZ0mAcRuR-sgZ9MBLi3Fc_TgOOdsEJAuNK3A

@@ -23,6 +23,22 @@
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
+			<key>Conferences.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<false/>
+				<key>firstUnassignment</key>
+				<real>564684704.01544499</real>
+				<key>lastModification</key>
+				<real>564684687.74384296</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>18</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>54</integer>
+				</dict>
+			</dict>
 			<key>Exponential.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -43,6 +59,70 @@
 					<integer>8</integer>
 				</dict>
 			</dict>
+			<key>Organisations.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>564685045.99485695</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>21</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>55</integer>
+				</dict>
+			</dict>
+			<key>People.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>564684439.66900694</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>13</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>50</integer>
+				</dict>
+			</dict>
+			<key>Places to Post Articles.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>564522336.43652904</real>
+				<key>lastModification</key>
+				<real>564522336.43652904</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>13</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>47</integer>
+				</dict>
+			</dict>
+			<key>Places.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>564684545.92526102</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>18</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>53</integer>
+				</dict>
+			</dict>
+			<key>Quotes.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>564616132.18680203</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>13</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>48</integer>
+				</dict>
+			</dict>
 			<key>README.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -51,6 +131,48 @@
 				<dict>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>14</integer>
+				</dict>
+			</dict>
+			<key>Related Organisations.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>564522336.95740104</real>
+				<key>lastModification</key>
+				<real>564522336.95740104</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>13</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>47</integer>
+				</dict>
+			</dict>
+			<key>Untitled.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<false/>
+				<key>firstUnassignment</key>
+				<real>564684466.72492397</real>
+				<key>lastModification</key>
+				<real>564684439.66900206</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>13</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>50</integer>
+				</dict>
+			</dict>
+			<key>_sidebar.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>563203550.39521503</real>
+				<key>version</key>
+				<dict>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>15</integer>
 				</dict>
 			</dict>
 			<key>altruismideas.md</key>
@@ -93,18 +215,6 @@
 					<integer>9</integer>
 				</dict>
 			</dict>
-			<key>conferences.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>563380761.148664</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>6</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>28</integer>
-				</dict>
-			</dict>
 			<key>daycourse.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -139,18 +249,6 @@
 					<integer>20</integer>
 				</dict>
 			</dict>
-			<key>organisations.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>564505489.168154</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>9</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>43</integer>
-				</dict>
-			</dict>
 			<key>philosophicalterms.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -177,6 +275,10 @@
 			</dict>
 			<key>quotes.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<false/>
+				<key>firstUnassignment</key>
+				<real>564685056.94571102</real>
 				<key>lastModification</key>
 				<real>564505884.16993105</real>
 				<key>version</key>
@@ -218,16 +320,22 @@
 			<string>philosophicalterms.md</string>
 		</array>
 		<array>
-			<string>conferences.md</string>
+			<string>Conferences.md</string>
 		</array>
 		<array>
 			<string>daycourse.md</string>
 		</array>
 		<array>
+			<string>Places to Post Articles.md</string>
+		</array>
+		<array>
+			<string>Related Organisations.md</string>
+		</array>
+		<array>
 			<string>placestopost.md</string>
 		</array>
 		<array>
-			<string>organisations.md</string>
+			<string>Organisations.md</string>
 		</array>
 		<array>
 			<string>whatisaltruism.md</string>
@@ -262,6 +370,21 @@
 		<array>
 			<string>README.md</string>
 		</array>
+		<array>
+			<string>Quotes.md</string>
+		</array>
+		<array>
+			<string>_sidebar.md</string>
+		</array>
+		<array>
+			<string>Places.md</string>
+		</array>
+		<array>
+			<string>Untitled.md</string>
+		</array>
+		<array>
+			<string>People.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -275,9 +398,9 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-			<integer>9</integer>
+			<integer>21</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>47</integer>
+			<integer>55</integer>
 		</dict>
 	</dict>
 </dict>
