@@ -25,10 +25,6 @@
 		<dict>
 			<key>Conferences.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<false/>
-				<key>firstUnassignment</key>
-				<real>564684704.01544499</real>
 				<key>lastModification</key>
 				<real>564684687.74384296</real>
 				<key>version</key>
@@ -114,13 +110,13 @@
 			<key>Quotes.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>564616132.18680203</real>
+				<real>564939860.20728004</real>
 				<key>version</key>
 				<dict>
 					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>13</integer>
+					<integer>25</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>48</integer>
+					<integer>64</integer>
 				</dict>
 			</dict>
 			<key>README.md</key>
@@ -152,17 +148,17 @@
 			<key>Untitled.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
-				<false/>
+				<true/>
 				<key>firstUnassignment</key>
-				<real>564684466.72492397</real>
+				<real>564939906.95576298</real>
 				<key>lastModification</key>
-				<real>564684439.66900206</real>
+				<real>564939906.95576298</real>
 				<key>version</key>
 				<dict>
 					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>13</integer>
+					<integer>26</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>50</integer>
+					<integer>64</integer>
 				</dict>
 			</dict>
 			<key>_sidebar.md</key>
@@ -225,6 +221,18 @@
 					<integer>3</integer>
 				</dict>
 			</dict>
+			<key>environment.md.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>564927268.07281995</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>21</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>58</integer>
+				</dict>
+			</dict>
 			<key>groups.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -247,6 +255,18 @@
 					<integer>5</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>20</integer>
+				</dict>
+			</dict>
+			<key>openquestions.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>564939903.53031695</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>25</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>67</integer>
 				</dict>
 			</dict>
 			<key>philosophicalterms.md</key>
@@ -278,7 +298,7 @@
 				<key>explicitUnassignment</key>
 				<false/>
 				<key>firstUnassignment</key>
-				<real>564685056.94571102</real>
+				<real>564939910.82926202</real>
 				<key>lastModification</key>
 				<real>564505884.16993105</real>
 				<key>version</key>
@@ -309,12 +329,27 @@
 					<integer>7</integer>
 				</dict>
 			</dict>
+			<key>worldshatteringideas.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>564932632.47598803</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>23</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>62</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
 		<array>
 			<string>nameideas.md</string>
+		</array>
+		<array>
+			<string>openquestions.md</string>
 		</array>
 		<array>
 			<string>philosophicalterms.md</string>
@@ -377,10 +412,16 @@
 			<string>_sidebar.md</string>
 		</array>
 		<array>
-			<string>Places.md</string>
+			<string>Untitled.md</string>
 		</array>
 		<array>
-			<string>Untitled.md</string>
+			<string>worldshatteringideas.md</string>
+		</array>
+		<array>
+			<string>environment.md.md</string>
+		</array>
+		<array>
+			<string>Places.md</string>
 		</array>
 		<array>
 			<string>People.md</string>
@@ -398,9 +439,9 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-			<integer>21</integer>
+			<integer>27</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>55</integer>
+			<integer>68</integer>
 		</dict>
 	</dict>
 </dict>
