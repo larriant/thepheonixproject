@@ -8,7 +8,7 @@
   * [Philosophical Terms][6]
 * Related 
 	* [Organisations][7]
-	  * [People][8]
+	* [People][8]
 	* [Places][9]
 	* [Conferences][10]
 * Altruism
