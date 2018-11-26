@@ -47,20 +47,20 @@ Here is our list of open questions.
 44. Do we need to overthrow capitalism?
 45. Which bits need to change?
 46. When we learn about maths, what are bringing into reality?
-**47. Can we control progress?**
+47. **Can we control progress?**
 48. How can we inject entropy into society?
 49. Is human language flawed? If so how? What would a ‘perfect’ language do?
 50. Is QM the glitch in the simulation?
 51. What are main streams of altruism?
 52. To what extent should you trust your instincts about people?
 53. To what extent should you have ‘basic’ friends?
-**54. Do you agree with the perennial philosophy?**
+54. **Do you agree with the perennial philosophy?**
 55. Do all thinkers eventually lose the plot?
 56. Is there an objective reality?
 57. Can we get to the bottom of bayesian vs frequentist statistics?
 58. Can we get rid of the mind-body distinction?
 59. Do probabilities exist in the world?
-**60. Does physics need to solve the quantum problem to get to a complete theory of everything?**
+60. **Does physics need to solve the quantum problem to get to a complete theory of everything?**
 61. What’s the deal with utilitarianism?
 62. Realist view of international relations? Accurate?
 63. Who should make decisions: the majority or the wise?
@@ -75,7 +75,7 @@ Here is our list of open questions.
 72. How does it relate to subject-object dichotomy?
 73. What media could best spread meta-modern thinking?
 74. Does understanding the complexity of the universe also add to the complexity of the universe?
-**75. What criteria / values do we use to choose when to use modernism and when to use postmodernism?**
-**76. Same question but with ways of looking / ontologies?**
+75. **What criteria / values do we use to choose when to use modernism and when to use postmodernism?**
+76. **Same question but with ways of looking / ontologies?**
 
 
