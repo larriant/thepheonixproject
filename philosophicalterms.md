@@ -24,7 +24,9 @@ Object-oriented ontology: rejects the human privileging of human existence over 
 
 [Speculative Realism][1]: 
 
-[Transcendental Materialism][2]
+[Transcendental Materialism][2]:
+
+Solipsism: only my own mind is sure to exist.
 
 # Epistemology
 Regress Problem: how can we eventually terminate a logical argument with some statement(s) that do not require further justification but can still be considered rational and justified?
