@@ -12,6 +12,9 @@ This is a list of people related to the values of The Phoenix Project. Potential
 * [Rob Burbea][9] (imaginal spirituality)
 * [Roy Bhaskar][10] (critical realism)
 * [Jürgen Habermas][11] (philosophy / sociology)
+* [Daniel Schmachtenberger][12] (generator functions)
+
+
 
 
 
@@ -27,3 +30,4 @@ This is a list of people related to the values of The Phoenix Project. Potential
 [9]:	http://www.robburbea.com/
 [10]:	https://roybhaskar.wordpress.com/
 [11]:	https://www.goodreads.com/author/show/31386.J_rgen_Habermas?from_search=true
+[12]:	https://civilizationemerging.com

@@ -47,6 +47,22 @@
 					<integer>54</integer>
 				</dict>
 			</dict>
+			<key>Environment.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<false/>
+				<key>firstUnassignment</key>
+				<real>565098393.81763899</real>
+				<key>lastModification</key>
+				<real>565096887.77661204</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>27</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>85</integer>
+				</dict>
+			</dict>
 			<key>Exponential.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -133,10 +149,6 @@
 			</dict>
 			<key>Quotes.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>565009748.03393805</real>
 				<key>lastModification</key>
 				<real>565009748.03393805</real>
 				<key>version</key>
@@ -171,6 +183,22 @@
 					<integer>13</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>47</integer>
+				</dict>
+			</dict>
+			<key>Untitled.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>564939906.95576298</real>
+				<key>lastModification</key>
+				<real>564939906.95576298</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>26</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>64</integer>
 				</dict>
 			</dict>
 			<key>_sidebar.md</key>
@@ -233,16 +261,20 @@
 					<integer>3</integer>
 				</dict>
 			</dict>
-			<key>environment.md</key>
+			<key>environment.md.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>565098385.10442495</real>
 				<key>lastModification</key>
-				<real>565096882.39537203</real>
+				<real>565098385.10442495</real>
 				<key>version</key>
 				<dict>
 					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>27</integer>
+					<integer>29</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>83</integer>
+					<integer>86</integer>
 				</dict>
 			</dict>
 			<key>groups.md</key>
@@ -307,6 +339,10 @@
 			</dict>
 			<key>quotes.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<false/>
+				<key>firstUnassignment</key>
+				<real>565098393.81756198</real>
 				<key>lastModification</key>
 				<real>564505884.16993105</real>
 				<key>version</key>
@@ -426,10 +462,16 @@
 			<string>Alienation.md</string>
 		</array>
 		<array>
+			<string>Untitled.md</string>
+		</array>
+		<array>
 			<string>worldshatteringideas.md</string>
 		</array>
 		<array>
-			<string>environment.md</string>
+			<string>environment.md.md</string>
+		</array>
+		<array>
+			<string>Environment.md</string>
 		</array>
 		<array>
 			<string>Places.md</string>
@@ -450,9 +492,9 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-			<integer>27</integer>
+			<integer>29</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>83</integer>
+			<integer>86</integer>
 		</dict>
 	</dict>
 </dict>
