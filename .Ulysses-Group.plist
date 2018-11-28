@@ -23,6 +23,18 @@
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
+			<key>Alienation.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>565096157.99876702</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>27</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>82</integer>
+				</dict>
+			</dict>
 			<key>Conferences.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -171,18 +183,6 @@
 					<integer>15</integer>
 				</dict>
 			</dict>
-			<key>alienation.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>565056165.22923398</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>27</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>77</integer>
-				</dict>
-			</dict>
 			<key>altruismideas.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -233,16 +233,16 @@
 					<integer>3</integer>
 				</dict>
 			</dict>
-			<key>environment.md.md</key>
+			<key>environment.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>564927268.07281995</real>
+				<real>565096882.39537203</real>
 				<key>version</key>
 				<dict>
 					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>21</integer>
+					<integer>27</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>58</integer>
+					<integer>83</integer>
 				</dict>
 			</dict>
 			<key>groups.md</key>
@@ -423,13 +423,13 @@
 			<string>Inequality.md</string>
 		</array>
 		<array>
-			<string>alienation.md</string>
+			<string>Alienation.md</string>
 		</array>
 		<array>
 			<string>worldshatteringideas.md</string>
 		</array>
 		<array>
-			<string>environment.md.md</string>
+			<string>environment.md</string>
 		</array>
 		<array>
 			<string>Places.md</string>
@@ -452,7 +452,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>27</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>78</integer>
+			<integer>83</integer>
 		</dict>
 	</dict>
 </dict>
