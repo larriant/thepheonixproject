@@ -25,6 +25,7 @@ This is a list of organisations related to the values of The Phoenix Project.
 
 # Berlin
 * [Create Meaning][13]
+* [Co-creation Loft][14]
 
 [1]:	http://alterego.network/
 [2]:	https://edgeryders.eu
@@ -39,3 +40,4 @@ This is a list of organisations related to the values of The Phoenix Project.
 [11]:	https://www.transmodernity.org/
 [12]:	http://www.laboriacuboniks.net/
 [13]:	http://www.createmeaning.com/?fbclid=IwAR1_TYACpW9xVEZX_Fv-brRNZ0mAcRuR-sgZ9MBLi3Fc_TgOOdsEJAuNK3A
+[14]: http://www.cocreationloft.com
