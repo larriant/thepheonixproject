@@ -31,7 +31,7 @@
 [1]:	/
 [2]:	worldshatteringideas.md
 [3]:	inequality.md
-[4]:	alientation.md
+[4]:	alienation.md
 [5]:	environment.md
 [6]:	philosophicalterms.md
 [7]:	organisations.md

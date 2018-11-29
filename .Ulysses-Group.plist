@@ -23,18 +23,6 @@
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
-			<key>Alienation.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>565096157.99876702</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>27</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>82</integer>
-				</dict>
-			</dict>
 			<key>Conferences.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -49,10 +37,6 @@
 			</dict>
 			<key>Environment.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<false/>
-				<key>firstUnassignment</key>
-				<real>565120679.28347099</real>
 				<key>lastModification</key>
 				<real>565096887.77661204</real>
 				<key>version</key>
@@ -107,22 +91,6 @@
 					<integer>50</integer>
 				</dict>
 			</dict>
-			<key>Places to Post Articles.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>564522336.43652904</real>
-				<key>lastModification</key>
-				<real>564522336.43652904</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>13</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>47</integer>
-				</dict>
-			</dict>
 			<key>Places.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -137,6 +105,10 @@
 			</dict>
 			<key>Quotes.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<false/>
+				<key>firstUnassignment</key>
+				<real>565137798.33157897</real>
 				<key>lastModification</key>
 				<real>565009748.03393805</real>
 				<key>version</key>
@@ -155,22 +127,6 @@
 				<dict>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>14</integer>
-				</dict>
-			</dict>
-			<key>Related Organisations.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>564522336.95740104</real>
-				<key>lastModification</key>
-				<real>564522336.95740104</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>13</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>47</integer>
 				</dict>
 			</dict>
 			<key>Untitled.md</key>
@@ -197,6 +153,18 @@
 				<dict>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>15</integer>
+				</dict>
+			</dict>
+			<key>alienation.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>565193674.48828495</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>30</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>88</integer>
 				</dict>
 			</dict>
 			<key>altruismideas.md</key>
@@ -339,10 +307,6 @@
 			</dict>
 			<key>quotes.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<false/>
-				<key>firstUnassignment</key>
-				<real>565120679.28333998</real>
 				<key>lastModification</key>
 				<real>564505884.16993105</real>
 				<key>version</key>
@@ -405,12 +369,6 @@
 			<string>daycourse.md</string>
 		</array>
 		<array>
-			<string>Places to Post Articles.md</string>
-		</array>
-		<array>
-			<string>Related Organisations.md</string>
-		</array>
-		<array>
 			<string>placestopost.md</string>
 		</array>
 		<array>
@@ -459,7 +417,7 @@
 			<string>inequality.md</string>
 		</array>
 		<array>
-			<string>Alienation.md</string>
+			<string>alienation.md</string>
 		</array>
 		<array>
 			<string>Untitled.md</string>
@@ -494,7 +452,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>30</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>87</integer>
+			<integer>88</integer>
 		</dict>
 	</dict>
 </dict>
