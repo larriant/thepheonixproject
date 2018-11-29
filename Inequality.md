@@ -1,6 +1,6 @@
 # Inequality
 
-Need to add some 
+TODO: add stats / data on current inequality of planet.
 
 ## Generator Functions
 r: return to capital

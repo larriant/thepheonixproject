@@ -26,14 +26,14 @@ Object-oriented ontology: rejects the human privileging of human existence over 
 
 [Transcendental Materialism][2]:
 
-Solipsism: only my own mind is sure to exist.
+[Solipsism][3]: only my own mind is sure to exist.
 
 # Epistemology
 Regress Problem: how can we eventually terminate a logical argument with some statement(s) that do not require further justification but can still be considered rational and justified?
 
-Foundationalism: certain "foundations" or "basic beliefs" support other beliefs but do not themselves require justification from other beliefs.
+[Foundationalism][4]: certain "foundations" or "basic beliefs" support other beliefs but do not themselves require justification from other beliefs.
 
-Coherentism: an individual belief is justified circularly by the way it fits together (coheres) with the rest of the belief system
+[Coherentism][5]: an individual belief is justified circularly by the way it fits together (coheres) with the rest of the belief system
 
 # Free Will
 Determinism: all events are ‘determined’ by previously existing courses.
@@ -48,3 +48,6 @@ Constructivism: The idea that humans construct or create their own realities.
 
 [1]:	https://www.wikiwand.com/en/Speculative_Realism
 [2]:	https://www.wikiwand.com/en/Iain_Hamilton_Grant
+[3]:	https://www.wikiwand.com/en/Solipsism
+[4]:	https://www.wikiwand.com/en/Foundationalism
+[5]:	https://www.wikiwand.com/en/Coherentism

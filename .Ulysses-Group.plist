@@ -52,7 +52,7 @@
 				<key>explicitUnassignment</key>
 				<false/>
 				<key>firstUnassignment</key>
-				<real>565098393.81763899</real>
+				<real>565120679.28347099</real>
 				<key>lastModification</key>
 				<real>565096887.77661204</real>
 				<key>version</key>
@@ -81,18 +81,6 @@
 				<dict>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>8</integer>
-				</dict>
-			</dict>
-			<key>Inequality.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>565055738.46426904</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>27</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>74</integer>
 				</dict>
 			</dict>
 			<key>Organisations.md</key>
@@ -289,6 +277,18 @@
 					<integer>46</integer>
 				</dict>
 			</dict>
+			<key>inequality.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>565120679.28574598</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>30</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>87</integer>
+				</dict>
+			</dict>
 			<key>nameideas.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -342,7 +342,7 @@
 				<key>explicitUnassignment</key>
 				<false/>
 				<key>firstUnassignment</key>
-				<real>565098393.81756198</real>
+				<real>565120679.28333998</real>
 				<key>lastModification</key>
 				<real>564505884.16993105</real>
 				<key>version</key>
@@ -456,7 +456,7 @@
 			<string>_sidebar.md</string>
 		</array>
 		<array>
-			<string>Inequality.md</string>
+			<string>inequality.md</string>
 		</array>
 		<array>
 			<string>Alienation.md</string>
@@ -492,9 +492,9 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-			<integer>29</integer>
+			<integer>30</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>86</integer>
+			<integer>87</integer>
 		</dict>
 	</dict>
 </dict>
