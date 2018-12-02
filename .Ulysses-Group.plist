@@ -37,6 +37,10 @@
 			</dict>
 			<key>Environment.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<false/>
+				<key>firstUnassignment</key>
+				<real>565209797.77654195</real>
 				<key>lastModification</key>
 				<real>565096887.77661204</real>
 				<key>version</key>
@@ -65,6 +69,22 @@
 				<dict>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>8</integer>
+				</dict>
+			</dict>
+			<key>Inequality.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<false/>
+				<key>firstUnassignment</key>
+				<real>565209797.77639997</real>
+				<key>lastModification</key>
+				<real>565194905.76530194</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>30</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>89</integer>
 				</dict>
 			</dict>
 			<key>Organisations.md</key>
@@ -105,10 +125,6 @@
 			</dict>
 			<key>Quotes.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<false/>
-				<key>firstUnassignment</key>
-				<real>565137798.33157897</real>
 				<key>lastModification</key>
 				<real>565009748.03393805</real>
 				<key>version</key>
@@ -157,6 +173,10 @@
 			</dict>
 			<key>alienation.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<false/>
+				<key>firstUnassignment</key>
+				<real>565209797.77642798</real>
 				<key>lastModification</key>
 				<real>565193674.48828495</real>
 				<key>version</key>
@@ -245,18 +265,6 @@
 					<integer>46</integer>
 				</dict>
 			</dict>
-			<key>inequality.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>565120679.28574598</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>30</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>87</integer>
-				</dict>
-			</dict>
 			<key>nameideas.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -307,6 +315,10 @@
 			</dict>
 			<key>quotes.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<false/>
+				<key>firstUnassignment</key>
+				<real>565209797.77627099</real>
 				<key>lastModification</key>
 				<real>564505884.16993105</real>
 				<key>version</key>
@@ -414,7 +426,7 @@
 			<string>_sidebar.md</string>
 		</array>
 		<array>
-			<string>inequality.md</string>
+			<string>Inequality.md</string>
 		</array>
 		<array>
 			<string>alienation.md</string>
@@ -450,9 +462,9 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-			<integer>30</integer>
+			<integer>31</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>88</integer>
+			<integer>89</integer>
 		</dict>
 	</dict>
 </dict>

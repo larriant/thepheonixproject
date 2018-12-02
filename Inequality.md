@@ -13,3 +13,6 @@ When r \> g: wealth tends to accumulate more quickly from capital than labour.
 + Progressive Income Tax
 
 But Piketty argues these policies are politically impossible. Largely because of the relationship between wealth and the democratic process.
+
+## References
+1. Capital in the Twenty First Century by Thomas Piketty
