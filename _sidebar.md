@@ -20,20 +20,20 @@
 	* [People][16]
 	* [Places][17]
 	* [Conferences][18]
-* Altruism
-	* [What is Altruism?][19]
-	* [Why Altruism?][20]
-	* [Altruism Streams][21]
-	* [Day Course][22]
-	* [Altruism Ideas][23]
-	* [Altruism Links][24]
-	* [Altruism Science][25]
-	* [Feedback][26]
-	* [Exponential][27]
 * Other
-	* [Places to Post Articles][28]
-	* [Quotes][29]
-	* [Open Questions][30]
+	* [Places to Post Articles][19]
+	* [Quotes][20]
+	* [Open Questions][21]
+* Altruism
+	* [What is Altruism?][22]
+	* [Why Altruism?][23]
+	* [Altruism Streams][24]
+	* [Day Course][25]
+	* [Altruism Ideas][26]
+	* [Altruism Links][27]
+	* [Altruism Science][28]
+	* [Feedback][29]
+	* [Exponential][30]
 
 [1]:	/
 [2]:	worldshatteringideas.md
@@ -53,15 +53,15 @@
 [16]:	people.md
 [17]:	places.md
 [18]:	conferences.md
-[19]:	whatisaltruism.md
-[20]:	whyaltruism.md
-[21]:	altruismstreams.md
-[22]:	daycourse.md
-[23]:	altruismideas.md
-[24]:	altruismlinks.md
-[25]:	altruismscience.md
-[26]:	feedback.md
-[27]:	exponential.md
-[28]:	placestopost.md
-[29]:	quotes.md
-[30]:	openquestions.md
+[19]:	placestopost.md
+[20]:	quotes.md
+[21]:	openquestions.md
+[22]:	whatisaltruism.md
+[23]:	whyaltruism.md
+[24]:	altruismstreams.md
+[25]:	daycourse.md
+[26]:	altruismideas.md
+[27]:	altruismlinks.md
+[28]:	altruismscience.md
+[29]:	feedback.md
+[30]:	exponential.md
