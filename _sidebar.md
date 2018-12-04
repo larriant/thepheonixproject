@@ -10,17 +10,17 @@
 	* [Metarationality][8]
 	* [Ways of Seeing][9]
 	* [Metaphysics][10]
+	* [Organisational Design][11]
 * Communication
-	* [Groups][11]
-	* [Non Violent Communication][12]
-	* [Authentic Relating][13]
+	* [Groups][12]
+	* [Non Violent Communication][13]
+	* [Authentic Relating][14]
 * Related 
-	* [Organisations][14]
-	* [People][15]
-	* [Places][16]
-	* [Conferences][17]
+	* [Organisations][15]
+	* [People][16]
+	* [Places][17]
+	* [Conferences][18]
 * Altruism
-	* [Name Ideas][18]
 	* [What is Altruism?][19]
 	* [Why Altruism?][20]
 	* [Altruism Streams][21]
@@ -45,14 +45,14 @@
 [8]:	metarationality.md
 [9]:	waysofseeing.md
 [10]:	metaphysics.md
-[11]:	groups.md
-[12]:	nonviolentcommunication.md
-[13]:	authenticrelating.md
-[14]:	organisations.md
-[15]:	people.md
-[16]:	places.md
-[17]:	conferences.md
-[18]:	nameideas.md
+[11]:	organisationaldesign.md
+[12]:	groups.md
+[13]:	nonviolentcommunication.md
+[14]:	authenticrelating.md
+[15]:	organisations.md
+[16]:	people.md
+[17]:	places.md
+[18]:	conferences.md
 [19]:	whatisaltruism.md
 [20]:	whyaltruism.md
 [21]:	altruismstreams.md

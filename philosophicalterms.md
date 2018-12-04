@@ -1,9 +1,9 @@
 # Philosophical Terms
-
 3 Parts of Metaphysics (what is there and what is it like?):
 * Ontology: What exists?
 * Epistemology: What is knowledge?
 * Cosmology: What is the cosmos? (the whole)
+
 
 Philosophical Realism: view that objects exist in reality independent of our conceptual scheme. (the world is mind independent)
 

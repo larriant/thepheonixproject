@@ -16,7 +16,18 @@ Boundaries crossed are in bold.
 8. Atmospheric Aerosols
 9. Chemical Pollution 
 
+## Data
+* The population of wild animals on Earth has halved since 1970.
+* Humans have provoked the worst spate of extinctions since the dinosaurs were wiped out 65 million years ago.
+* Just 100 companies responsible for 71% of global emissions.
 
 ## Generator Functions
 + Growth Based Economy
 + Resource Based Economy
+
+## References
+1. [https://www.theguardian.com/environment/2018/oct/30/humanity-wiped-out-animals-since-1970-major-report-finds][1]
+2. [https://www.theguardian.com/sustainable-business/2017/jul/10/100-fossil-fuel-companies-investors-responsible-71-global-emissions-cdp-study-climate-change][2]
+
+[1]:	https://www.theguardian.com/environment/2018/oct/30/humanity-wiped-out-animals-since-1970-major-report-finds
+[2]:	https://www.theguardian.com/sustainable-business/2017/jul/10/100-fossil-fuel-companies-investors-responsible-71-global-emissions-cdp-study-climate-change
