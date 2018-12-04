@@ -10,6 +10,12 @@ NVC suggests that we should try and listen for the underlying feelings, needs an
 
 
 ## How to Express Honestly
+
+* Observe something. 
+* Explain how it makes you feel. 
+* Explain what you need. 
+* Request concrete actions.
+
 ### 1. Express an observation. (specific to time and content) Don’t generalise.
 **Don’t say**: You never listen to me. **Say**: You didn’t seem to be listening to me when I was telling you about my troubles at work.
 

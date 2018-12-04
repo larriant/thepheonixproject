@@ -203,6 +203,18 @@
 					<integer>9</integer>
 				</dict>
 			</dict>
+			<key>authenticrelating.md.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>565618907.57755005</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>31</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>96</integer>
+				</dict>
+			</dict>
 			<key>daycourse.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -413,6 +425,9 @@
 			<string>nonviolentcommunication.md</string>
 		</array>
 		<array>
+			<string>authenticrelating.md.md</string>
+		</array>
+		<array>
 			<string>Inequality.md</string>
 		</array>
 		<array>
@@ -448,7 +463,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>31</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>93</integer>
+			<integer>97</integer>
 		</dict>
 	</dict>
 </dict>
