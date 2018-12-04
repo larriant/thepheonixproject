@@ -103,18 +103,6 @@
 					<integer>104</integer>
 				</dict>
 			</dict>
-			<key>Metarationality.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>565624215.98338306</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>37</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>120</integer>
-				</dict>
-			</dict>
 			<key>Organisations.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -153,6 +141,10 @@
 			</dict>
 			<key>Quotes.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<false/>
+				<key>firstUnassignment</key>
+				<real>565624293.29001796</real>
 				<key>lastModification</key>
 				<real>565009748.03393805</real>
 				<key>version</key>
@@ -317,6 +309,18 @@
 					<integer>112</integer>
 				</dict>
 			</dict>
+			<key>metarationality.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>565625875.73148096</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>39</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>125</integer>
+				</dict>
+			</dict>
 			<key>nameideas.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -391,10 +395,6 @@
 			</dict>
 			<key>quotes.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<false/>
-				<key>firstUnassignment</key>
-				<real>565624282.31843901</real>
 				<key>lastModification</key>
 				<real>564505884.16993105</real>
 				<key>version</key>
@@ -517,7 +517,7 @@
 			<string>metamodernism.md</string>
 		</array>
 		<array>
-			<string>Metarationality.md</string>
+			<string>metarationality.md</string>
 		</array>
 		<array>
 			<string>Untitled.md</string>
@@ -576,7 +576,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>39</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>124</integer>
+			<integer>125</integer>
 		</dict>
 	</dict>
 </dict>
