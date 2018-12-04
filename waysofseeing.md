@@ -4,6 +4,8 @@ TODO: add more key ideas from Burbea’s Ways of Seeing?
 
 * [The Three Characteristics of Buddhism][1] are ‘ways of looking’ that reduce suffering rather than being truth claims about how the world is.
 * We are always using a ‘way of looking’. It is stupid to talk about “being with the world ‘as it is’“.
+* We can see meditation as a form of experimenting with ways of looking. What happens if I look in this way?
+* Maybe there are other ways of looking (such as Burbea’s Imaginal approach) that fabricate better realities rather than just deconstructing.
 
 ## Burbea’s Dharma Talks
 * [Ikon and Idos][2]
