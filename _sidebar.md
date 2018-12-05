@@ -24,16 +24,17 @@
 	* [Places to Post Articles][19]
 	* [Quotes][20]
 	* [Open Questions][21]
+	* [Metamodern Art][22]
 * Altruism
-	* [What is Altruism?][22]
-	* [Why Altruism?][23]
-	* [Altruism Streams][24]
-	* [Day Course][25]
-	* [Altruism Ideas][26]
-	* [Altruism Links][27]
-	* [Altruism Science][28]
-	* [Feedback][29]
-	* [Exponential][30]
+	* [What is Altruism?][23]
+	* [Why Altruism?][24]
+	* [Altruism Streams][25]
+	* [Day Course][26]
+	* [Altruism Ideas][27]
+	* [Altruism Links][28]
+	* [Altruism Science][29]
+	* [Feedback][30]
+	* [Exponential][31]
 
 [1]:	/
 [2]:	worldshatteringideas.md
@@ -56,12 +57,13 @@
 [19]:	placestopost.md
 [20]:	quotes.md
 [21]:	openquestions.md
-[22]:	whatisaltruism.md
-[23]:	whyaltruism.md
-[24]:	altruismstreams.md
-[25]:	daycourse.md
-[26]:	altruismideas.md
-[27]:	altruismlinks.md
-[28]:	altruismscience.md
-[29]:	feedback.md
-[30]:	exponential.md
+[22]:	metamodernart.md
+[23]:	whatisaltruism.md
+[24]:	whyaltruism.md
+[25]:	altruismstreams.md
+[26]:	daycourse.md
+[27]:	altruismideas.md
+[28]:	altruismlinks.md
+[29]:	altruismscience.md
+[30]:	feedback.md
+[31]:	exponential.md
