@@ -12,21 +12,23 @@
 	* [Metaphysics][10]
 	* [Organisational Design][11]
 	* [Contribution][12]
+* Related Ideas
+	* [Deep Ecology][13]
 * Communication
-	* [Groups][13]
-	* [Non Violent Communication][14]
-	* [Authentic Relating][15]
+	* [Groups][14]
+	* [Non Violent Communication][15]
+	* [Authentic Relating][16]
 * Related 
-	* [Organisations][16]
-	* [People][17]
-	* [Places][18]
-	* [Conferences][19]
+	* [Organisations][17]
+	* [People][18]
+	* [Places][19]
+	* [Conferences][20]
 * Other
-	* [Places to Post Articles][20]
-	* [Quotes][21]
-	* [Open Questions][22]
-	* [Metamodern Art][23]
-	* [Feedback][24]
+	* [Places to Post Articles][21]
+	* [Quotes][22]
+	* [Open Questions][23]
+	* [Metamodern Art][24]
+	* [Feedback][25]
 
 [1]:	/
 [2]:	worldshatteringideas.md
@@ -40,15 +42,16 @@
 [10]:	metaphysics.md
 [11]:	organisationaldesign.md
 [12]:	contribution.md
-[13]:	groups.md
-[14]:	nonviolentcommunication.md
-[15]:	authenticrelating.md
-[16]:	organisations.md
-[17]:	people.md
-[18]:	places.md
-[19]:	conferences.md
-[20]:	placestopost.md
-[21]:	quotes.md
-[22]:	openquestions.md
-[23]:	metamodernart.md
-[24]:	feedback.md
+[13]:	deepecology.md
+[14]:	groups.md
+[15]:	nonviolentcommunication.md
+[16]:	authenticrelating.md
+[17]:	organisations.md
+[18]:	people.md
+[19]:	places.md
+[20]:	conferences.md
+[21]:	placestopost.md
+[22]:	quotes.md
+[23]:	openquestions.md
+[24]:	metamodernart.md
+[25]:	feedback.md

@@ -77,5 +77,6 @@ Here is our list of open questions.
 74. Does understanding the complexity of the universe also add to the complexity of the universe?
 75. **What criteria / values do we use to choose when to use modernism and when to use postmodernism?**
 76. **Same question but with ways of looking / ontologies?**
-
+77. How can we have better conversations with people stuck in one map?
+78. What does it mean to follow our values?
 

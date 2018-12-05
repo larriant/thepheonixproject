@@ -7,6 +7,9 @@ TODO: add more key ideas from Burbea’s Ways of Seeing?
 * We can see meditation as a form of experimenting with ways of looking. What happens if I look in this way?
 * Maybe there are other ways of looking (such as Burbea’s Imaginal approach) that fabricate better realities rather than just deconstructing.
 
+## Spiritual Bypassing
+"Spiritual bypassing" is a term first coined by psychotherapist John Welwood to describe how people frequently use their beliefs in spiritual transcendence to bypass their own serious emotional and relationship issues.  
+
 ## Burbea’s Dharma Talks
 * [Ikon and Idos][2]
 * [What is Awakening?][3]
