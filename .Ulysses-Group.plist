@@ -47,6 +47,18 @@
 					<integer>54</integer>
 				</dict>
 			</dict>
+			<key>Contribution.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>565709158.00666595</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>41</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>144</integer>
+				</dict>
+			</dict>
 			<key>Environment.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -113,6 +125,22 @@
 					<integer>31</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>104</integer>
+				</dict>
+			</dict>
+			<key>Metarationality - 2.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>565709174.72384298</real>
+				<key>lastModification</key>
+				<real>565709174.72384298</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>41</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>148</integer>
 				</dict>
 			</dict>
 			<key>Metarationality.md</key>
@@ -217,42 +245,66 @@
 			</dict>
 			<key>altruismideas.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>565709161.56118405</real>
 				<key>lastModification</key>
-				<real>563203550.26510799</real>
+				<real>565709161.56118405</real>
 				<key>version</key>
 				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>41</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>11</integer>
+					<integer>145</integer>
 				</dict>
 			</dict>
 			<key>altruismlinks.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>565709142.88890195</real>
 				<key>lastModification</key>
-				<real>563203550.255288</real>
+				<real>565709142.88890195</real>
 				<key>version</key>
 				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>41</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>10</integer>
+					<integer>143</integer>
 				</dict>
 			</dict>
 			<key>altruismscience.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>565709039.78110695</real>
 				<key>lastModification</key>
-				<real>563203550.30653906</real>
+				<real>565709039.78110695</real>
 				<key>version</key>
 				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>41</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>12</integer>
+					<integer>138</integer>
 				</dict>
 			</dict>
 			<key>altruismstreams.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>565709091.00742304</real>
 				<key>lastModification</key>
-				<real>563203550.20474994</real>
+				<real>565709091.00742304</real>
 				<key>version</key>
 				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>41</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>9</integer>
+					<integer>139</integer>
 				</dict>
 			</dict>
 			<key>authenticrelating.md</key>
@@ -269,12 +321,18 @@
 			</dict>
 			<key>daycourse.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>565709189.62189603</real>
 				<key>lastModification</key>
-				<real>563203550.05896199</real>
+				<real>565709189.62189603</real>
 				<key>version</key>
 				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>41</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>3</integer>
+					<integer>149</integer>
 				</dict>
 			</dict>
 			<key>groups.md</key>
@@ -399,22 +457,34 @@
 			</dict>
 			<key>whatisaltruism.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>565709207.10157597</real>
 				<key>lastModification</key>
-				<real>563203550.13018894</real>
+				<real>565709207.10157597</real>
 				<key>version</key>
 				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>41</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>4</integer>
+					<integer>150</integer>
 				</dict>
 			</dict>
 			<key>whyaltruism.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>565709119.60953498</real>
 				<key>lastModification</key>
-				<real>563203550.17581105</real>
+				<real>565709119.60953498</real>
 				<key>version</key>
 				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>41</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>7</integer>
+					<integer>141</integer>
 				</dict>
 			</dict>
 			<key>worldshatteringideas.md</key>
@@ -494,6 +564,9 @@
 			<string>_sidebar.md</string>
 		</array>
 		<array>
+			<string>Contribution.md</string>
+		</array>
+		<array>
 			<string>metamodernart.md</string>
 		</array>
 		<array>
@@ -501,6 +574,9 @@
 		</array>
 		<array>
 			<string>Metarationality.md</string>
+		</array>
+		<array>
+			<string>Metarationality - 2.md</string>
 		</array>
 		<array>
 			<string>waysofseeing.md</string>
@@ -553,7 +629,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>41</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>131</integer>
+			<integer>150</integer>
 		</dict>
 	</dict>
 </dict>
