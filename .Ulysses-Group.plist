@@ -47,18 +47,6 @@
 					<integer>54</integer>
 				</dict>
 			</dict>
-			<key>Contribution.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>565709158.00666595</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>41</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>144</integer>
-				</dict>
-			</dict>
 			<key>Environment.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -73,12 +61,18 @@
 			</dict>
 			<key>Exponential.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>565709280.140674</real>
 				<key>lastModification</key>
-				<real>563203550.15780795</real>
+				<real>565709280.140674</real>
 				<key>version</key>
 				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>41</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>6</integer>
+					<integer>152</integer>
 				</dict>
 			</dict>
 			<key>Feedback.md</key>
@@ -317,6 +311,18 @@
 					<integer>31</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>98</integer>
+				</dict>
+			</dict>
+			<key>contribution.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>565709279.65181303</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>41</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>151</integer>
 				</dict>
 			</dict>
 			<key>daycourse.md</key>
@@ -564,7 +570,7 @@
 			<string>_sidebar.md</string>
 		</array>
 		<array>
-			<string>Contribution.md</string>
+			<string>contribution.md</string>
 		</array>
 		<array>
 			<string>metamodernart.md</string>
@@ -629,7 +635,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>41</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>150</integer>
+			<integer>152</integer>
 		</dict>
 	</dict>
 </dict>

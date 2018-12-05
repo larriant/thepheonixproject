@@ -117,3 +117,5 @@ Then either:
 * End with socialising (cannabis, beers?) and group flow activities like IGO + Group Art + Group Improv.
 
 Altruists referred to as "light-workers" or the general heart-set as one of "STO: service to others" (as opposed to dark-workers or service to self).
+
+Small-world network means that if you create a positive ripple that goes 6 degrees out, you hit pretty much everyone, no :)?

@@ -26,16 +26,7 @@
 	* [Quotes][21]
 	* [Open Questions][22]
 	* [Metamodern Art][23]
-* Altruism
-	* [What is Altruism?][24]
-	* [Why Altruism?][25]
-	* [Altruism Streams][26]
-	* [Day Course][27]
-	* [Altruism Ideas][28]
-	* [Altruism Links][29]
-	* [Altruism Science][30]
-	* [Feedback][31]
-	* [Exponential][32]
+	* [Feedback][24]
 
 [1]:	/
 [2]:	worldshatteringideas.md
@@ -60,12 +51,4 @@
 [21]:	quotes.md
 [22]:	openquestions.md
 [23]:	metamodernart.md
-[24]:	whatisaltruism.md
-[25]:	whyaltruism.md
-[26]:	altruismstreams.md
-[27]:	daycourse.md
-[28]:	altruismideas.md
-[29]:	altruismlinks.md
-[30]:	altruismscience.md
-[31]:	feedback.md
-[32]:	exponential.md
+[24]:	feedback.md

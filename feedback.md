@@ -1,12 +1,9 @@
 # Feedback
-
-This doc contains feedback from our Exponential Altruism post.
-
+This doc contains feedback from our work and our responses / thoughts.
 
 > "To what extent are the ideas here new and original?"
 
 Well nothing is really new and original.
-
 
 > "With regards to example projects, how many of these do you think already happen. e.g. in Bristol or Brighton"
 
