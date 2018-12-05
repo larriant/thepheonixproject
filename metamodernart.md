@@ -11,6 +11,18 @@
 ## Poetry
 + Seth Abramson ([Metamericanana][8])
 
+## Music
++ Arcade Fire
++ LCD Soundsystem
+
+## Film
++ Michel Gondry
++ Wes Anderson
++ Spike Jonze
+
+## Performance Art
++ Marina Abramovich
+
 [1]:	https://www.goodreads.com/book/show/63033.The_Savage_Detectives
 [2]:	https://www.goodreads.com/book/show/4952.What_Is_the_What
 [3]:	https://www.goodreads.com/author/show/2578.Jonathan_Franzen?from_search=true
