@@ -16,6 +16,7 @@ This is a list of people related to the values of The Phoenix Project. Potential
 * [Tomas Bjorkman][14] (funding metamodernism, The World We‘re Creating)
 * [Jeremy Lent][15] (the patterning instinct)
 * [Brent Cooper][16] (abs-tract organisation)
+* [Richard D. Bartlett][17] (enspiral / occupy / neo-tribalism)
 
 
 
@@ -39,3 +40,4 @@ This is a list of people related to the values of The Phoenix Project. Potential
 [14]:	http://www.tomas-bjorkman.com/
 [15]:	https://www.jeremylent.com/
 [16]:	https://medium.com/the-abs-tract-organization
+[17]:	http://richdecibels.com/

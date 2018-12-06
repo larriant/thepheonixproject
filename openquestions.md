@@ -70,7 +70,7 @@ Here is our list of open questions.
 67. How would you explain meta-rationality to your grandma?
 68. What is the role of discipline? Do we need it?
 69. What is Gaia? Is it a good way to look at the world?
-70. How can meta-rationality (a la chapman) complement meta-modernism? a la hanzi
+70. How can meta-rationality (a la chapman) complement meta-modernism? a la hanzi?
 71. How do we move beyond the map-territory metaphor?
 72. How does it relate to subject-object dichotomy?
 73. What media could best spread meta-modern thinking?
@@ -79,4 +79,5 @@ Here is our list of open questions.
 76. **Same question but with ways of looking / ontologies?**
 77. How can we have better conversations with people stuck in one map?
 78. What does it mean to follow our values?
+79. Where 
 
