@@ -22,6 +22,7 @@
 
 ## Performance Art
 + Marina Abramovich
++ Shia LaBeouf
 
 [1]:	https://www.goodreads.com/book/show/63033.The_Savage_Detectives
 [2]:	https://www.goodreads.com/book/show/4952.What_Is_the_What

@@ -187,14 +187,18 @@
 			</dict>
 			<key>Quotes.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>565877881.78898394</real>
 				<key>lastModification</key>
-				<real>565009748.03393805</real>
+				<real>565877881.78898394</real>
 				<key>version</key>
 				<dict>
 					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>27</integer>
+					<integer>50</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>69</integer>
+					<integer>157</integer>
 				</dict>
 			</dict>
 			<key>README.md</key>
@@ -231,22 +235,6 @@
 				<dict>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>15</integer>
-				</dict>
-			</dict>
-			<key>alienation.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<false/>
-				<key>firstUnassignment</key>
-				<real>565209797.77642798</real>
-				<key>lastModification</key>
-				<real>565193674.48828495</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>30</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>88</integer>
 				</dict>
 			</dict>
 			<key>altruismideas.md</key>
@@ -463,10 +451,6 @@
 			</dict>
 			<key>quotes.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<false/>
-				<key>firstUnassignment</key>
-				<real>565724186.56877697</real>
 				<key>lastModification</key>
 				<real>564505884.16993105</real>
 				<key>version</key>
@@ -640,9 +624,6 @@
 			<string>Alienation.md</string>
 		</array>
 		<array>
-			<string>alienation.md</string>
-		</array>
-		<array>
 			<string>worldshatteringideas.md</string>
 		</array>
 		<array>
@@ -669,7 +650,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>50</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>156</integer>
+			<integer>157</integer>
 		</dict>
 	</dict>
 </dict>
