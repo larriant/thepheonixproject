@@ -8,3 +8,4 @@ The Deep Ecology platform states: 
 + The ideological change is mainly that of appreciating life quality (dwelling in situations of inherent value) rather than adhering to an increasingly higher (materialistic) standard of living.  
 
 
+Contrasts with anthropocentric environmentalism (which is concerned with conservation of the environment only for exploitation by and for human purposes)
