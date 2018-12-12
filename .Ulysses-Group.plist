@@ -211,22 +211,6 @@
 					<integer>14</integer>
 				</dict>
 			</dict>
-			<key>Untitled.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>565624269.790609</real>
-				<key>lastModification</key>
-				<real>565624269.790609</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>39</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>124</integer>
-				</dict>
-			</dict>
 			<key>_sidebar.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -461,6 +445,18 @@
 					<integer>47</integer>
 				</dict>
 			</dict>
+			<key>streetepistemology.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>566308941.146047</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>50</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>160</integer>
+				</dict>
+			</dict>
 			<key>waysofseeing.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -523,6 +519,9 @@
 	<array>
 		<array>
 			<string>nameideas.md</string>
+		</array>
+		<array>
+			<string>streetepistemology.md</string>
 		</array>
 		<array>
 			<string>openquestions.md</string>
@@ -600,9 +599,6 @@
 			<string>Metarationality - 2.md</string>
 		</array>
 		<array>
-			<string>Untitled.md</string>
-		</array>
-		<array>
 			<string>waysofseeing.md</string>
 		</array>
 		<array>
@@ -650,7 +646,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>50</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>157</integer>
+			<integer>161</integer>
 		</dict>
 	</dict>
 </dict>
