@@ -35,6 +35,17 @@ Regress Problem: how can we eventually terminate a logical argument with some st
 
 [Coherentism][5]: an individual belief is justified circularly by the way it fits together (coheres) with the rest of the belief system
 
+Rationalism:
+
+Empiricism:
+
+Pragmatism: The truth is what is practically applicable in the world.
+
+Analytic proposition: a proposition whose predicate concept is contained in its subject concept; e.g., "All bachelors are unmarried," 
+
+Synthetic proposition: a proposition whose predicate concept is not contained in its subject concept; e.g., "All bachelors are alone," or, "All bodies have weight."
+
+
 # Free Will
 Determinism: all events are ‘determined’ by previously existing courses.
 
@@ -45,6 +56,15 @@ Ecumenical: aimed at achieving unity of the religion. Inter-denominational
 
 # Psychology
 Constructivism: The idea that humans construct or create their own realities. 
+
+
+
+The analytic – synthetic distinction: Analytic statements can be proven true by analyzing their terms (they are tautological), meanwhile synthetic statements cannot be proven true by analyzing their terms.
+
+The necessary – contingent distinction: Necessary statements are necessarily true in all cases, meanwhile contingent statements depend on more information (they are conditional).
+
+The a priori – a posteriori distinction: A priori statements do not rely upon direct experience (they are rationalized), meanwhile a posteriori statements do rely on direct experience (they are empirical).
+
 
 [1]:	https://www.wikiwand.com/en/Speculative_Realism
 [2]:	https://www.wikiwand.com/en/Iain_Hamilton_Grant

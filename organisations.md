@@ -4,7 +4,7 @@ This is a list of organisations related to the values of The Phoenix Project.
 * [Alter Ego][1]
 * [Edgeryders][2]
 * [Rebel Wisdom][3]
-* [Perpectiva][4]
+* [Perspectiva][4]
 * [Liology][5]
 
 # Centers
@@ -31,6 +31,9 @@ This is a list of organisations related to the values of The Phoenix Project.
 # Social Enterprise
 * [Enspiral][17] (decentralised accelerator)
 
+# Groups
+* Rally Point Alpha ([Reddit][18], [Facebook][19], [Medium][20], [Another Medium][21])
+
 [1]:	http://alterego.network/
 [2]:	https://edgeryders.eu
 [3]:	https://www.rebelwisdom.co.uk/
@@ -48,3 +51,7 @@ This is a list of organisations related to the values of The Phoenix Project.
 [15]:	http://www.cocreationloft.com
 [16]:	https://berlin.socialimpactlab.eu/community/
 [17]:	https://enspiral.com/
+[18]:	https://www.reddit.com/r/Rally_Point_Bravo/
+[19]:	https://www.facebook.com/groups/625210141012983/
+[20]:	https://medium.com/rally-point-journal
+[21]:	https://medium.com/rally-point-perspectives?fbclid=IwAR12AlD4BbRW_z9MpYI6sf7VTcZMzIVxRpOiYIFaur9GPEhrKeZw0Y2M2qM

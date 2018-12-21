@@ -4,17 +4,20 @@ TODO: add key things from Reinventing Organisations book.
 
 ## Technology
 
-+ https://holochain.org/
-+ https://daostack.io/
-+ 
++ [Holochain][1]
++ [Dao-stack][2]
 
 ## References
-1. [Reinventing Organisations][1] by Frederic Laloux
-2. [https://medium.com/enspiral-tales/the-vibes-theory-of-organisational-design-937a73f791cd][2]
+1. [Reinventing Organisations][3] by Frederic Laloux
+2. [https://medium.com/enspiral-tales/the-vibes-theory-of-organisational-design-937a73f791cd][4]
 3. https://social-labs.org/slr/
-4. http://tonyasurman.commons.ca/wp-content/uploads/sites/3/Surman_2006_Constellation-Governance-Model_CSI.pdf
-5. [Holacracy][3]
+4. http://tonyasurman.commons.ca/wp-content/uploads/sites/3/Surman\_2006\_Constellation-Governance-Model\_CSI.pdf
+5. [Holacracy][5]
+6. [Post-consensus, cooperative decision-making][6]
 
-[1]:	https://www.goodreads.com/book/show/20787425-reinventing-organizations?ac=1&from_search=true
-[2]:	https://medium.com/enspiral-tales/the-vibes-theory-of-organisational-design-937a73f791cd
-[3]:	https://www.holacracy.org/
+[1]:	https://holochain.org/
+[2]:	https://daostack.io/
+[3]:	https://www.goodreads.com/book/show/20787425-reinventing-organizations?ac=1&from_search=true
+[4]:	https://medium.com/enspiral-tales/the-vibes-theory-of-organisational-design-937a73f791cd
+[5]:	https://www.holacracy.org/
+[6]:	https://douginamug.gitlab.io/slides/poco_coop_dm/#14
