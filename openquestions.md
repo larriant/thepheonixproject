@@ -79,5 +79,4 @@ Here is our list of open questions.
 76. **Same question but with ways of looking / ontologies?**
 77. How can we have better conversations with people stuck in one map?
 78. What does it mean to follow our values?
-79. Where 
-
+79. What are the limitations of the evolutionary teal / metamodern worldview?

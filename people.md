@@ -12,7 +12,7 @@ This is a list of people related to the values of The Phoenix Project. Potential
 * [Rob Burbea][10] (imaginal spirituality)
 * [Roy Bhaskar][11] (critical realism)
 * [Jürgen Habermas][12] (philosophy / sociology)
-* [Daniel Schmachtenberger][13] (systems theory/ neurohacking)
+* [Daniel Schmachtenberger][13] (systems theory / neuro-hacking)
 * [Tomas Bjorkman][14] (funding metamodernism, The World We‘re Creating)
 * [Jeremy Lent][15] (the patterning instinct)
 * [Brent Cooper][16] (abs-tract organisation)

@@ -59,22 +59,6 @@
 					<integer>89</integer>
 				</dict>
 			</dict>
-			<key>Exponential.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>565724154.87909901</real>
-				<key>lastModification</key>
-				<real>565724154.87909901</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>50</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>156</integer>
-				</dict>
-			</dict>
 			<key>Feedback.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -119,22 +103,6 @@
 					<integer>31</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>104</integer>
-				</dict>
-			</dict>
-			<key>Metarationality - 2.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>565709174.72384298</real>
-				<key>lastModification</key>
-				<real>565709174.72384298</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>41</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>148</integer>
 				</dict>
 			</dict>
 			<key>Metarationality.md</key>
@@ -185,22 +153,6 @@
 					<integer>53</integer>
 				</dict>
 			</dict>
-			<key>Quotes.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>565877881.78898394</real>
-				<key>lastModification</key>
-				<real>565877881.78898394</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>50</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>157</integer>
-				</dict>
-			</dict>
 			<key>README.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -219,70 +171,6 @@
 				<dict>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>15</integer>
-				</dict>
-			</dict>
-			<key>altruismideas.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>565724154.89441895</real>
-				<key>lastModification</key>
-				<real>565724154.89441895</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>50</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>156</integer>
-				</dict>
-			</dict>
-			<key>altruismlinks.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>565724154.88672805</real>
-				<key>lastModification</key>
-				<real>565724154.88672805</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>50</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>156</integer>
-				</dict>
-			</dict>
-			<key>altruismscience.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>565724154.00322199</real>
-				<key>lastModification</key>
-				<real>565724154.00322199</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>50</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>156</integer>
-				</dict>
-			</dict>
-			<key>altruismstreams.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>565724154.81291497</real>
-				<key>lastModification</key>
-				<real>565724154.81291497</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>50</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>156</integer>
 				</dict>
 			</dict>
 			<key>authenticrelating.md</key>
@@ -307,22 +195,6 @@
 					<integer>41</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>151</integer>
-				</dict>
-			</dict>
-			<key>daycourse.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>565724154.80892003</real>
-				<key>lastModification</key>
-				<real>565724154.80892003</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>50</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>156</integer>
 				</dict>
 			</dict>
 			<key>deepecology.md</key>
@@ -433,6 +305,18 @@
 					<integer>41</integer>
 				</dict>
 			</dict>
+			<key>platformcooperatives.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>567208789.623088</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>50</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>163</integer>
+				</dict>
+			</dict>
 			<key>quotes.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -457,6 +341,18 @@
 					<integer>160</integer>
 				</dict>
 			</dict>
+			<key>teacheachother.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>567208821.25311506</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>50</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>164</integer>
+				</dict>
+			</dict>
 			<key>waysofseeing.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -467,38 +363,6 @@
 					<integer>37</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>123</integer>
-				</dict>
-			</dict>
-			<key>whatisaltruism.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>565724154.84754097</real>
-				<key>lastModification</key>
-				<real>565724154.84754097</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>50</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>156</integer>
-				</dict>
-			</dict>
-			<key>whyaltruism.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>565724154.89205694</real>
-				<key>lastModification</key>
-				<real>565724154.89205694</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>50</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>156</integer>
 				</dict>
 			</dict>
 			<key>worldshatteringideas.md</key>
@@ -527,13 +391,13 @@
 			<string>openquestions.md</string>
 		</array>
 		<array>
+			<string>teacheachother.md</string>
+		</array>
+		<array>
 			<string>philosophicalterms.md</string>
 		</array>
 		<array>
 			<string>Conferences.md</string>
-		</array>
-		<array>
-			<string>daycourse.md</string>
 		</array>
 		<array>
 			<string>placestopost.md</string>
@@ -542,28 +406,7 @@
 			<string>Organisations.md</string>
 		</array>
 		<array>
-			<string>whatisaltruism.md</string>
-		</array>
-		<array>
-			<string>Exponential.md</string>
-		</array>
-		<array>
 			<string>Feedback.md</string>
-		</array>
-		<array>
-			<string>whyaltruism.md</string>
-		</array>
-		<array>
-			<string>altruismstreams.md</string>
-		</array>
-		<array>
-			<string>altruismlinks.md</string>
-		</array>
-		<array>
-			<string>altruismideas.md</string>
-		</array>
-		<array>
-			<string>altruismscience.md</string>
 		</array>
 		<array>
 			<string>quotes.md</string>
@@ -573,9 +416,6 @@
 		</array>
 		<array>
 			<string>README.md</string>
-		</array>
-		<array>
-			<string>Quotes.md</string>
 		</array>
 		<array>
 			<string>_sidebar.md</string>
@@ -594,9 +434,6 @@
 		</array>
 		<array>
 			<string>Metarationality.md</string>
-		</array>
-		<array>
-			<string>Metarationality - 2.md</string>
 		</array>
 		<array>
 			<string>waysofseeing.md</string>
@@ -631,6 +468,9 @@
 		<array>
 			<string>People.md</string>
 		</array>
+		<array>
+			<string>platformcooperatives.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -646,7 +486,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>50</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>161</integer>
+			<integer>165</integer>
 		</dict>
 	</dict>
 </dict>

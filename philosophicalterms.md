@@ -35,7 +35,7 @@ Regress Problem: how can we eventually terminate a logical argument with some st
 
 [Coherentism][5]: an individual belief is justified circularly by the way it fits together (coheres) with the rest of the belief system
 
-Rationalism:
+Rationalism: 
 
 Empiricism:
 

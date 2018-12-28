@@ -1,5 +1,4 @@
 # Places
-
-+ [Astral Ship][1] 
++ [Astral Ship][1]
 
 [1]:	https://astralship.org/

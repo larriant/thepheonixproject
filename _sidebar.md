@@ -15,21 +15,22 @@
 * Related Ideas
 	* [Deep Ecology][13]
 	* [Street Epistemology][14]
+	* [Platform Co-operatives][15]
 * Communication
-	* [Groups][15]
-	* [Non Violent Communication][16]
-	* [Authentic Relating][17]
+	* [Groups][16]
+	* [Non Violent Communication][17]
+	* [Authentic Relating][18]
 * Related 
-	* [Organisations][18]
-	* [People][19]
-	* [Places][20]
-	* [Conferences][21]
+	* [Organisations][19]
+	* [People][20]
+	* [Places][21]
+	* [Conferences][22]
 * Other
-	* [Places to Post Articles][22]
-	* [Quotes][23]
-	* [Open Questions][24]
-	* [Metamodern Art][25]
-	* [Feedback][26]
+	* [Places to Post Articles][23]
+	* [Quotes][24]
+	* [Open Questions][25]
+	* [Metamodern Art][26]
+	* [Feedback][27]
 
 [1]:	/
 [2]:	worldshatteringideas.md
@@ -45,15 +46,16 @@
 [12]:	contribution.md
 [13]:	deepecology.md
 [14]:	streetepistemology.md
-[15]:	groups.md
-[16]:	nonviolentcommunication.md
-[17]:	authenticrelating.md
-[18]:	organisations.md
-[19]:	people.md
-[20]:	places.md
-[21]:	conferences.md
-[22]:	placestopost.md
-[23]:	quotes.md
-[24]:	openquestions.md
-[25]:	metamodernart.md
-[26]:	feedback.md
+[15]:	platformcooperatives.md
+[16]:	groups.md
+[17]:	nonviolentcommunication.md
+[18]:	authenticrelating.md
+[19]:	organisations.md
+[20]:	people.md
+[21]:	places.md
+[22]:	conferences.md
+[23]:	placestopost.md
+[24]:	quotes.md
+[25]:	openquestions.md
+[26]:	metamodernart.md
+[27]:	feedback.md
