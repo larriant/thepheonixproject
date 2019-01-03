@@ -17,7 +17,8 @@ This is a list of people related to the values of The Phoenix Project. Potential
 * [Jeremy Lent][15] (the patterning instinct)
 * [Brent Cooper][16] (abs-tract organisation)
 * [Richard D. Bartlett][17] (enspiral / occupy / neo-tribalism)
-* [Nora Bateson][18](systems, complexity, [film-maker][19])
+* [Nora Bateson][18] (systems, complexity, [film-maker][19])
+* [Stephen Reid][http://stephenreid.net/] (the psychadelics society)
 
 
 
