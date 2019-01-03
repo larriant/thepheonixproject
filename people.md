@@ -18,7 +18,7 @@ This is a list of people related to the values of The Phoenix Project. Potential
 * [Brent Cooper][16] (abs-tract organisation)
 * [Richard D. Bartlett][17] (enspiral / occupy / neo-tribalism)
 * [Nora Bateson][18] (systems, complexity, [film-maker][19])
-* [Stephen Reid][http://stephenreid.net/] (the psychadelics society)
+* [Stephen Reid][20] (the psychedelics society)
 
 
 
@@ -45,3 +45,4 @@ This is a list of people related to the values of The Phoenix Project. Potential
 [17]:	http://richdecibels.com/
 [18]:	https://norabateson.wordpress.com
 [19]:	http://www.anecologyofmind.com/thefilm.html
+[20]:	http://stephenreid.net/
