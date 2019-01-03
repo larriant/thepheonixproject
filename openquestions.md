@@ -80,3 +80,8 @@ Here is our list of open questions.
 77. How can we have better conversations with people stuck in one map?
 78. What does it mean to follow our values?
 79. What are the limitations of the evolutionary teal / metamodern worldview?
+80. What is really real?
+81. What does it mean for something to be ‘real’?
+82. Why would realising the emptiness of things make us more sensitive to ethics and the consequences of our actions (from burbea)?
+83. Is dukkha really that bad?
+84. Does your metaphysics affect your values?

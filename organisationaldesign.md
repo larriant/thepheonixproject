@@ -14,6 +14,7 @@ TODO: add key things from Reinventing Organisations book.
 4. http://tonyasurman.commons.ca/wp-content/uploads/sites/3/Surman\_2006\_Constellation-Governance-Model\_CSI.pdf
 5. [Holacracy][5]
 6. [Post-consensus, cooperative decision-making][6]
+7. https://blog.crisp.se/2017/11/12/martinchristensen/core-protocols-effective-communication
 
 [1]:	https://holochain.org/
 [2]:	https://daostack.io/
@@ -21,3 +22,4 @@ TODO: add key things from Reinventing Organisations book.
 [4]:	https://medium.com/enspiral-tales/the-vibes-theory-of-organisational-design-937a73f791cd
 [5]:	https://www.holacracy.org/
 [6]:	https://douginamug.gitlab.io/slides/poco_coop_dm/#14
+
