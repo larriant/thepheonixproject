@@ -54,6 +54,8 @@ Compatibilism: Free Will and Determinism are compatible. i.e. both can be true.
 # Religion
 Ecumenical: aimed at achieving unity of the religion. Inter-denominational
 
+Eschatology: the part of theology concerned with the ultimate destiny of humanity. The “end of the world”.
+
 # Psychology
 Constructivism: The idea that humans construct or create their own realities. 
 

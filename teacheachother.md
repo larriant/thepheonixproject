@@ -4,6 +4,7 @@
 1. Reinventing Organisations (self-management, wholeness and ego-purpose)
 2. Fully Understand Heidegger / Kant Metaphysics
 3. Emptiness (explain through nation / money example)
+4. Schopenhauer (Will to Live, Ethics)
 
 ## Things for Will to get right in his head and tell Jules about
 1. Finite and Infinite Games

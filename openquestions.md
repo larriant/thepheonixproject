@@ -82,6 +82,8 @@ Here is our list of open questions.
 79. What are the limitations of the evolutionary teal / metamodern worldview?
 80. What is really real?
 81. What does it mean for something to be ‘real’?
-82. Why would realising the emptiness of things make us more sensitive to ethics and the consequences of our actions (from burbea)?
-83. Is dukkha really that bad?
+82. Why would realising the emptiness of things make us more sensitive to ethics and the consequences of our actions (from Burbea)?
+83. Is Dukkha really that bad?
 84. Does your metaphysics affect your values?
+85. What factors cause a meme / bit of culture code to spread?
+86. 
