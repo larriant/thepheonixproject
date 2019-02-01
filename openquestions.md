@@ -86,4 +86,4 @@ Here is our list of open questions.
 83. Is Dukkha really that bad?
 84. Does your metaphysics affect your values?
 85. What factors cause a meme / bit of culture code to spread?
-86. 
+86. Can you do science from an idealistic perspective?
