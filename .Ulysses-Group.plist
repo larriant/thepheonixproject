@@ -153,6 +153,22 @@
 					<integer>53</integer>
 				</dict>
 			</dict>
+			<key>Quotes.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>572957839.21759498</real>
+				<key>lastModification</key>
+				<real>572957839.21759498</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>55</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>173</integer>
+				</dict>
+			</dict>
 			<key>README.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -183,6 +199,22 @@
 					<integer>31</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>98</integer>
+				</dict>
+			</dict>
+			<key>conferences.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>572957839.21757698</real>
+				<key>lastModification</key>
+				<real>572957839.21757698</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>55</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>173</integer>
 				</dict>
 			</dict>
 			<key>contribution.md</key>
@@ -245,6 +277,22 @@
 					<integer>130</integer>
 				</dict>
 			</dict>
+			<key>metarationality.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>572957839.21759903</real>
+				<key>lastModification</key>
+				<real>572957839.21759903</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>55</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>173</integer>
+				</dict>
+			</dict>
 			<key>nameideas.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -305,6 +353,22 @@
 					<integer>32</integer>
 				</dict>
 			</dict>
+			<key>places.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>572957839.21760201</real>
+				<key>lastModification</key>
+				<real>572957839.21760201</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>55</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>173</integer>
+				</dict>
+			</dict>
 			<key>placestopost.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -332,13 +396,13 @@
 			<key>quotes.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>564505884.16993105</real>
+				<real>567887043.66780806</real>
 				<key>version</key>
 				<dict>
 					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>9</integer>
+					<integer>51</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>47</integer>
+					<integer>161</integer>
 				</dict>
 			</dict>
 			<key>streetepistemology.md</key>
@@ -409,6 +473,9 @@
 			<string>philosophicalterms.md</string>
 		</array>
 		<array>
+			<string>conferences.md</string>
+		</array>
+		<array>
 			<string>Conferences.md</string>
 		</array>
 		<array>
@@ -433,6 +500,9 @@
 			<string>README.md</string>
 		</array>
 		<array>
+			<string>Quotes.md</string>
+		</array>
+		<array>
 			<string>_sidebar.md</string>
 		</array>
 		<array>
@@ -446,6 +516,9 @@
 		</array>
 		<array>
 			<string>Metamodernism.md</string>
+		</array>
+		<array>
+			<string>metarationality.md</string>
 		</array>
 		<array>
 			<string>Metarationality.md</string>
@@ -478,6 +551,9 @@
 			<string>Environment.md</string>
 		</array>
 		<array>
+			<string>places.md</string>
+		</array>
+		<array>
 			<string>Places.md</string>
 		</array>
 		<array>
@@ -499,9 +575,9 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-			<integer>50</integer>
+			<integer>55</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>171</integer>
+			<integer>173</integer>
 		</dict>
 	</dict>
 </dict>

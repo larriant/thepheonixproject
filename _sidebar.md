@@ -36,7 +36,7 @@
 [1]:	/
 [2]:	worldshatteringideas.md
 [3]:	philosophicalterms.md
-[4]:	culturalcode.md
+[4]:	culturecode.md
 [5]:	inequality.md
 [6]:	alienation.md
 [7]:	environment.md

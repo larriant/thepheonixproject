@@ -28,11 +28,22 @@ This is a list of organisations related to the values of The Phoenix Project.
 * [Co-creation Loft][15]
 * [Social Impact Lab][16]
 
+# Technologies
+
+* Native
+* Giveth
+* Holocracy / holochain
+* DAOstack
+* Colony
+* Loomio
+* Scuttlebutt
+
 # Social Enterprise
 * [Enspiral][17] (decentralised accelerator)
+* Exosphere: Radical Social Entrepreneurs [http://www.radicalsocialentreps.org/2013/07/entrepreneurs-take-over-downtown-santiago/][18]
 
 # Groups
-* Rally Point Alpha ([Reddit][18], [Facebook][19], [Medium][20], [Another Medium][21])
+* Rally Point Alpha ([Reddit][19], [Facebook][20], [Medium][21], [Another Medium][22])
 
 [1]:	http://alterego.network/
 [2]:	https://edgeryders.eu
@@ -51,7 +62,8 @@ This is a list of organisations related to the values of The Phoenix Project.
 [15]:	http://www.cocreationloft.com
 [16]:	https://berlin.socialimpactlab.eu/community/
 [17]:	https://enspiral.com/
-[18]:	https://www.reddit.com/r/Rally_Point_Bravo/
-[19]:	https://www.facebook.com/groups/625210141012983/
-[20]:	https://medium.com/rally-point-journal
-[21]:	https://medium.com/rally-point-perspectives?fbclid=IwAR12AlD4BbRW_z9MpYI6sf7VTcZMzIVxRpOiYIFaur9GPEhrKeZw0Y2M2qM
+[18]:	http://www.radicalsocialentreps.org/2013/07/entrepreneurs-take-over-downtown-santiago/
+[19]:	https://www.reddit.com/r/Rally_Point_Bravo/
+[20]:	https://www.facebook.com/groups/625210141012983/
+[21]:	https://medium.com/rally-point-journal
+[22]:	https://medium.com/rally-point-perspectives?fbclid=IwAR12AlD4BbRW_z9MpYI6sf7VTcZMzIVxRpOiYIFaur9GPEhrKeZw0Y2M2qM
