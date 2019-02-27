@@ -11,7 +11,7 @@ This page is for listing upcoming conferences related to The Phoenix Projects va
 ## Festivals
 Potential Festivals that we could run events.
 + [Nowhere]()
-+  [Buddhafield][8]
++ [Buddhafield][8]
 + [SAND19][9] (we can volunteer!)
 + [Togetherness][10]
 + [Borderland][11]
