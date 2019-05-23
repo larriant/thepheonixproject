@@ -6,7 +6,7 @@
 * The Phoenix: Metaphysics
 	* [Guerrilla Metaphysics][5]
 	* [The Transjective Perspective][6]
-	* [Ways of Seeing][7]
+		* [Ways of Seeing][7]
 	* [Meta-rationality][8]
 * The Phoenix: Values
 	* [Metamodernism][9]
