@@ -37,7 +37,7 @@
 	* [Philosophical Terms][28]
 	* [Cultural Code][29]
 
-[1]:	Home.md
+[1]:	Welcome%20to%20The%20Phoenix%20Project.md
 [2]:	inequality.md
 [3]:	alienation.md
 [4]:	environment.md

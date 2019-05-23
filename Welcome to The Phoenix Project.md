@@ -1,4 +1,3 @@
-# Home
 ## Welcome to The Phoenix Project
 
 The Phoenix Project was created by Julyan Davey and Will Franks. 
