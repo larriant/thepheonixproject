@@ -12,30 +12,30 @@
 	 * [Contribution][9]
 	* [Metamodernism][10]
 * The Phoenix: Emotions
-	* Bio-Emotive Framework
+	* [Bio-Emotive Framework][11]
 * The Phoenix: Interpersonal
-	* [Groups][11]
-	* [Non Violent Communication][12]
-	* [Authentic Relating][13]
-	* [Organisational Design][14]
+	* [Groups][12]
+	* [Non Violent Communication][13]
+	* [Authentic Relating][14]
+	* [Organisational Design][15]
 * The Pheonix: Natural World
-	* [Deep Ecology][15]
+	* [Deep Ecology][16]
 * The Phoenix: Economics
-	* [Platform Co-operatives][16]
+	* [Platform Co-operatives][17]
 * Existing Phoenix seedlings
-	* [Organisations][17]
-	* [People][18]
-	* [Places][19]
-	* [Conferences][20]
+	* [Organisations][18]
+	* [People][19]
+	* [Places][20]
+	* [Conferences][21]
 * Other
-	* [Places to Post Articles][21]
-	* [Quotes][22]
-	* [Open Questions][23]
-	* [Metamodern Art][24]
-	* [Feedback][25]
-	* [World Shattering Ideas][26]
-	* [Philosophical Terms][27]
-	* [Cultural Code][28]
+	* [Places to Post Articles][22]
+	* [Quotes][23]
+	* [Open Questions][24]
+	* [Metamodern Art][25]
+	* [Feedback][26]
+	* [World Shattering Ideas][27]
+	* [Philosophical Terms][28]
+	* [Cultural Code][29]
 
 [1]:	/
 [2]:	inequality.md
@@ -47,21 +47,22 @@
 [8]:	streetepistemology.md
 [9]:	contribution.md
 [10]:	metamodernism.md
-[11]:	groups.md
-[12]:	nonviolentcommunication.md
-[13]:	authenticrelating.md
-[14]:	organisationaldesign.md
-[15]:	deepecology.md
-[16]:	platformcooperatives.md
-[17]:	organisations.md
-[18]:	people.md
-[19]:	places.md
-[20]:	conferences.md
-[21]:	placestopost.md
-[22]:	quotes.md
-[23]:	openquestions.md
-[24]:	metamodernart.md
-[25]:	feedback.md
-[26]:	worldshatteringideas.md
-[27]:	philosophicalterms.md
-[28]:	culturecode.md
+[11]:	The%20Bio-Emotive%20Framework.md
+[12]:	groups.md
+[13]:	nonviolentcommunication.md
+[14]:	authenticrelating.md
+[15]:	organisationaldesign.md
+[16]:	deepecology.md
+[17]:	platformcooperatives.md
+[18]:	organisations.md
+[19]:	people.md
+[20]:	places.md
+[21]:	conferences.md
+[22]:	placestopost.md
+[23]:	quotes.md
+[24]:	openquestions.md
+[25]:	metamodernart.md
+[26]:	feedback.md
+[27]:	worldshatteringideas.md
+[28]:	philosophicalterms.md
+[29]:	culturecode.md
