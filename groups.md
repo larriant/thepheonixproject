@@ -52,7 +52,7 @@ http://www.theworldcafe.com/wp-content/uploads/2015/07/Cafe-To-Go-Revised.pdf
 
 http://openspaceworld.org/wp2/
 
-The theme or purpose on which we’ve been invited to work was open, broad, and demands a creative, collective response. The
+The theme or purpose on which we’ve been invited to work was open, broad, and demands a creative, collective response.
 
 The big empty wall is in fact our agenda. He reassures us that it will, within the hour, be filled with discussion topics related to the theme.
 
@@ -66,7 +66,7 @@ The big empty wall is in fact our agenda. He reassures us that it will, within t
 
 4. “When it’s over, it’s over” acknowledges that you never know just how long it’ll take to deal with a given issue, and reminds us that getting the work done is more important than sticking to an arbitrary schedule.
 
-The one law is The Law of Two Feet, or in some cases, The Law of Personal Mobility. It says simply that you, and only you, know where you can learn and contribute the most to the work that must take place today. It demands that you use your two feet to go where you need to go and do what you need to do.
+The one law is **The Law of Two Feet**, or in some cases, The Law of Personal Mobility. It says simply that you, and only you, know where you can learn and contribute the most to the work that must take place today. It demands that you use your two feet to go where you need to go and do what you need to do.
 
 The facilitator invites anyone who’s ready to come to the centre of the circle, grab a market and a sheet of paper and write down their burning question, passionate issue, or great idea.
 
@@ -105,7 +105,7 @@ https://appreciativeinquiry.champlain.edu/learn/appreciative-inquiry-introductio
 4. Design - Determining 'what should be' - Design brings together the stories from discovery with the imagination and creativity from dream. The best of what is with what might be. To create What should be - the ideal.
 5. Delivery/Destiny - Creating 'what will be' - the fifth stage in the 5Ds process identifies how the design is delivered, and how it's embedded into groups, communities and organisations.
 
-### Others
+### Others TODO
 * Process U, Presence and Silence
 * Cafe del Mundo
 * Pro-Action Coffee

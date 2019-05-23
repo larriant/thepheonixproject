@@ -38,13 +38,13 @@
 			<key>Conferences.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>564684687.74384296</real>
+				<real>536457941.20447898</real>
 				<key>version</key>
 				<dict>
 					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>18</integer>
+					<integer>59</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>54</integer>
+					<integer>175</integer>
 				</dict>
 			</dict>
 			<key>Environment.md</key>
@@ -67,6 +67,22 @@
 				<dict>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>8</integer>
+				</dict>
+			</dict>
+			<key>Groups.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>580336516.17953801</real>
+				<key>lastModification</key>
+				<real>580336516.17953801</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>59</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>176</integer>
 				</dict>
 			</dict>
 			<key>Inequality.md</key>
@@ -108,13 +124,13 @@
 			<key>Metarationality.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>565626640.84302104</real>
+				<real>536457941.20450902</real>
 				<key>version</key>
 				<dict>
 					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>39</integer>
+					<integer>59</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>126</integer>
+					<integer>175</integer>
 				</dict>
 			</dict>
 			<key>Organisations.md</key>
@@ -144,13 +160,13 @@
 			<key>Places.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>564684545.92526102</real>
+				<real>536457941.204512</real>
 				<key>version</key>
 				<dict>
 					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>18</integer>
+					<integer>59</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>53</integer>
+					<integer>175</integer>
 				</dict>
 			</dict>
 			<key>Quotes.md</key>
@@ -158,15 +174,15 @@
 				<key>explicitUnassignment</key>
 				<true/>
 				<key>firstUnassignment</key>
-				<real>572957839.21759498</real>
+				<real>580336516.17954099</real>
 				<key>lastModification</key>
-				<real>572957839.21759498</real>
+				<real>580336516.17954099</real>
 				<key>version</key>
 				<dict>
 					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>55</integer>
+					<integer>59</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>173</integer>
+					<integer>176</integer>
 				</dict>
 			</dict>
 			<key>README.md</key>
@@ -177,6 +193,18 @@
 				<dict>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>14</integer>
+				</dict>
+			</dict>
+			<key>The Bio-Emotive Framework.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>580337057.84638798</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>59</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>179</integer>
 				</dict>
 			</dict>
 			<key>_sidebar.md</key>
@@ -206,15 +234,15 @@
 				<key>explicitUnassignment</key>
 				<true/>
 				<key>firstUnassignment</key>
-				<real>572957839.21757698</real>
+				<real>580336516.17952299</real>
 				<key>lastModification</key>
-				<real>572957839.21757698</real>
+				<real>580336516.17952299</real>
 				<key>version</key>
 				<dict>
 					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>55</integer>
+					<integer>59</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>173</integer>
+					<integer>176</integer>
 				</dict>
 			</dict>
 			<key>contribution.md</key>
@@ -256,13 +284,13 @@
 			<key>groups.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>564505873.798437</real>
+				<real>536457941.20450503</real>
 				<key>version</key>
 				<dict>
 					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>9</integer>
+					<integer>59</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>46</integer>
+					<integer>175</integer>
 				</dict>
 			</dict>
 			<key>metamodernart.md</key>
@@ -282,15 +310,15 @@
 				<key>explicitUnassignment</key>
 				<true/>
 				<key>firstUnassignment</key>
-				<real>572957839.21759903</real>
+				<real>580336516.17954302</real>
 				<key>lastModification</key>
-				<real>572957839.21759903</real>
+				<real>580336516.17954302</real>
 				<key>version</key>
 				<dict>
 					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>55</integer>
+					<integer>59</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>173</integer>
+					<integer>176</integer>
 				</dict>
 			</dict>
 			<key>nameideas.md</key>
@@ -358,15 +386,15 @@
 				<key>explicitUnassignment</key>
 				<true/>
 				<key>firstUnassignment</key>
-				<real>572957839.21760201</real>
+				<real>580336516.179546</real>
 				<key>lastModification</key>
-				<real>572957839.21760201</real>
+				<real>580336516.179546</real>
 				<key>version</key>
 				<dict>
 					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>55</integer>
+					<integer>59</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>173</integer>
+					<integer>176</integer>
 				</dict>
 			</dict>
 			<key>placestopost.md</key>
@@ -396,13 +424,13 @@
 			<key>quotes.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>567887043.66780806</real>
+				<real>536457941.20450097</real>
 				<key>version</key>
 				<dict>
 					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>51</integer>
+					<integer>59</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>161</integer>
+					<integer>175</integer>
 				</dict>
 			</dict>
 			<key>streetepistemology.md</key>
@@ -494,6 +522,9 @@
 			<string>quotes.md</string>
 		</array>
 		<array>
+			<string>Groups.md</string>
+		</array>
+		<array>
 			<string>groups.md</string>
 		</array>
 		<array>
@@ -504,6 +535,9 @@
 		</array>
 		<array>
 			<string>_sidebar.md</string>
+		</array>
+		<array>
+			<string>The Bio-Emotive Framework.md</string>
 		</array>
 		<array>
 			<string>deepecology.md</string>
@@ -575,9 +609,9 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-			<integer>55</integer>
+			<integer>59</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>173</integer>
+			<integer>180</integer>
 		</dict>
 	</dict>
 </dict>
