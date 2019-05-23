@@ -145,6 +145,18 @@
 					<integer>89</integer>
 				</dict>
 			</dict>
+			<key>Meta-rationality.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>580341293.19449794</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>59</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>223</integer>
+				</dict>
+			</dict>
 			<key>Metamodern Art.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -179,18 +191,6 @@
 					<integer>31</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>104</integer>
-				</dict>
-			</dict>
-			<key>Metarationality.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>536457941.20450902</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>59</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>175</integer>
 				</dict>
 			</dict>
 			<key>Name Ideas.md</key>
@@ -578,7 +578,7 @@
 			<string>metarationality.md</string>
 		</array>
 		<array>
-			<string>Metarationality.md</string>
+			<string>Meta-rationality.md</string>
 		</array>
 		<array>
 			<string>Ways of Seeing.md</string>
@@ -634,7 +634,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>59</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>222</integer>
+			<integer>224</integer>
 		</dict>
 	</dict>
 </dict>

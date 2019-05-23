@@ -8,8 +8,8 @@
 	* [Metaphysics][6]
 	* [Meta-rationality][7]
 * The Phoenix: Values
-	 * [Contribution][8]
-	* [Metamodernism][9]
+	* [Metamodernism][8]
+	 * [Contribution][9]
 * The Phoenix: Emotions
 	* [The Bio-Emotive Framework][10]
 * The Phoenix: Interpersonal
@@ -44,8 +44,8 @@
 [5]:	Ways%20of%20Seeing.md
 [6]:	metaphysics.md
 [7]:	metarationality.md
-[8]:	contribution.md
-[9]:	metamodernism.md
+[8]:	metamodernism.md
+[9]:	contribution.md
 [10]:	The%20Bio-Emotive%20Framework.md
 [11]:	Group%20Practices.md
 [12]:	Non%20Violent%20Communication.md
