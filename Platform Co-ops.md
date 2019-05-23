@@ -1,4 +1,4 @@
-# Platform Cooperatives
+# Platform Co-ops
 
 The platform co-operative movement aims to replace the sharing economy apps like Uber with worker owned and run alternatives.
 

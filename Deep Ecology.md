@@ -1,4 +1,4 @@
-# Deep ecology
+# Deep Ecology
 Deep Ecology is an ecological philosophy developed by Arne Naess.
 
 The Deep Ecology platform states: 

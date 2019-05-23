@@ -1,4 +1,4 @@
-# Methodologies for working with groups
+# Group Practices
 
 ## 1. The Circle Way
 
@@ -14,7 +14,7 @@ What transforms a meeting into a circle is the willingness of people to shift fr
 + Guardian - the single most important tool for aiding self-governance and bringing circle back to intention is the role of guardian.  One circle member volunteers to watch and safeguard group energy and observe the circle's process. The guardian usually employs a gentle noise-maker such as a chime that signals to everyone to stop action, take a breath, rest in a space of silence. Any member may call for a pause.
 + Setting Circle Agreements - Agreements often used include: we hold all stories or personal material in confidentiality. We listen to each other with compassion and curiosity. We ask for what we need and offer what we can.
 
-#### Three Principles 
+#### Three Principles
 1. *Leadership rotates* among all circle members
 2. *Responsibility is shared* for the quality of experience
 3. *Reliance is on wholeness*, rather than on any personal agenda
@@ -58,11 +58,11 @@ The big empty wall is in fact our agenda. He reassures us that it will, within t
 
 ### Four Principles
 
-1. “Whoever comes is the right people” acknowledges that the only people really qualified or able to do great work on any issue are those who really care, and freely choose to be involved. 
+1. “Whoever comes is the right people” acknowledges that the only people really qualified or able to do great work on any issue are those who really care, and freely choose to be involved.
 
 2. “Whenever it starts is the right time” recognises that spirit and creativity don’t run on the clock, so while we’re here, we’ll all keep a vigilant watch for great ideas and new insights, which can happen at anytime.
 
-3. “Whatever happens is the only thing that could have” allows everyone to let go of the could haves, would haves and should haves, so that we can give our full attention to the reality of what is happening, is working, and is possible right now. 
+3. “Whatever happens is the only thing that could have” allows everyone to let go of the could haves, would haves and should haves, so that we can give our full attention to the reality of what is happening, is working, and is possible right now.
 
 4. “When it’s over, it’s over” acknowledges that you never know just how long it’ll take to deal with a given issue, and reminds us that getting the work done is more important than sticking to an arbitrary schedule.
 

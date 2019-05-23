@@ -35,6 +35,18 @@
 					<integer>105</integer>
 				</dict>
 			</dict>
+			<key>Authentic Relating.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>580340040.973737</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>59</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>189</integer>
+				</dict>
+			</dict>
 			<key>Conferences.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -45,6 +57,30 @@
 					<integer>59</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>175</integer>
+				</dict>
+			</dict>
+			<key>Cultural Code.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>580340100.11857295</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>59</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>201</integer>
+				</dict>
+			</dict>
+			<key>Deep Ecology.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>580340077.13295996</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>59</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>197</integer>
 				</dict>
 			</dict>
 			<key>Environment.md</key>
@@ -67,6 +103,18 @@
 				<dict>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>8</integer>
+				</dict>
+			</dict>
+			<key>Group Practices.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>580340094.12343705</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>59</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>199</integer>
 				</dict>
 			</dict>
 			<key>Groups.md</key>
@@ -109,6 +157,18 @@
 					<integer>89</integer>
 				</dict>
 			</dict>
+			<key>Metamodern Art.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>580340065.636796</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>59</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>195</integer>
+				</dict>
+			</dict>
 			<key>Metamodernism.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -145,6 +205,58 @@
 					<integer>175</integer>
 				</dict>
 			</dict>
+			<key>Name Ideas.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>580340161.67043304</real>
+				<key>lastModification</key>
+				<real>580340161.67043304</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>59</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>215</integer>
+				</dict>
+			</dict>
+			<key>Non Violent Communication.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>580340232.10966897</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>59</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>217</integer>
+				</dict>
+			</dict>
+			<key>Open Questions.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>580340134.84755599</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>59</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>209</integer>
+				</dict>
+			</dict>
+			<key>Organisational Design.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>580340060.62020195</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>59</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>193</integer>
+				</dict>
+			</dict>
 			<key>Organisations.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -169,6 +281,30 @@
 					<integer>50</integer>
 				</dict>
 			</dict>
+			<key>Philosophical Terms.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>580340116.85580003</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>59</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>205</integer>
+				</dict>
+			</dict>
+			<key>Places to Post Articles.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>580340108.98838496</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>59</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>203</integer>
+				</dict>
+			</dict>
 			<key>Places.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -179,6 +315,18 @@
 					<integer>59</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>175</integer>
+				</dict>
+			</dict>
+			<key>Platform Co-ops.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>580340012.75324404</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>59</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>187</integer>
 				</dict>
 			</dict>
 			<key>Quotes.md</key>
@@ -207,6 +355,34 @@
 					<integer>14</integer>
 				</dict>
 			</dict>
+			<key>Street Epistemology.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>580340140.94736397</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>59</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>211</integer>
+				</dict>
+			</dict>
+			<key>Teach Each Other.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>580340165.92307305</real>
+				<key>lastModification</key>
+				<real>580340165.92307305</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>59</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>216</integer>
+				</dict>
+			</dict>
 			<key>The Bio-Emotive Framework.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -219,6 +395,30 @@
 					<integer>179</integer>
 				</dict>
 			</dict>
+			<key>Ways of Seeing.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>580340047.45661497</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>59</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>191</integer>
+				</dict>
+			</dict>
+			<key>World Shattering Ideas.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>580340246.25843894</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>59</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>219</integer>
+				</dict>
+			</dict>
 			<key>_sidebar.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -227,18 +427,6 @@
 				<dict>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>15</integer>
-				</dict>
-			</dict>
-			<key>authenticrelating.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>565619087.10625994</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>31</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>98</integer>
 				</dict>
 			</dict>
 			<key>conferences.md</key>
@@ -269,54 +457,6 @@
 					<integer>151</integer>
 				</dict>
 			</dict>
-			<key>culturecode.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>568656792.49193704</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>50</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>170</integer>
-				</dict>
-			</dict>
-			<key>deepecology.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>565717373.95439601</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>41</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>155</integer>
-				</dict>
-			</dict>
-			<key>groups.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>536457941.20450503</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>59</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>175</integer>
-				</dict>
-			</dict>
-			<key>metamodernart.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>565707836.78696096</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>41</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>130</integer>
-				</dict>
-			</dict>
 			<key>metarationality.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -331,66 +471,6 @@
 					<integer>59</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>176</integer>
-				</dict>
-			</dict>
-			<key>nameideas.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>563204349.93077004</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>5</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>20</integer>
-				</dict>
-			</dict>
-			<key>nonviolentcommunication.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>565618269.49758303</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>31</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>92</integer>
-				</dict>
-			</dict>
-			<key>openquestions.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>564939903.53031695</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>25</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>67</integer>
-				</dict>
-			</dict>
-			<key>organisationaldesign.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>565622935.03706598</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>31</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>108</integer>
-				</dict>
-			</dict>
-			<key>philosophicalterms.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>564501850.31917095</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>9</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>32</integer>
 				</dict>
 			</dict>
 			<key>places.md</key>
@@ -409,30 +489,6 @@
 					<integer>176</integer>
 				</dict>
 			</dict>
-			<key>placestopost.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>564504326.26072705</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>9</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>41</integer>
-				</dict>
-			</dict>
-			<key>platformcooperatives.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>567208789.623088</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>50</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>163</integer>
-				</dict>
-			</dict>
 			<key>quotes.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -445,72 +501,24 @@
 					<integer>175</integer>
 				</dict>
 			</dict>
-			<key>streetepistemology.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>566308941.146047</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>50</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>160</integer>
-				</dict>
-			</dict>
-			<key>teacheachother.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>567208821.25311506</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>50</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>164</integer>
-				</dict>
-			</dict>
-			<key>waysofseeing.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>565624259.32889903</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>37</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>123</integer>
-				</dict>
-			</dict>
-			<key>worldshatteringideas.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>564932632.47598803</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>23</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>62</integer>
-				</dict>
-			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>nameideas.md</string>
+			<string>Name Ideas.md</string>
 		</array>
 		<array>
-			<string>streetepistemology.md</string>
+			<string>Street Epistemology.md</string>
 		</array>
 		<array>
-			<string>openquestions.md</string>
+			<string>Open Questions.md</string>
 		</array>
 		<array>
-			<string>teacheachother.md</string>
+			<string>Teach Each Other.md</string>
 		</array>
 		<array>
-			<string>philosophicalterms.md</string>
+			<string>Philosophical Terms.md</string>
 		</array>
 		<array>
 			<string>conferences.md</string>
@@ -519,10 +527,10 @@
 			<string>Conferences.md</string>
 		</array>
 		<array>
-			<string>placestopost.md</string>
+			<string>Places to Post Articles.md</string>
 		</array>
 		<array>
-			<string>culturecode.md</string>
+			<string>Cultural Code.md</string>
 		</array>
 		<array>
 			<string>Organisations.md</string>
@@ -537,7 +545,7 @@
 			<string>Groups.md</string>
 		</array>
 		<array>
-			<string>groups.md</string>
+			<string>Group Practices.md</string>
 		</array>
 		<array>
 			<string>README.md</string>
@@ -555,13 +563,13 @@
 			<string>The Bio-Emotive Framework.md</string>
 		</array>
 		<array>
-			<string>deepecology.md</string>
+			<string>Deep Ecology.md</string>
 		</array>
 		<array>
 			<string>contribution.md</string>
 		</array>
 		<array>
-			<string>metamodernart.md</string>
+			<string>Metamodern Art.md</string>
 		</array>
 		<array>
 			<string>Metamodernism.md</string>
@@ -573,19 +581,19 @@
 			<string>Metarationality.md</string>
 		</array>
 		<array>
-			<string>waysofseeing.md</string>
+			<string>Ways of Seeing.md</string>
 		</array>
 		<array>
-			<string>organisationaldesign.md</string>
+			<string>Organisational Design.md</string>
 		</array>
 		<array>
 			<string>Metaphysics.md</string>
 		</array>
 		<array>
-			<string>nonviolentcommunication.md</string>
+			<string>Non Violent Communication.md</string>
 		</array>
 		<array>
-			<string>authenticrelating.md</string>
+			<string>Authentic Relating.md</string>
 		</array>
 		<array>
 			<string>Inequality.md</string>
@@ -594,7 +602,7 @@
 			<string>Alienation.md</string>
 		</array>
 		<array>
-			<string>worldshatteringideas.md</string>
+			<string>World Shattering Ideas.md</string>
 		</array>
 		<array>
 			<string>Environment.md</string>
@@ -609,7 +617,7 @@
 			<string>People.md</string>
 		</array>
 		<array>
-			<string>platformcooperatives.md</string>
+			<string>Platform Co-ops.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -626,7 +634,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>59</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>186</integer>
+			<integer>220</integer>
 		</dict>
 	</dict>
 </dict>

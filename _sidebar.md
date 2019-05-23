@@ -12,9 +12,9 @@
 	 * [Contribution][9]
 	* [Metamodernism][10]
 * The Phoenix: Emotions
-	* [Bio-Emotive Framework][11]
+	* [The Bio-Emotive Framework][11]
 * The Phoenix: Interpersonal
-	* [Groups][12]
+	* [Group Practices][12]
 	* [Non Violent Communication][13]
 	* [Authentic Relating][14]
 	* [Organisational Design][15]
@@ -41,28 +41,28 @@
 [2]:	inequality.md
 [3]:	alienation.md
 [4]:	environment.md
-[5]:	waysofseeing.md
+[5]:	Ways%20of%20Seeing.md
 [6]:	metaphysics.md
 [7]:	metarationality.md
-[8]:	streetepistemology.md
+[8]:	Street%20Epistemology.md
 [9]:	contribution.md
 [10]:	metamodernism.md
 [11]:	The%20Bio-Emotive%20Framework.md
-[12]:	groups.md
-[13]:	nonviolentcommunication.md
-[14]:	authenticrelating.md
+[12]:	Group%20Practices.md
+[13]:	Non%20Violent%20Communication.md
+[14]:	Authentic%20Relating.md
 [15]:	organisationaldesign.md
-[16]:	deepecology.md
-[17]:	platformcooperatives.md
+[16]:	Deep%20Ecology.md
+[17]:	Platform%20Co-ops.md
 [18]:	organisations.md
 [19]:	people.md
 [20]:	places.md
 [21]:	conferences.md
-[22]:	placestopost.md
+[22]:	Places%20To%20Post%20Articles.md
 [23]:	quotes.md
-[24]:	openquestions.md
-[25]:	metamodernart.md
+[24]:	Open%20Questions.md
+[25]:	Metamodern%20Art.md
 [26]:	feedback.md
-[27]:	worldshatteringideas.md
-[28]:	philosophicalterms.md
-[29]:	culturecode.md
+[27]:	World%20Shattering%20Ideas.md
+[28]:	Philosophical%20Terms.md
+[29]:	Culture%20Code.md

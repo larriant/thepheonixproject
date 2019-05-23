@@ -1,4 +1,5 @@
-# Welcome to The Phoenix Project Wiki.
+# Home
+## Welcome to The Phoenix Project
 
 The Phoenix Project was created by Julyan Davey and Will Franks. 
 
@@ -6,6 +7,7 @@ You can read more about it on our [website][1].
 
 This wiki contains a record of our explorations into our society, it’s problems and how we can imagine an alternative.
 
+## Our Metaphors
 We heavily make use of two metaphors.
 
 The **Monster Factory** (coined by Vinay Gupta) is our present society. It is destroying our [environment][2], leading to gross [inequalities][3] of money and power and contributes to a great deal of [alienation][4] from each other and the world around us.
