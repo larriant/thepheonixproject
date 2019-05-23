@@ -383,6 +383,18 @@
 					<integer>179</integer>
 				</dict>
 			</dict>
+			<key>The Meaning Crisis.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>580346003.37485504</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>59</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>237</integer>
+				</dict>
+			</dict>
 			<key>The Transjective Perspective.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -569,6 +581,9 @@
 			<string>_sidebar.md</string>
 		</array>
 		<array>
+			<string>The Meaning Crisis.md</string>
+		</array>
+		<array>
 			<string>The Transjective Perspective.md</string>
 		</array>
 		<array>
@@ -649,7 +664,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>59</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>234</integer>
+			<integer>238</integer>
 		</dict>
 	</dict>
 </dict>
