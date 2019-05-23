@@ -4,8 +4,8 @@
 	* [Alienation][3]
 	* [Environment][4]
 * The Phoenix: Metaphysics
-	* [Ways of Seeing][5]
-	* [Metaphysics][6]
+	* [Guerrilla Metaphysics][5]
+	* [Ways of Seeing][6]
 	* [Meta-rationality][7]
 * The Phoenix: Values
 	* [Metamodernism][8]
@@ -41,8 +41,8 @@
 [2]:	inequality.md
 [3]:	alienation.md
 [4]:	environment.md
-[5]:	Ways%20of%20Seeing.md
-[6]:	metaphysics.md
+[5]:	Guerilla%20Metaphysics.md
+[6]:	Ways%20of%20Seeing.md
 [7]:	Meta-rationality.md
 [8]:	metamodernism.md
 [9]:	contribution.md
