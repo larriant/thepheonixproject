@@ -9,9 +9,9 @@
 	* [Meta-rationality][7]
 * The Phoenix: Values
 	* [Metamodernism][8]
-	 * [Contribution][9]
-* The Phoenix: Emotions
-	* [The Bio-Emotive Framework][10]
+	* [Contribution][9]
+*  The Phoenix: Emotions
+	*  [The Bio-Emotive Framework][10]
 * The Phoenix: Interpersonal
 	* [Group Practices][11]
 	* [Non Violent Communication][12]
