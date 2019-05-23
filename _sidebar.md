@@ -22,7 +22,7 @@
 	* [Deep Ecology][16]
 * The Phoenix: Economics
 	* [Platform Co-operatives][17]
-* Existing Phoenix seedlings
+* Phoenix Feathers
 	* [Organisations][18]
 	* [People][19]
 	* [Places][20]
@@ -37,7 +37,7 @@
 	* [Philosophical Terms][28]
 	* [Cultural Code][29]
 
-[1]:	/
+[1]:	Home.md
 [2]:	inequality.md
 [3]:	alienation.md
 [4]:	environment.md
