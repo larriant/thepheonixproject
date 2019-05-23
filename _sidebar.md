@@ -41,7 +41,7 @@
 [2]:	inequality.md
 [3]:	alienation.md
 [4]:	environment.md
-[5]:	Guerilla%20Metaphysics.md
+[5]:	Guerrilla%20Metaphysics.md
 [6]:	Ways%20of%20Seeing.md
 [7]:	Meta-rationality.md
 [8]:	metamodernism.md
