@@ -1,4 +1,4 @@
-# Metarationality
+# Meta-rationality
 
 TODO: what are the key ideas of metarationality?
 
