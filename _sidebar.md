@@ -43,7 +43,7 @@
 [4]:	environment.md
 [5]:	Ways%20of%20Seeing.md
 [6]:	metaphysics.md
-[7]:	metarationality.md
+[7]:	Meta-rationality.md
 [8]:	metamodernism.md
 [9]:	contribution.md
 [10]:	The%20Bio-Emotive%20Framework.md

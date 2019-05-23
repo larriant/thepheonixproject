@@ -133,6 +133,18 @@
 					<integer>176</integer>
 				</dict>
 			</dict>
+			<key>Guerrilla Metaphysics.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>580342640.62555504</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>59</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>227</integer>
+				</dict>
+			</dict>
 			<key>Inequality.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -179,18 +191,6 @@
 					<integer>41</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>127</integer>
-				</dict>
-			</dict>
-			<key>Metaphysics.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>565619165.46346402</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>31</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>104</integer>
 				</dict>
 			</dict>
 			<key>Name Ideas.md</key>
@@ -587,7 +587,7 @@
 			<string>Organisational Design.md</string>
 		</array>
 		<array>
-			<string>Metaphysics.md</string>
+			<string>Guerrilla Metaphysics.md</string>
 		</array>
 		<array>
 			<string>Non Violent Communication.md</string>
@@ -634,7 +634,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>59</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>224</integer>
+			<integer>228</integer>
 		</dict>
 	</dict>
 </dict>
