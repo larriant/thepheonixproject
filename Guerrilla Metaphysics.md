@@ -8,7 +8,7 @@ There are 3 main areas of metaphysics:
 + Cosmology: What is the cosmos? (the whole)
 
 ### An Example of Ontological Monoculture
-For example we live in a world where what exists is the individual and their desires.  Looking through the lens of the individual is not the only way to see the world. We could also look at the world through the lens of the dividual, the group or society as a whole. 
+We live in a world where the individual and their desires are the core unite of being.  But looking through the lens of the individual is not the only way to see the world. We could also look through the lens of the dividual, the group or society as a whole. 
 
 ### An Example of Epistemological Monoculture
 Our society season reason as the only valid way of knowing. But actually there are alternative epistemological basis such as intuition which our society denigrates.
