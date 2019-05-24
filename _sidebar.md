@@ -4,69 +4,72 @@
 	* [Alienation][3]
 	* [Environment][4]
 	* [The Meaning Crisis][5]
+* The Phoenix: Overarching Philosophies
+	* [Metamodernism][6]
+	* [The Fluid Mode][7]
 * The Phoenix: Metaphysics
-	* [Guerrilla Metaphysics][6]
-	* [The Transjective Perspective][7]
-		* [Ways of Seeing][8]
-	* [Meta-rationality][9]
+	* [Guerrilla Metaphysics][8]
+	* [The Transjective Perspective][9]
+		* [Ways of Seeing][10]
+	* [Meta-rationality][11]
 * The Phoenix: Values
-	* [Metamodernism][10]
-	* [Contribution][11]
+	* [Contribution][12]
 *  The Phoenix: Emotions
-	*  [The Bio-Emotive Framework][12]
+	*  [The Bio-Emotive Framework][13]
 * The Phoenix: Interpersonal
-	* [Group Practices][13]
-	* [Non Violent Communication][14]
-	* [Authentic Relating][15]
-	* [Organisational Design][16]
+	* [Group Practices][14]
+	* [Non Violent Communication][15]
+	* [Authentic Relating][16]
+	* [Organisational Design][17]
 * The Pheonix: Natural World
-	* [Deep Ecology][17]
+	* [Deep Ecology][18]
 * The Phoenix: Economics
-	* [Platform Co-operatives][18]
+	* [Platform Co-operatives][19]
 * Phoenix Feathers
-	* [Organisations][19]
-	* [People][20]
-	* [Places][21]
-	* [Conferences][22]
+	* [Organisations][20]
+	* [People][21]
+	* [Places][22]
+	* [Conferences][23]
 * Other
-	* [Places to Post Articles][23]
-	* [Quotes][24]
-	* [Open Questions][25]
-	* [Metamodern Art][26]
-	* [Feedback][27]
-	* [World Shattering Ideas][28]
-	* [Philosophical Terms][29]
-	* [Cultural Code][30]
-	* [Street Epistemology][31]
+	* [Places to Post Articles][24]
+	* [Quotes][25]
+	* [Open Questions][26]
+	* [Metamodern Art][27]
+	* [Feedback][28]
+	* [World Shattering Ideas][29]
+	* [Philosophical Terms][30]
+	* [Cultural Code][31]
+	* [Street Epistemology][32]
 
 [1]:	Welcome%20to%20The%20Phoenix%20Project.md
 [2]:	inequality.md
 [3]:	alienation.md
 [4]:	environment.md
 [5]:	The%20Meaning%20Crisis.md
-[6]:	Guerrilla%20Metaphysics.md
-[7]:	The%20Transjective%20Perspective.md
-[8]:	Ways%20of%20Seeing.md
-[9]:	Meta-rationality.md
-[10]:	metamodernism.md
-[11]:	contribution.md
-[12]:	The%20Bio-Emotive%20Framework.md
-[13]:	Group%20Practices.md
-[14]:	Non%20Violent%20Communication.md
-[15]:	Authentic%20Relating.md
-[16]:	Organisational%20Design.md
-[17]:	Deep%20Ecology.md
-[18]:	Platform%20Co-ops.md
-[19]:	organisations.md
-[20]:	people.md
-[21]:	places.md
-[22]:	conferences.md
-[23]:	Places%20To%20Post%20Articles.md
-[24]:	quotes.md
-[25]:	Open%20Questions.md
-[26]:	Metamodern%20Art.md
-[27]:	feedback.md
-[28]:	World%20Shattering%20Ideas.md
-[29]:	Philosophical%20Terms.md
-[30]:	Culture%20Code.md
-[31]:	Street%20Epistemology.md
+[6]:	metamodernism.md
+[7]:	The%20Fluid%20Mode.md
+[8]:	Guerrilla%20Metaphysics.md
+[9]:	The%20Transjective%20Perspective.md
+[10]:	Ways%20of%20Seeing.md
+[11]:	Meta-rationality.md
+[12]:	contribution.md
+[13]:	The%20Bio-Emotive%20Framework.md
+[14]:	Group%20Practices.md
+[15]:	Non%20Violent%20Communication.md
+[16]:	Authentic%20Relating.md
+[17]:	Organisational%20Design.md
+[18]:	Deep%20Ecology.md
+[19]:	Platform%20Co-ops.md
+[20]:	organisations.md
+[21]:	people.md
+[22]:	places.md
+[23]:	conferences.md
+[24]:	Places%20To%20Post%20Articles.md
+[25]:	quotes.md
+[26]:	Open%20Questions.md
+[27]:	Metamodern%20Art.md
+[28]:	feedback.md
+[29]:	World%20Shattering%20Ideas.md
+[30]:	Philosophical%20Terms.md
+[31]:	Culture%20Code.md
+[32]:	Street%20Epistemology.md

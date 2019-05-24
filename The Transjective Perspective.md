@@ -15,7 +15,7 @@ To investigate and begin to play with the relationship between self and the outs
 
 Currently the only work in this area we have explored is Rob Burbea’s [Ways of Seeing][1] 
 
-# Unexplored work in this area
+# Unexplored work
 1. Adam Robbert - [Knowledge Ecology][2]
 2. Pierre Hadot - [Philosophy as a way of life][3]
 3. Henry Corbin - [Mundus Imaginalis][4]
