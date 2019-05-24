@@ -13,7 +13,7 @@ We live in a world where the individual and their desires are the core unite of 
 ### An Example of Epistemological Monoculture
 Our society season reason as the only valid way of knowing. But actually there are alternative epistemological basis such as intuition which our society denigrates.
 
-## An Example of Cosmological Monoculture
+### An Example of Cosmological Monoculture
 Our society explains the big picture of the cosmos through selfish genes with no directionality. An equally valid way to look at things is Zak Stein’s Eros i.e. that the universe seems to be tending towards higher and higher concentrations of complexity largely through a process of co-operation.
 
 ### Going Guerrilla
