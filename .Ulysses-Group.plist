@@ -355,6 +355,18 @@
 					<integer>14</integer>
 				</dict>
 			</dict>
+			<key>Reject Materialism.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>580373737.77732801</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>59</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>249</integer>
+				</dict>
+			</dict>
 			<key>Street Epistemology.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -605,6 +617,9 @@
 			<string>_sidebar.md</string>
 		</array>
 		<array>
+			<string>Reject Materialism.md</string>
+		</array>
+		<array>
 			<string>The Fluid Mode.md</string>
 		</array>
 		<array>
@@ -694,7 +709,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>59</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>246</integer>
+			<integer>250</integer>
 		</dict>
 	</dict>
 </dict>

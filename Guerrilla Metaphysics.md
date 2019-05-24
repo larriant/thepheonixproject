@@ -7,13 +7,13 @@ There are 3 main areas of metaphysics:
 + Epistemology: What is knowledge?
 + Cosmology: What is the cosmos? (the whole)
 
-### An Example of Ontological Monoculture
+### An Ontological Monoculture
 We live in a world where the individual and their desires are the core unite of being.  But looking through the lens of the individual is not the only way to see the world. We could also look through the lens of the dividual, the group or society as a whole. 
 
-### An Example of Epistemological Monoculture
+### An Epistemological Monoculture
 Our society season reason as the only valid way of knowing. But actually there are alternative epistemological basis such as intuition which our society denigrates.
 
-### An Example of Cosmological Monoculture
+### A Cosmological Monoculture
 Our society explains the big picture of the cosmos through selfish genes with no directionality. An equally valid way to look at things is Zak Stein’s Eros i.e. that the universe seems to be tending towards higher and higher concentrations of complexity largely through a process of co-operation.
 
 ### Going Guerrilla
