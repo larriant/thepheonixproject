@@ -19,6 +19,7 @@ This is a list of people related to the values of The Phoenix Project. Potential
 * [Richard D. Bartlett][17] (enspiral / occupy / neo-tribalism)
 * [Nora Bateson][18] (systems, complexity, [film-maker][19])
 * [Stephen Reid][20] (the psychedelics society)
+* [Andreas Weber][21] (philosopher and biologist)
 
 
 
@@ -46,3 +47,4 @@ This is a list of people related to the values of The Phoenix Project. Potential
 [18]:	https://norabateson.wordpress.com
 [19]:	http://www.anecologyofmind.com/thefilm.html
 [20]:	http://stephenreid.net/
+[21]:	https://www.goodreads.com/author/show/937841.Andreas_Weber
