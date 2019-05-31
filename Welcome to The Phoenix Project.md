@@ -20,7 +20,10 @@ Nobody knows exactly what the Phoenix will look like. But we believe if we look 
 # Who are we?
 Trained in physics and philosophy, Will and Julyan escaped London’s consumer dystopia to hitchhike through Europe writing poetry and philosophy, dropping in on festivals and academic conferences… only to return to help organise Extinction Rebellion’s street-occupation protest-festivals and launch a nomadic community project by squatting an empty grammar school.
 
+If you want to hear more from us we also have a [newsletter][5].
+
 [1]:	https://thephoenixproject.site
 [2]:	Environment.md
 [3]:	Inequality.md
 [4]:	Alienation.md
+[5]:	https://thephoenixproject.substack.com/mailmunch

@@ -25,15 +25,15 @@ Unfortunately we also tend to carry several unresolved feelings (i.e., not fully
 It will take some time and some work for you to determine how much is coming from the present situation you are processing and how much is coming from your unresolved emotional history.  
 
 The 9 Core Feelings are:
-+ Alone
-+ Inadequate
-+ Insignificant
-+ Lost
-+ Helpless
-+ Worthless
-+ Loss / Emptiness
-+ Bad (person)
-+ Hopeless
++ I feel Alone \<\> Connected and cared for
++ I feel Inadequate \<\> Adequate
++ I feel Insignificant \<\> Significant
++ I feel Lost \<\> Vision or Purpose
++ I feel helpless \<\> Potent and powerful
++ I feel worthless \<\> Valued
++ I feel (like a) bad (Person) \<\> A good person
++ I feel a loss/ emptiness \<\>  Fullness
++ I feel hopeless \<\> Optimism
 
 # Crying
 Crying is a visual and auditory communication to our community, family, clan etc. that we need support.
