@@ -26,4 +26,4 @@ If you want to hear more from us we also have a [newsletter][5].
 [2]:	Environment.md
 [3]:	Inequality.md
 [4]:	Alienation.md
-[5]:	https://thephoenixproject.substack.com/mailmunch
+[5]:	https://thephoenixproject.substack.com
