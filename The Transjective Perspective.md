@@ -23,6 +23,7 @@ Currently the only work in this area we have explored is Rob Burbea’s [Ways of
 5. Paul Krafel - [Seeing Nature][6]
 6. John Berger - [About Looking][7]
 7. Andreas Weber - [Poetic Objectivity][8]
+8. Karen Barad - [Meeting the Universe Halfway][9]
 
 [1]:	Ways%20of%20Seeing.md
 [2]:	https://knowledge-ecology.com/
@@ -32,3 +33,4 @@ Currently the only work in this area we have explored is Rob Burbea’s [Ways of
 [6]:	https://www.goodreads.com/book/show/548071.Seeing_Nature?from_search=true
 [7]:	https://www.goodreads.com/book/show/470185.About_Looking
 [8]:	https://cultures-of-enlivenment.org/en/poetic-objectivity
+[9]:	https://www.goodreads.com/book/show/738083.Meeting_the_Universe_Halfway?from_search=true

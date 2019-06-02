@@ -26,23 +26,24 @@
 	* [Organisational Design][20]
 * The Pheonix: Natural World
 	* [Deep Ecology][21]
+	* [Gaia][22]
 * The Phoenix: Economics
-	* [Platform Co-operatives][22]
+	* [Platform Co-operatives][23]
 * Phoenix Feathers
-	* [Organisations][23]
-	* [People][24]
-	* [Places][25]
-	* [Conferences][26]
+	* [Organisations][24]
+	* [People][25]
+	* [Places][26]
+	* [Conferences][27]
 * Other
-	* [Places to Post Articles][27]
-	* [Quotes][28]
-	* [Open Questions][29]
-	* [Metamodern Art][30]
-	* [Feedback][31]
-	* [World Shattering Ideas][32]
-	* [Philosophical Terms][33]
-	* [Cultural Code][34]
-	* [Street Epistemology][35]
+	* [Places to Post Articles][28]
+	* [Quotes][29]
+	* [Open Questions][30]
+	* [Metamodern Art][31]
+	* [Feedback][32]
+	* [World Shattering Ideas][33]
+	* [Philosophical Terms][34]
+	* [Cultural Code][35]
+	* [Street Epistemology][36]
 
 [1]:	Welcome%20to%20The%20Phoenix%20Project.md
 [2]:	inequality.md
@@ -65,17 +66,18 @@
 [19]:	Authentic%20Relating.md
 [20]:	Organisational%20Design.md
 [21]:	Deep%20Ecology.md
-[22]:	Platform%20Co-ops.md
-[23]:	organisations.md
-[24]:	people.md
-[25]:	places.md
-[26]:	conferences.md
-[27]:	Places%20To%20Post%20Articles.md
-[28]:	quotes.md
-[29]:	Open%20Questions.md
-[30]:	Metamodern%20Art.md
-[31]:	feedback.md
-[32]:	World%20Shattering%20Ideas.md
-[33]:	Philosophical%20Terms.md
-[34]:	Culture%20Code.md
-[35]:	Street%20Epistemology.md
+[22]:	Gaia.md
+[23]:	Platform%20Co-ops.md
+[24]:	organisations.md
+[25]:	people.md
+[26]:	places.md
+[27]:	conferences.md
+[28]:	Places%20To%20Post%20Articles.md
+[29]:	quotes.md
+[30]:	Open%20Questions.md
+[31]:	Metamodern%20Art.md
+[32]:	feedback.md
+[33]:	World%20Shattering%20Ideas.md
+[34]:	Philosophical%20Terms.md
+[35]:	Culture%20Code.md
+[36]:	Street%20Epistemology.md
