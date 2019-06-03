@@ -1,83 +1,90 @@
 * [Home][1]
-* The Monster Factory: Problems
-	* [Inequality][2]
-	* [Alienation][3]
-	* [Environment][4]
-	* [The Meaning Crisis][5]
+* [Hallmarks of the Monster Factory][2]
+* [Hallmarks of the Phoenix][3]
+* The Monster Factory: Deep Problems
+	* [Metaphysical Monoculture][4]
+* The Monster Factory: Crises
+	* [Inequality][5]
+	* [Alienation][6]
+	* [Environment][7]
+	* [The Meaning Crisis][8]
 * The Phoenix: Overarching Philosophies
-	* [Metamodernism][6]
-	* [The Fluid Mode][7]
-	* [Social Ecology][8]
-* The Phoenix: Metaphysics
-	* [Guerrilla Metaphysics][9]
-		* [Emergentism][10]
-		* [Reject Materialism][11]
-	* [The Transjective Perspective][12]
-		* [Ways of Seeing][13]
-	* [Meta-rationality][14]
+	* [Meta-modernism][9]
+	* [The Fluid Mode][10]
+	* [Social Ecology][11]
+* The Phoenix: Metaphysics Toolkit
+	* [Guerrilla Metaphysics][12]
+		* [Emergentism][13]
+		* [Reject Materialism][14]
+	* [The Transjective Perspective][15]
+		* [Ways of Seeing][16]
+	* [Meta-rationality][17] and ways of knowing
 * The Phoenix: Values
-	* [Contribution][15]
+	* [Contribution][18]
 *  The Phoenix: Emotions
-	*  [The Bio-Emotive Framework][16]
+	*  [The Bio-Emotive Framework][19]
 * The Phoenix: Interpersonal
-	* [Group Practices][17]
-	* [Non Violent Communication][18]
-	* [Authentic Relating][19]
-	* [Organisational Design][20]
-* The Pheonix: Natural World
-	* [Deep Ecology][21]
-	* [Gaia][22]
+	* [Group Practices][20]
+	* [Non Violent Communication][21]
+	* [Authentic Relating][22]
+	* [Organisational Design][23]
+* The Phoenix: Natural World
+	* [Deep Ecology][24]
+	* [Gaia][25]
 * The Phoenix: Economics
-	* [Platform Co-operatives][23]
+	* [Platform Co-operatives][26]
 * Phoenix Feathers
-	* [Organisations][24]
-	* [People][25]
-	* [Places][26]
-	* [Conferences][27]
+	* [Organisations][27]
+	* [People][28]
+	* [Places][29]
+	* [Conferences][30]
 * Other
-	* [Places to Post Articles][28]
-	* [Quotes][29]
-	* [Open Questions][30]
-	* [Metamodern Art][31]
-	* [Feedback][32]
-	* [World Shattering Ideas][33]
-	* [Philosophical Terms][34]
-	* [Cultural Code][35]
-	* [Street Epistemology][36]
+	* [Places to Post Articles][31]
+	* [Quotes][32]
+	* [Open Questions][33]
+	* [Meta-modern Art][34]
+	* [Feedback][35]
+	* [World Shattering Ideas][36]
+	* [Philosophical Terms][37]
+	* [Cultural Code][38]
+	* [Street Epistemology][39]
 
 [1]:	Welcome%20to%20The%20Phoenix%20Project.md
-[2]:	inequality.md
-[3]:	alienation.md
-[4]:	environment.md
-[5]:	The%20Meaning%20Crisis.md
-[6]:	metamodernism.md
-[7]:	The%20Fluid%20Mode.md
-[8]:	Social%20Ecology.md
-[9]:	Guerrilla%20Metaphysics.md
-[10]:	Emergentism.md
-[11]:	Reject%20Materialism
-[12]:	The%20Transjective%20Perspective.md
-[13]:	Ways%20of%20Seeing.md
-[14]:	Meta-rationality.md
-[15]:	contribution.md
-[16]:	The%20Bio-Emotive%20Framework.md
-[17]:	Group%20Practices.md
-[18]:	Non%20Violent%20Communication.md
-[19]:	Authentic%20Relating.md
-[20]:	Organisational%20Design.md
-[21]:	Deep%20Ecology.md
-[22]:	Gaia.md
-[23]:	Platform%20Co-ops.md
-[24]:	organisations.md
-[25]:	people.md
-[26]:	places.md
-[27]:	conferences.md
-[28]:	Places%20To%20Post%20Articles.md
-[29]:	quotes.md
-[30]:	Open%20Questions.md
-[31]:	Metamodern%20Art.md
-[32]:	feedback.md
-[33]:	World%20Shattering%20Ideas.md
-[34]:	Philosophical%20Terms.md
-[35]:	Culture%20Code.md
-[36]:	Street%20Epistemology.md
+[2]:	Hallmarks%20of%20the%20Monster%20Factory.md
+[3]:	Hallmarks%20of%20the%20Phoenix.md
+[4]:	Metaphysical%20Monoculture.md
+[5]:	inequality.md
+[6]:	alienation.md
+[7]:	environment.md
+[8]:	The%20Meaning%20Crisis.md
+[9]:	metamodernism.md
+[10]:	The%20Fluid%20Mode.md
+[11]:	Social%20Ecology.md
+[12]:	Guerrilla%20Metaphysics.md
+[13]:	Emergentism.md
+[14]:	Reject%20Materialism
+[15]:	The%20Transjective%20Perspective.md
+[16]:	Ways%20of%20Seeing.md
+[17]:	Meta-rationality.md
+[18]:	contribution.md
+[19]:	The%20Bio-Emotive%20Framework.md
+[20]:	Group%20Practices.md
+[21]:	Non%20Violent%20Communication.md
+[22]:	Authentic%20Relating.md
+[23]:	Organisational%20Design.md
+[24]:	Deep%20Ecology.md
+[25]:	Gaia.md
+[26]:	Platform%20Co-ops.md
+[27]:	organisations.md
+[28]:	people.md
+[29]:	places.md
+[30]:	conferences.md
+[31]:	Places%20To%20Post%20Articles.md
+[32]:	quotes.md
+[33]:	Open%20Questions.md
+[34]:	Metamodern%20Art.md
+[35]:	feedback.md
+[36]:	World%20Shattering%20Ideas.md
+[37]:	Philosophical%20Terms.md
+[38]:	Culture%20Code.md
+[39]:	Street%20Epistemology.md

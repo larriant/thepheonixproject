@@ -1,15 +1,15 @@
 # The Transjective Perspective
-Modernism fixates on the objective.
+Modernism fixates on the objective. 
 
-Post-Modernism fixates on the subjective.
+Postmodernism fixates on the subjective.
 
-But actually life is a co-creation between the objective and the subjective.
+But actually life is a co-creation, an intra-action, between the objective and the subjective.
 
-In whatever state we are in whether transcendent or in the depths of depression, there is always a filter between us and the world.
+In whatever state we are in, whether transcendent or in the depths of depression, there is always a filter between us and the world.
 
 The myth of modernity was that some more objective realm was accessible without a filter operating.
 
-The myth of post-modernity was that the outside world didn’t matter. 
+The myth of post-modernity was that the outside world didn’t matter: reality is all filter.
 
 To investigate and begin to play with the relationship between self and the outside world is the transjective perspective.
 

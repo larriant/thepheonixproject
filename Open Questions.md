@@ -1,5 +1,5 @@
 # Open Questions
-Here is our list of open questions.
+Here is our list of open questions… we’d love to hear your answers!
 
 1. What is the relationship between meditation + emotional intimacy?
 2. What is insight?

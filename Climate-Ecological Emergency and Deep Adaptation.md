@@ -15,7 +15,7 @@ James Lovelock, The Revenge of Gaia (2006):
 
 *When and where is the collapse?*
 
-Climate and ecological collapse is not a future occurrence: this is it. There is no time other than now, so bring collapse home to where in belongs: in your moment-to-moment attitudes, decisions and behaviours. 
+Climate and ecological collapse is not a future occurrence: this is it. There is no time other than now, so bring collapse home to where it belongs: in your moment-to-moment attitudes, decisions and behaviours. 
 
 Collapse is when you choose food with packaging, drop litter, kill and eat animals, oppress people around you, cheat and betray, gossip, drive when you could cycle, act out of fear and selfishness, interrupt someone, order off Amazon, fly to Italy, and buy new clothes. 
 Collapse is another day at the office. 
@@ -23,7 +23,5 @@ Collapse is business as usual.
 Collapse is standing by while the world burns. 
 Collapse is inaction. 
 Collapse is failure to believe in another way of life; failure to seek it out; failure to try.
-
-—
 
 Collapse isn’t “out there in the world” or “here in my mind”, but in the space between; the interaction of the two. 

@@ -11,5 +11,7 @@ So here goes.
 3. Rob Burbea - Ways of Looking Spirituality.
 4. Metaphysical mono-culturing (Zak Stein)
 5. Metamodernism (aka Hanzi)
+6. Entropy and the Edge of chaos principle
+7. 
 
 Would be great to try and explain each of these in a blog post. Or have a good pitch down for them at least.
