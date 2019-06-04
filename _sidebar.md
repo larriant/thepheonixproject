@@ -27,27 +27,28 @@
 	* [Group Practices][20]
 	* [Non Violent Communication][21]
 	* [Authentic Relating][22]
-	* [Organisational Design][23]
+	* [The Work That Reconnects][23]
+	* [Organisational Design][24]
 * The Phoenix: Natural World
-	* [Deep Ecology][24]
-	* [Gaia][25]
+	* [Deep Ecology][25]
+	* [Gaia][26]
 * The Phoenix: Economics
-	* [Platform Co-operatives][26]
+	* [Platform Co-operatives][27]
 * Phoenix Feathers
-	* [Organisations][27]
-	* [People][28]
-	* [Places][29]
-	* [Conferences][30]
+	* [Organisations][28]
+	* [People][29]
+	* [Places][30]
+	* [Conferences][31]
 * Other
-	* [Places to Post Articles][31]
-	* [Quotes][32]
-	* [Open Questions][33]
-	* [Meta-modern Art][34]
-	* [Feedback][35]
-	* [World Shattering Ideas][36]
-	* [Philosophical Terms][37]
-	* [Cultural Code][38]
-	* [Street Epistemology][39]
+	* [Places to Post Articles][32]
+	* [Quotes][33]
+	* [Open Questions][34]
+	* [Meta-modern Art][35]
+	* [Feedback][36]
+	* [World Shattering Ideas][37]
+	* [Philosophical Terms][38]
+	* [Cultural Code][39]
+	* [Street Epistemology][40]
 
 [1]:	Welcome%20to%20The%20Phoenix%20Project.md
 [2]:	Hallmarks%20of%20the%20Monster%20Factory.md
@@ -71,20 +72,21 @@
 [20]:	Group%20Practices.md
 [21]:	Non%20Violent%20Communication.md
 [22]:	Authentic%20Relating.md
-[23]:	Organisational%20Design.md
-[24]:	Deep%20Ecology.md
-[25]:	Gaia.md
-[26]:	Platform%20Co-ops.md
-[27]:	organisations.md
-[28]:	people.md
-[29]:	places.md
-[30]:	conferences.md
-[31]:	Places%20To%20Post%20Articles.md
-[32]:	quotes.md
-[33]:	Open%20Questions.md
-[34]:	Metamodern%20Art.md
-[35]:	feedback.md
-[36]:	World%20Shattering%20Ideas.md
-[37]:	Philosophical%20Terms.md
-[38]:	Culture%20Code.md
-[39]:	Street%20Epistemology.md
+[23]:	The%20Work%20That%20Reconnects.md
+[24]:	Organisational%20Design.md
+[25]:	Deep%20Ecology.md
+[26]:	Gaia.md
+[27]:	Platform%20Co-ops.md
+[28]:	organisations.md
+[29]:	people.md
+[30]:	places.md
+[31]:	conferences.md
+[32]:	Places%20To%20Post%20Articles.md
+[33]:	quotes.md
+[34]:	Open%20Questions.md
+[35]:	Metamodern%20Art.md
+[36]:	feedback.md
+[37]:	World%20Shattering%20Ideas.md
+[38]:	Philosophical%20Terms.md
+[39]:	Culture%20Code.md
+[40]:	Street%20Epistemology.md
