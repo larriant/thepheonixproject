@@ -9,12 +9,7 @@ The spiral of the work that reconnects is divided into 4 sections:
 
 
 ## Coming From Gratitude
-+ The originating impulse of all religious and spiritual traditions is gratitude for the gift of life.
-+ In times of turmoil and danger, gratitude helps to steady and ground us.
-+ That our world is in crisis - to the point where survival of conscious life on Earth is in question - in no way diminishes the wonder of this present moment. 
-+ The great open secret is this: gratitude is not dependent on our external circumstances.
-+ Gratitude is politically subversive in the Industrial Growth Society. It helps inoculate us against the consumerism upon which corporate capitalism depends.
-
+For context check out our page on: [Coming From Gratitude][1].
 ### Opening Through Breath
 Begin by having everyone pay attention to their breathing for a few moments. as we let ourselves experience our pain for the world, the breath continues to serve us, much as it serves a woman in childbirth. It helps us relax and open to the flow of information, and to the changes it may bring.
 
@@ -158,6 +153,8 @@ After first round of the game, allow the groups five minutes to invent their own
 Think of a time in your life when something important and good happened because of what you said or did. Recapture the scene, play it back for yourself. Now in groups of three or four, people take turns telling their stories. The guide asks people to call out the qualities they discerned in each other’s stories
 
 ### Widening Circles of Four Voices
+For context check out our page on: [Concentric Circles of Self][2].
+
 People sit in groups of three or four. Ask them each to choose a particular issue or situation that concerns them. After a minute of silence, invite them to take turns speaking about their issue.
 
 Each person will speak to their issue from four perspectives while the others in the group listen:
@@ -247,3 +244,5 @@ On the last evening or last day, a simple ritual is held. With everyone standing
 One at a time, each person steps forward into the circle and declares a particular action or path they intend to pursue. The full circle responds by singing the person’s name several times and with spontaneous words of affirmation and encouragement.
 
 
+[1]:	Coming%20From%20Gratitude.md
+[2]:	Concentric%20Circles%20of%20Self.md

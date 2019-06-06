@@ -47,6 +47,18 @@
 					<integer>189</integer>
 				</dict>
 			</dict>
+			<key>Capitalist Realism.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>581511905.52489698</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>144</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>291</integer>
+				</dict>
+			</dict>
 			<key>Climate-Ecological Emergency and Deep Adaptation.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -57,6 +69,18 @@
 					<integer>86</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>255</integer>
+				</dict>
+			</dict>
+			<key>Coming from Gratitude.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>581512070.169765</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>144</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>297</integer>
 				</dict>
 			</dict>
 			<key>Concentric Circles of Self.md</key>
@@ -583,22 +607,6 @@
 					<integer>266</integer>
 				</dict>
 			</dict>
-			<key>Untitled.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>581510799.33352399</real>
-				<key>lastModification</key>
-				<real>581510799.33352399</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>144</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>288</integer>
-				</dict>
-			</dict>
 			<key>Utopianism.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -790,6 +798,12 @@
 			<string>Neoliberalism - 2.md</string>
 		</array>
 		<array>
+			<string>Coming from Gratitude.md</string>
+		</array>
+		<array>
+			<string>Capitalist Realism.md</string>
+		</array>
+		<array>
 			<string>Concentric Circles of Self.md</string>
 		</array>
 		<array>
@@ -809,9 +823,6 @@
 		</array>
 		<array>
 			<string>The Meaning Crisis.md</string>
-		</array>
-		<array>
-			<string>Untitled.md</string>
 		</array>
 		<array>
 			<string>The Transjective Perspective.md</string>
@@ -900,7 +911,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>144</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>288</integer>
+			<integer>298</integer>
 		</dict>
 	</dict>
 </dict>
