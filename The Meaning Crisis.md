@@ -17,3 +17,8 @@ In the west, we are realising with divisive discomfort that our Judeo-Christian 
 
 ## Consumerism’s Mundane Meaning
 To avoid squarely confronting the implications of the death of god, we distract ourselves with trivial entertainments.  Consumerism’s insatiable hunger for novelty, for continually more form, has an edge of desperation. We know that God is dead, but we refuse to deal with the news. Consumerism is hiding your head under the blankets.
+
+# References
+1. [Suicide Statistics][1]
+
+[1]:	https://www.befrienders.org/suicide-statistics
