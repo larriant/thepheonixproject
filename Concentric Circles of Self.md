@@ -8,7 +8,14 @@ Another way of seeing is the **connected self**. This recognises that we are par
 
 ![][image-1]
 
+We can practice looking at the world through these different perspectives.
+
+## Related
+The **dividual** is a way of seeing that highlights the relationship between two individuals. Two friends are not individuals but are constantly co-creating each other. When together they amount to more than the sum of their individual selves.
+
 Arne Naess introduced the term **ecological self** to describe the wider sense of identity that arises when our self-interest includes the natural world.
+
+This perspective can also be used to look for ways of seeing smaller than the individual. That the individual is made up of many **sub-minds**, often out of conscious control. 
 
 Experiencing a wider identity of self does not mean losing our individuality. Instead, it is through finding and playing our unique role within a community that we feel more strongly part of it. 
 
