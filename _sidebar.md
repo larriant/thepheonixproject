@@ -18,43 +18,44 @@
 		* [Emergentism][15]
 		* [Reject Materialism][16]
 		* [Concentric Circles of Self][17]
-	* [The Transjective Perspective][18]
-		* [Ways of Seeing][19]
+		* [Game Change][18]
+	* [The Transjective Perspective][19]
+		* [Ways of Seeing][20]
 	* Ways of Knowing
-		* [Meta-rationality][20]
+		* [Meta-rationality][21]
 * The Phoenix: Values
-	* [Contribution][21]
+	* [Contribution][22]
 * The Phoenix: Responding to Collapse
-	* [Coming from Gratitude][22]
-	* [Utopia of the Beautiful End][23]
+	* [Coming from Gratitude][23]
+	* [Utopia of the Beautiful End][24]
 *  The Phoenix: Emotions
-	*  [The Bio-Emotive Framework][24]
+	*  [The Bio-Emotive Framework][25]
 * The Phoenix: Interpersonal
-	* [Group Practices][25]
-	* [Non Violent Communication][26]
-	* [Authentic Relating][27]
-	* [The Work That Reconnects][28]
-	* [Organisational Design][29]
+	* [Group Practices][26]
+	* [Non Violent Communication][27]
+	* [Authentic Relating][28]
+	* [The Work That Reconnects][29]
+	* [Organisational Design][30]
 * The Phoenix: Natural World
-	* [Deep Ecology][30]
-	* [Gaia][31]
+	* [Deep Ecology][31]
+	* [Gaia][32]
 * The Phoenix: Economics
-	* [Platform Co-operatives][32]
+	* [Platform Co-operatives][33]
 * Phoenix Feathers
-	* [Organisations][33]
-	* [People][34]
-	* [Places][35]
-	* [Conferences][36]
+	* [Organisations][34]
+	* [People][35]
+	* [Places][36]
+	* [Conferences][37]
 * Other
-	* [Places to Post Articles][37]
-	* [Quotes][38]
-	* [Open Questions][39]
-	* [Meta-modern Art][40]
-	* [Feedback][41]
-	* [World Shattering Ideas][42]
-	* [Philosophical Terms][43]
-	* [Cultural Code][44]
-	* [Street Epistemology][45]
+	* [Places to Post Articles][38]
+	* [Quotes][39]
+	* [Open Questions][40]
+	* [Meta-modern Art][41]
+	* [Feedback][42]
+	* [World Shattering Ideas][43]
+	* [Philosophical Terms][44]
+	* [Cultural Code][45]
+	* [Street Epistemology][46]
 
 [1]:	Welcome%20to%20The%20Phoenix%20Project.md
 [2]:	Hallmarks%20of%20the%20Monster%20Factory.md
@@ -73,31 +74,32 @@
 [15]:	Emergentism.md
 [16]:	Reject%20Materialism
 [17]:	Concentric%20Circles%20of%20Self.md
-[18]:	The%20Transjective%20Perspective.md
-[19]:	Ways%20of%20Seeing.md
-[20]:	Meta-rationality.md
-[21]:	contribution.md
-[22]:	Coming%20From%20Gratitude.md
-[23]:	Utopia%20of%20the%20Beautiful%20End.md
-[24]:	The%20Bio-Emotive%20Framework.md
-[25]:	Group%20Practices.md
-[26]:	Non%20Violent%20Communication.md
-[27]:	Authentic%20Relating.md
-[28]:	The%20Work%20That%20Reconnects.md
-[29]:	Organisational%20Design.md
-[30]:	Deep%20Ecology.md
-[31]:	Gaia.md
-[32]:	Platform%20Co-ops.md
-[33]:	organisations.md
-[34]:	people.md
-[35]:	places.md
-[36]:	conferences.md
-[37]:	Places%20To%20Post%20Articles.md
-[38]:	quotes.md
-[39]:	Open%20Questions.md
-[40]:	Metamodern%20Art.md
-[41]:	feedback.md
-[42]:	World%20Shattering%20Ideas.md
-[43]:	Philosophical%20Terms.md
-[44]:	Culture%20Code.md
-[45]:	Street%20Epistemology.md
+[18]:	Game%20Change.md
+[19]:	The%20Transjective%20Perspective.md
+[20]:	Ways%20of%20Seeing.md
+[21]:	Meta-rationality.md
+[22]:	contribution.md
+[23]:	Coming%20From%20Gratitude.md
+[24]:	Utopia%20of%20the%20Beautiful%20End.md
+[25]:	The%20Bio-Emotive%20Framework.md
+[26]:	Group%20Practices.md
+[27]:	Non%20Violent%20Communication.md
+[28]:	Authentic%20Relating.md
+[29]:	The%20Work%20That%20Reconnects.md
+[30]:	Organisational%20Design.md
+[31]:	Deep%20Ecology.md
+[32]:	Gaia.md
+[33]:	Platform%20Co-ops.md
+[34]:	organisations.md
+[35]:	people.md
+[36]:	places.md
+[37]:	conferences.md
+[38]:	Places%20To%20Post%20Articles.md
+[39]:	quotes.md
+[40]:	Open%20Questions.md
+[41]:	Metamodern%20Art.md
+[42]:	feedback.md
+[43]:	World%20Shattering%20Ideas.md
+[44]:	Philosophical%20Terms.md
+[45]:	Culture%20Code.md
+[46]:	Street%20Epistemology.md

@@ -189,6 +189,18 @@
 					<integer>255</integer>
 				</dict>
 			</dict>
+			<key>Game Change.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>581512790.98334706</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>144</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>301</integer>
+				</dict>
+			</dict>
 			<key>Group Practices.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -798,6 +810,9 @@
 			<string>Neoliberalism - 2.md</string>
 		</array>
 		<array>
+			<string>Game Change.md</string>
+		</array>
+		<array>
 			<string>Coming from Gratitude.md</string>
 		</array>
 		<array>
@@ -911,7 +926,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>144</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>298</integer>
+			<integer>302</integer>
 		</dict>
 	</dict>
 </dict>
