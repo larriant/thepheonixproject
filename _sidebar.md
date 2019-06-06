@@ -18,10 +18,11 @@
 	* [Guerrilla Metaphysics][14]
 		* [Emergentism][15]
 		* [Reject Materialism][16]
-	* [The Transjective Perspective][17]
-		* [Ways of Seeing][18]
-	* [Meta-rationality][19] and ways of knowing
-	* [Concentric Circles of Self][20]
+		* [Concentric Circles of Self][17]
+	* [The Transjective Perspective][18]
+		* [Ways of Seeing][19]
+	* Ways of Knowing
+		* [Meta-rationality][20]
 * The Phoenix: Values
 	* [Contribution][21]
 *  The Phoenix: Emotions
@@ -69,10 +70,10 @@
 [14]:	Guerrilla%20Metaphysics.md
 [15]:	Emergentism.md
 [16]:	Reject%20Materialism
-[17]:	The%20Transjective%20Perspective.md
-[18]:	Ways%20of%20Seeing.md
-[19]:	Meta-rationality.md
-[20]:	Concentric%20Circles%20of%20Self.md
+[17]:	Concentric%20Circles%20of%20Self.md
+[18]:	The%20Transjective%20Perspective.md
+[19]:	Ways%20of%20Seeing.md
+[20]:	Meta-rationality.md
 [21]:	contribution.md
 [22]:	The%20Bio-Emotive%20Framework.md
 [23]:	Group%20Practices.md
