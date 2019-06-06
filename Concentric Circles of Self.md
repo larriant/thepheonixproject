@@ -4,7 +4,7 @@ There are many different [ways of seeing][1] the self.
 
 Our society is limited to the **separate self** or individual. This is a discrete entity separate from other people and the world.
 
-Another way of seeing is the **connected self**. This recognises that we are part of many larger circles. Our communities, our society, the ecological world and the universe itself. 
+Another way of seeing is the **connected self**. This recognises that we are part of many larger **concentric circles**. These include our communities, our society, our ecological world and the universe itself. 
 
 ![][image-1]
 
@@ -15,7 +15,7 @@ The **dividual** is a way of seeing that highlights the relationship between two
 
 Arne Naess introduced the term **ecological self** to describe the wider sense of identity that arises when our self-interest includes the natural world.
 
-This perspective can also be used to look for ways of seeing smaller than the individual. That the individual is made up of many **sub-minds**, often out of conscious control. 
+This perspective can also be used to look for ways of seeing smaller than the individual. For example, that the individual is made up of many **sub-minds**, often out of conscious control. 
 
 Experiencing a wider identity of self does not mean losing our individuality. Instead, it is through finding and playing our unique role within a community that we feel more strongly part of it. 
 
