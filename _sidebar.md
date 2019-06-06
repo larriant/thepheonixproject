@@ -27,7 +27,7 @@
 	* [Contribution][22]
 * The Phoenix: Responding to Collapse
 	* [Coming from Gratitude][23]
-	* [Utopia of the Beautiful End][24]
+	* [Utopian Imagination][24]
 *  The Phoenix: Emotions
 	*  [The Bio-Emotive Framework][25]
 * The Phoenix: Interpersonal
