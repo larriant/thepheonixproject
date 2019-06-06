@@ -11,7 +11,7 @@ We heavily make use of two metaphors:
 
 The **Monster Factory** (coined by Vinay Gupta) is our present society. It destroys our [environment][2], leads to gross [inequalities][3] of money and power and contributes to a great deal of [alienation][4] from self, other and environment. 
 
-The **Phoenix** is the society we hope arises from the ashes of our present civilisation. 
+The **Phoenix** is the society we are attempting to build from the ashes of our present civilisation. 
 
 Nobody knows exactly what the Phoenix will look like. But we believe if we look closely we can see some feathers of the phoenix already emerging. 
 

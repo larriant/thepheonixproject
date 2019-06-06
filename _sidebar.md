@@ -8,47 +8,50 @@
 	* [Alienation][6]
 	* [Environment][7]
 	* [The Meaning Crisis][8]
+	* [Neoliberalism][9]
+	* [Neo-Colonialism][10]
 * The Phoenix: Overarching Philosophies
-	* [Meta-modernism][9]
-	* [The Fluid Mode][10]
-	* [Social Ecology][11]
+	* [Metamodernism][11]
+	* [The Fluid Mode][12]
+	* [Social Ecology][13]
 * The Phoenix: Metaphysics Toolkit
-	* [Guerrilla Metaphysics][12]
-		* [Emergentism][13]
-		* [Reject Materialism][14]
-	* [The Transjective Perspective][15]
-		* [Ways of Seeing][16]
-	* [Meta-rationality][17] and ways of knowing
+	* [Guerrilla Metaphysics][14]
+		* [Emergentism][15]
+		* [Reject Materialism][16]
+	* [The Transjective Perspective][17]
+		* [Ways of Seeing][18]
+	* [Meta-rationality][19] and ways of knowing
+	* [Concentric Circles of Self][20]
 * The Phoenix: Values
-	* [Contribution][18]
+	* [Contribution][21]
 *  The Phoenix: Emotions
-	*  [The Bio-Emotive Framework][19]
+	*  [The Bio-Emotive Framework][22]
 * The Phoenix: Interpersonal
-	* [Group Practices][20]
-	* [Non Violent Communication][21]
-	* [Authentic Relating][22]
-	* [The Work That Reconnects][23]
-	* [Organisational Design][24]
+	* [Group Practices][23]
+	* [Non Violent Communication][24]
+	* [Authentic Relating][25]
+	* [The Work That Reconnects][26]
+	* [Organisational Design][27]
 * The Phoenix: Natural World
-	* [Deep Ecology][25]
-	* [Gaia][26]
+	* [Deep Ecology][28]
+	* [Gaia][29]
 * The Phoenix: Economics
-	* [Platform Co-operatives][27]
+	* [Platform Co-operatives][30]
 * Phoenix Feathers
-	* [Organisations][28]
-	* [People][29]
-	* [Places][30]
-	* [Conferences][31]
+	* [Organisations][31]
+	* [People][32]
+	* [Places][33]
+	* [Conferences][34]
 * Other
-	* [Places to Post Articles][32]
-	* [Quotes][33]
-	* [Open Questions][34]
-	* [Meta-modern Art][35]
-	* [Feedback][36]
-	* [World Shattering Ideas][37]
-	* [Philosophical Terms][38]
-	* [Cultural Code][39]
-	* [Street Epistemology][40]
+	* [Places to Post Articles][35]
+	* [Quotes][36]
+	* [Open Questions][37]
+	* [Meta-modern Art][38]
+	* [Feedback][39]
+	* [World Shattering Ideas][40]
+	* [Philosophical Terms][41]
+	* [Cultural Code][42]
+	* [Street Epistemology][43]
 
 [1]:	Welcome%20to%20The%20Phoenix%20Project.md
 [2]:	Hallmarks%20of%20the%20Monster%20Factory.md
@@ -58,35 +61,38 @@
 [6]:	alienation.md
 [7]:	environment.md
 [8]:	The%20Meaning%20Crisis.md
-[9]:	metamodernism.md
-[10]:	The%20Fluid%20Mode.md
-[11]:	Social%20Ecology.md
-[12]:	Guerrilla%20Metaphysics.md
-[13]:	Emergentism.md
-[14]:	Reject%20Materialism
-[15]:	The%20Transjective%20Perspective.md
-[16]:	Ways%20of%20Seeing.md
-[17]:	Meta-rationality.md
-[18]:	contribution.md
-[19]:	The%20Bio-Emotive%20Framework.md
-[20]:	Group%20Practices.md
-[21]:	Non%20Violent%20Communication.md
-[22]:	Authentic%20Relating.md
-[23]:	The%20Work%20That%20Reconnects.md
-[24]:	Organisational%20Design.md
-[25]:	Deep%20Ecology.md
-[26]:	Gaia.md
-[27]:	Platform%20Co-ops.md
-[28]:	organisations.md
-[29]:	people.md
-[30]:	places.md
-[31]:	conferences.md
-[32]:	Places%20To%20Post%20Articles.md
-[33]:	quotes.md
-[34]:	Open%20Questions.md
-[35]:	Metamodern%20Art.md
-[36]:	feedback.md
-[37]:	World%20Shattering%20Ideas.md
-[38]:	Philosophical%20Terms.md
-[39]:	Culture%20Code.md
-[40]:	Street%20Epistemology.md
+[9]:	Neoliberalism.md
+[10]:	Neo-Colonialism.md
+[11]:	metamodernism.md
+[12]:	The%20Fluid%20Mode.md
+[13]:	Social%20Ecology.md
+[14]:	Guerrilla%20Metaphysics.md
+[15]:	Emergentism.md
+[16]:	Reject%20Materialism
+[17]:	The%20Transjective%20Perspective.md
+[18]:	Ways%20of%20Seeing.md
+[19]:	Meta-rationality.md
+[20]:	Concentric%20Circles%20of%20Self.md
+[21]:	contribution.md
+[22]:	The%20Bio-Emotive%20Framework.md
+[23]:	Group%20Practices.md
+[24]:	Non%20Violent%20Communication.md
+[25]:	Authentic%20Relating.md
+[26]:	The%20Work%20That%20Reconnects.md
+[27]:	Organisational%20Design.md
+[28]:	Deep%20Ecology.md
+[29]:	Gaia.md
+[30]:	Platform%20Co-ops.md
+[31]:	organisations.md
+[32]:	people.md
+[33]:	places.md
+[34]:	conferences.md
+[35]:	Places%20To%20Post%20Articles.md
+[36]:	quotes.md
+[37]:	Open%20Questions.md
+[38]:	Metamodern%20Art.md
+[39]:	feedback.md
+[40]:	World%20Shattering%20Ideas.md
+[41]:	Philosophical%20Terms.md
+[42]:	Culture%20Code.md
+[43]:	Street%20Epistemology.md

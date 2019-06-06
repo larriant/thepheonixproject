@@ -59,6 +59,18 @@
 					<integer>255</integer>
 				</dict>
 			</dict>
+			<key>Concentric Circles of Self.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>581507389.682845</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>144</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>283</integer>
+				</dict>
+			</dict>
 			<key>Conferences.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -271,6 +283,34 @@
 					<integer>41</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>127</integer>
+				</dict>
+			</dict>
+			<key>Neo-Colonialism.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>581507087.11571503</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>144</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>274</integer>
+				</dict>
+			</dict>
+			<key>Neoliberalism - 2.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>581507096.97394896</real>
+				<key>lastModification</key>
+				<real>581507096.97394896</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>144</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>276</integer>
 				</dict>
 			</dict>
 			<key>Neoliberalism.md</key>
@@ -731,6 +771,15 @@
 			<string>_sidebar.md</string>
 		</array>
 		<array>
+			<string>Neoliberalism - 2.md</string>
+		</array>
+		<array>
+			<string>Concentric Circles of Self.md</string>
+		</array>
+		<array>
+			<string>Neo-Colonialism.md</string>
+		</array>
+		<array>
 			<string>The Work That Reconnects.md</string>
 		</array>
 		<array>
@@ -832,7 +881,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>144</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>267</integer>
+			<integer>283</integer>
 		</dict>
 	</dict>
 </dict>
