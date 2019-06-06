@@ -14,6 +14,9 @@ Experiencing a wider identity of self does not mean losing our individuality. In
 
 For a complex system to self-organise and function well, it requires both the integration and the differentiation of its parts.
 
+## References
+1. Active Hope by Joanna Macy Ch.5
+
 [1]:	Ways%20of%20Seeing.md
 
 [image-1]:	_media/concentriccircles.gif
