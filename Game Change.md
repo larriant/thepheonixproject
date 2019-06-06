@@ -1,12 +1,13 @@
 # Game Change
-Life is a game. Always will be.
 
-Societal progress is about **Game Change**; it’s when the background rules of life’s interactions—everyday, normal interactions—change and evolve.
+Life is a game - it always will be.
+
+Societal progress is about **Game Change**. This when the background rules of life’s interactions change and evolve.
 
 Game change is the bastard child of two evils: game denial and game acceptance.
 
 ## Game Denial
-**Game Denial** is the avoidance of the logical and behavioural rules that regulate human relations. When you “wish away” uncomfortable truths regarding human relations and how reality works.
+**Game Denial** is the avoidance of the logical and behavioural rules that regulate human relations. It’s when you “wish away” the uncomfortable truths regarding human relations and how reality works.
 
 Game denial means to hate the game and try to eradicate it.
 
@@ -14,7 +15,7 @@ Game denial means to hate the game and try to eradicate it.
 **Game Acceptance** means to take the rules of the game in their current form as fixed and ignore the fact that they can evolve.
 
 ## Game Change
-**Game Change** is the productive synthesis of game denial and game acceptance. You accept that life is a game **and** you resolve to work to change it.
+**Game Change** is the productive synthesis of game denial and game acceptance. You _both_ accept that life is a game **and** you resolve to work to change it.
 
 Life is unfair because relations between sentient beings are layered in games for scarce resources. 
 
