@@ -7,13 +7,13 @@ According to the World Health Organisation, suicide rates have increased 60% wor
 Suicide must not only be consequent of an agent’s hunger for meaning; it is also the result of an inability to locate any in the arena of the world.
 
 ## The Death of God
-Friedrich Nietzsche announced the death of God. He was first to face facts: God could no longer provide the ultimate source of meaning, because religion could no longer be taken seriously by educated Europeans.
+Friedrich Nietzsche announced the death of God. He was first to face the facts: God could no longer provide the ultimate source of meaning, because religion could no longer be taken seriously by educated Europeans.
+
+We had used God as the source of meaning, purpose, values and ethics.
 
 This death of God left a hole in the heart of Western culture.
 
- We had used God as the source of meaning, purpose, values and ethics.
-
-We are realising with divisive discomfort that our Judeo-Christian model of meaning, which occupied our teleological awareness for over a millennium, was unprepared for the post-scientific world into which it was ushered.
+In the west, we are realising with divisive discomfort that our Judeo-Christian model of meaning is unprepared for the post-scientific world we find ourselves in.
 
 ## Consumerism’s Mundane Meaning
 To avoid squarely confronting the implications of the death of god, we distract ourselves with trivial entertainments.  Consumerism’s insatiable hunger for novelty, for continually more form, has an edge of desperation. We know that God is dead, but we refuse to deal with the news. Consumerism is hiding your head under the blankets.
