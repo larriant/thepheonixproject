@@ -16,4 +16,4 @@ For a complex system to self-organise and function well, it requires both the in
 
 [1]:	Ways%20of%20Seeing.md
 
-[image-1]:	concentriccircles.gif
+[image-1]:	_media/concentriccircles.gif
