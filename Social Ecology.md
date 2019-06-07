@@ -2,12 +2,22 @@
 
 Social Ecology is a paradigm developed by Murray Bookchin, which holds that the ecological crises facing humanity - and all other life on Earth - are inextricably linked to social crises. It advocates an approach to social development focussed on community, as a means of moving toward an “ecological society”, which would be harmonious with nature by embodying its core principles.
 
-The Institute for Social Ecology (ISE) states that its “core belief” is “that the human potential to play a creative role in natural and social evolution can be realized, thereby allowing us to foster communities free from hierarchy, social inequity, and ecological degradation. The ISE views the global penetration of systems of domination into daily life, the centralization of political and economic power, the homogenization of culture, and the strengthening of hierarchy and social control as impediments to human freedom and the root causes of the current ecological crisis.”
+The Institute for Social Ecology (ISE) states that its “core belief” is “that the human potential to play a creative role in natural and social evolution can be realised, thereby allowing us to foster communities free from hierarchy, social inequity, and ecological degradation. The ISE views the global penetration of systems of domination into daily life, the centralisation of political and economic power, the homogenisation of culture, and the strengthening of hierarchy and social control as impediments to human freedom and the root causes of the current ecological crisis.”
 
 “Social ecology advocates a reconstructive approach that promotes a directly democratic, confederal politics. As a body of ideas, social ecology envisions a moral economy that moves beyond scarcity and hierarchy toward a world that fully celebrates diversity.”
 
+Social ecology is utopian in its striving for “a new level of culture, profoundly different from our current civilisation, free from hierarchy and domination and in harmony with other species on this planet.” 
+
+Social Ecology delineates three types of nature:
 
 
+“First nature: nature evolving according to processes not affected by humanity; biological evolution and the inorganic universe.
+
+Second nature: nature determined by human consciousness and action; cultural evolution. Second nature grows directly out of first nature. “
+
+Free nature: EDGE OF CHAOS
+
+# Related
 
 From [https://roarmag.org/magazine/communalism-climate-chaos/][1]
 

@@ -495,6 +495,18 @@
 					<integer>14</integer>
 				</dict>
 			</dict>
+			<key>Reclaiming Utopia.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>581601415.12785196</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>144</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>324</integer>
+				</dict>
+			</dict>
 			<key>Reject Materialism.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -505,6 +517,18 @@
 					<integer>59</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>249</integer>
+				</dict>
+			</dict>
+			<key>Sensing With Soul.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>581515408.83692205</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>144</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>313</integer>
 				</dict>
 			</dict>
 			<key>Social Ecology (Will Franks's conflicted copy 2019-05-26).md</key>
@@ -619,40 +643,44 @@
 					<integer>266</integer>
 				</dict>
 			</dict>
-			<key>Utopian Imagination.md</key>
+			<key>Tools for Prefigurative Movements.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>581513734.88688195</real>
+				<real>581605642.88225496</real>
 				<key>version</key>
 				<dict>
 					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 					<integer>144</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>307</integer>
+					<integer>328</integer>
 				</dict>
 			</dict>
-			<key>Utopianism.md</key>
+			<key>Utopian Imagination.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>581600491.27369905</real>
 				<key>lastModification</key>
-				<real>581089828.13489199</real>
+				<real>581600491.27369905</real>
 				<key>version</key>
 				<dict>
 					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>94</integer>
+					<integer>144</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>255</integer>
+					<integer>319</integer>
 				</dict>
 			</dict>
 			<key>Ways of Seeing.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>580340047.45661497</real>
+				<real>581515758.56808996</real>
 				<key>version</key>
 				<dict>
 					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>59</integer>
+					<integer>144</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>191</integer>
+					<integer>315</integer>
 				</dict>
 			</dict>
 			<key>Welcome to The Phoenix Project.md</key>
@@ -768,7 +796,10 @@
 			<string>The Bodhisattva narrative.md</string>
 		</array>
 		<array>
-			<string>Utopianism.md</string>
+			<string>Reclaiming Utopia.md</string>
+		</array>
+		<array>
+			<string>Tools for Prefigurative Movements.md</string>
 		</array>
 		<array>
 			<string>Climate-Ecological Emergency and Deep Adaptation.md</string>
@@ -820,6 +851,9 @@
 		</array>
 		<array>
 			<string>Neoliberalism - 2.md</string>
+		</array>
+		<array>
+			<string>Sensing With Soul.md</string>
 		</array>
 		<array>
 			<string>Game Change.md</string>
@@ -941,7 +975,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>144</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>308</integer>
+			<integer>329</integer>
 		</dict>
 	</dict>
 </dict>

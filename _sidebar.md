@@ -6,9 +6,13 @@
 	* [Alienation][5]
 	* [Environment][6]
 	* [The Meaning Crisis][7]
+* The Monster Factory: Ideas
 	* [Neoliberalism][8]
-	* [Neo-Colonialism][9]
-	* [Capitalist Realism][10]
+	* [Capitalist Realism][9]
+* The Monster Factory: Oppressive Structures
+	* [Neo-Colonialism][10]
+	* Patriarchy
+	* Intersectionality
 * The Phoenix: Overarching Philosophies
 	* [Metamodernism][11]
 	* [The Fluid Mode][12]
@@ -21,41 +25,42 @@
 		* [Game Change][18]
 	* [The Transjective Perspective][19]
 		* [Ways of Seeing][20]
+		* [Sensing with Soul][21]
 	* Ways of Knowing
-		* [Meta-rationality][21]
+		* [Meta-rationality][22]
 * The Phoenix: Values
-	* [Contribution][22]
+	* [Contribution][23]
 * The Phoenix: Responding to Collapse
-	* [Coming from Gratitude][23]
-	* [Utopian Imagination][24]
+	* [Coming from Gratitude][24]
+	* [Utopian Imagination][25]
 *  The Phoenix: Emotions
-	*  [The Bio-Emotive Framework][25]
+	*  [The Bio-Emotive Framework][26]
 * The Phoenix: Interpersonal
-	* [Group Practices][26]
-	* [Non Violent Communication][27]
-	* [Authentic Relating][28]
-	* [The Work That Reconnects][29]
-	* [Organisational Design][30]
+	* [Group Practices][27]
+	* [Non Violent Communication][28]
+	* [Authentic Relating][29]
+	* [The Work That Reconnects][30]
+	* [Organisational Design][31]
 * The Phoenix: Natural World
-	* [Deep Ecology][31]
-	* [Gaia][32]
+	* [Deep Ecology][32]
+	* [Gaia][33]
 * The Phoenix: Economics
-	* [Platform Co-operatives][33]
+	* [Platform Co-operatives][34]
 * Phoenix Feathers
-	* [Organisations][34]
-	* [People][35]
-	* [Places][36]
-	* [Conferences][37]
+	* [Organisations][35]
+	* [People][36]
+	* [Places][37]
+	* [Conferences][38]
 * Other
-	* [Places to Post Articles][38]
-	* [Quotes][39]
-	* [Open Questions][40]
-	* [Meta-modern Art][41]
-	* [Feedback][42]
-	* [World Shattering Ideas][43]
-	* [Philosophical Terms][44]
-	* [Cultural Code][45]
-	* [Street Epistemology][46]
+	* [Places to Post Articles][39]
+	* [Quotes][40]
+	* [Open Questions][41]
+	* [Meta-modern Art][42]
+	* [Feedback][43]
+	* [World Shattering Ideas][44]
+	* [Philosophical Terms][45]
+	* [Cultural Code][46]
+	* [Street Epistemology][47]
 
 [1]:	Welcome%20to%20The%20Phoenix%20Project.md
 [2]:	Hallmarks%20of%20the%20Monster%20Factory.md
@@ -65,8 +70,8 @@
 [6]:	environment.md
 [7]:	The%20Meaning%20Crisis.md
 [8]:	Neoliberalism.md
-[9]:	Neo-Colonialism.md
-[10]:	Capitalist%20Realism.md
+[9]:	Capitalist%20Realism.md
+[10]:	Neo-Colonialism.md
 [11]:	metamodernism.md
 [12]:	The%20Fluid%20Mode.md
 [13]:	Social%20Ecology.md
@@ -77,29 +82,30 @@
 [18]:	Game%20Change.md
 [19]:	The%20Transjective%20Perspective.md
 [20]:	Ways%20of%20Seeing.md
-[21]:	Meta-rationality.md
-[22]:	contribution.md
-[23]:	Coming%20From%20Gratitude.md
-[24]:	Utopia%20of%20the%20Beautiful%20End.md
-[25]:	The%20Bio-Emotive%20Framework.md
-[26]:	Group%20Practices.md
-[27]:	Non%20Violent%20Communication.md
-[28]:	Authentic%20Relating.md
-[29]:	The%20Work%20That%20Reconnects.md
-[30]:	Organisational%20Design.md
-[31]:	Deep%20Ecology.md
-[32]:	Gaia.md
-[33]:	Platform%20Co-ops.md
-[34]:	organisations.md
-[35]:	people.md
-[36]:	places.md
-[37]:	conferences.md
-[38]:	Places%20To%20Post%20Articles.md
-[39]:	quotes.md
-[40]:	Open%20Questions.md
-[41]:	Metamodern%20Art.md
-[42]:	feedback.md
-[43]:	World%20Shattering%20Ideas.md
-[44]:	Philosophical%20Terms.md
-[45]:	Culture%20Code.md
-[46]:	Street%20Epistemology.md
+[21]:	Sensing%20with%20Soul.md
+[22]:	Meta-rationality.md
+[23]:	contribution.md
+[24]:	Coming%20From%20Gratitude.md
+[25]:	Reclaiming%20Utopia.md
+[26]:	The%20Bio-Emotive%20Framework.md
+[27]:	Group%20Practices.md
+[28]:	Non%20Violent%20Communication.md
+[29]:	Authentic%20Relating.md
+[30]:	The%20Work%20That%20Reconnects.md
+[31]:	Organisational%20Design.md
+[32]:	Deep%20Ecology.md
+[33]:	Gaia.md
+[34]:	Platform%20Co-ops.md
+[35]:	organisations.md
+[36]:	people.md
+[37]:	places.md
+[38]:	conferences.md
+[39]:	Places%20To%20Post%20Articles.md
+[40]:	quotes.md
+[41]:	Open%20Questions.md
+[42]:	Metamodern%20Art.md
+[43]:	feedback.md
+[44]:	World%20Shattering%20Ideas.md
+[45]:	Philosophical%20Terms.md
+[46]:	Culture%20Code.md
+[47]:	Street%20Epistemology.md
