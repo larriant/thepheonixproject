@@ -32,7 +32,7 @@
 	* [Contribution][23]
 * The Phoenix: Responding to Collapse
 	* [Coming from Gratitude][24]
-	* [Utopian Imagination][25]
+	* [Reclaiming Utopia][25]
 *  The Phoenix: Emotions
 	*  [The Bio-Emotive Framework][26]
 * The Phoenix: Interpersonal
