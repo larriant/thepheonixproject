@@ -1,5 +1,4 @@
 # Concentric Circles of Self
-
 There are many different [ways of seeing][1] the self. 
 
 Our society is limited to the **separate self** or individual. This is a discrete entity separate from other people and the world.

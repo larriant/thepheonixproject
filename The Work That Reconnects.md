@@ -7,7 +7,6 @@ The spiral of the work that reconnects is divided into 4 sections:
 3. Seeing with New Eyes
 4. Going Forth
 
-
 ## Coming From Gratitude
 For context check out our page on: [Coming From Gratitude][1].
 ### Opening Through Breath

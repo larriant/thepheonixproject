@@ -1,7 +1,6 @@
 # Group Practices
 
 ## 1. The Circle Way
-
 https://www.thecircleway.net/
 
 What transforms a meeting into a circle is the willingness of people to shift from informal socialising or opinionated discussion into a receptive attitude of thoughtful speaking and deep listening.

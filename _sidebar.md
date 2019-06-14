@@ -1,6 +1,4 @@
 * [Home][1]
-* [Hallmarks of the Monster Factory][2]
-* [Hallmarks of the Phoenix][3]
 * The Monster Factory: Crises
 	* [Inequality][4]
 	* [Alienation][5]
@@ -13,6 +11,7 @@
 	* [Neo-Colonialism][10]
 	* Patriarchy
 	* Intersectionality
+* [Hallmarks of the Phoenix][3]
 * The Phoenix: Overarching Philosophies
 	* [Metamodernism][11]
 	* [The Fluid Mode][12]
@@ -63,7 +62,6 @@
 	* [Street Epistemology][47]
 
 [1]:	Welcome%20to%20The%20Phoenix%20Project.md
-[2]:	Hallmarks%20of%20the%20Monster%20Factory.md
 [3]:	Hallmarks%20of%20the%20Phoenix.md
 [4]:	inequality.md
 [5]:	alienation.md

@@ -3,7 +3,7 @@ Modernism fixates on the objective.
 
 Postmodernism fixates on the subjective.
 
-But actually life is a co-creation, an intra-action, between the objective and the subjective.
+**But actually** life is a co-creation, an intra-action, between the objective and the subjective.
 
 In whatever state we are in, whether transcendent or in the depths of depression, there is always a filter between us and the world.
 

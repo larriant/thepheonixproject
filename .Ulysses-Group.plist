@@ -237,18 +237,6 @@
 					<integer>259</integer>
 				</dict>
 			</dict>
-			<key>Hallmarks of the Phoenix.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>581252665.3398</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>129</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>259</integer>
-				</dict>
-			</dict>
 			<key>Inequality.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -431,6 +419,18 @@
 					<integer>59</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>205</integer>
+				</dict>
+			</dict>
+			<key>Phoenix DNA.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>581868588.85124397</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>144</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>334</integer>
 				</dict>
 			</dict>
 			<key>Places to Post Articles.md</key>
@@ -631,6 +631,18 @@
 					<integer>233</integer>
 				</dict>
 			</dict>
+			<key>The Will to Power.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>581861348.69969106</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>144</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>332</integer>
+				</dict>
+			</dict>
 			<key>The Work That Reconnects.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -790,7 +802,10 @@
 			<string>Hallmarks of the Monster Factory.md</string>
 		</array>
 		<array>
-			<string>Hallmarks of the Phoenix.md</string>
+			<string>Phoenix DNA.md</string>
+		</array>
+		<array>
+			<string>The Will to Power.md</string>
 		</array>
 		<array>
 			<string>The Bodhisattva narrative.md</string>
@@ -975,7 +990,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>144</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>329</integer>
+			<integer>335</integer>
 		</dict>
 	</dict>
 </dict>

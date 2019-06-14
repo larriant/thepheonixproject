@@ -10,7 +10,6 @@ NVC suggests that we should try and listen for the underlying feelings, needs an
 
 
 ## How to Express Honestly
-
 * Observe something. 
 * Explain how it makes you feel. 
 * Explain what you need. 
