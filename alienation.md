@@ -8,7 +8,7 @@ There seems to be a strong correlation between modernity and alienation.
 + Discussion networks are smaller in 2004 than in 1985. The number of people saying there is no one with whom they discuss important matters nearly tripled. The mean network size decreases by about a third (one confidant), from 2.94 in 1985 to 2.08 in 2004. ^3
 
 ## Lack of Belonging
-+ Most modern humans rarely feel a sense of belonging. 
++ Most modern humans rarely feel a sense of belonging.
 
 ## Addiction
 + Because modern humans are alienated. They turn to drugs to feed their deep needs.
@@ -17,7 +17,7 @@ There seems to be a strong correlation between modernity and alienation.
 ## Generator Functions
 + Spread of individual values.
 + Private Property
-+ Anomie: a condition in which society provides little moral guidance to individuals. It is the breakdown of social bonds between an individual and the community. Popularised by French sociologist Émile Durkheim.^2
++ Anomie: a condition in which society provides little moral guidance to individuals. It is the breakdown of social bonds between an individual and the community. Popularised by French sociologist Émile Durkheim.
 
 # References
 1. [Bowling Alone][1] by Robert Putnam

@@ -1,34 +1,35 @@
 * [Home][1]
 * The Monster Factory: Crises
-	* [Inequality][4]
-	* [Alienation][5]
-	* [Environment][6]
-	* [The Meaning Crisis][7]
+	* [Inequality][2]
+	* [Alienation][3]
+	* [Environment][4]
+	* [The Meaning Crisis][5]
 * The Monster Factory: Ideas
-	* [Neoliberalism][8]
-	* [Capitalist Realism][9]
+	* [Neoliberalism][6]
+	* [Capitalist Realism][7]
 * The Monster Factory: Oppressive Structures
-	* [Neo-Colonialism][10]
+	* [Neo-Colonialism][8]
 	* Patriarchy
 	* Intersectionality
-* [The Phoenix DNA][3]
+* [The Phoenix DNA][9]
 * The Phoenix: Overarching Philosophies
-	* [Metamodernism][11]
-	* [The Fluid Mode][12]
-	* [Social Ecology][13]
+	* [Metamodernism][10]
+	* [The Fluid Mode][11]
+	* [Social Ecology][12]
 * The Phoenix: Metaphysics Toolkit
-	* [Guerrilla Metaphysics][14]
-		* [Emergentism][15]
-		* [Reject Materialism][16]
-		* [Concentric Circles of Self][17]
-		* [Game Change][18]
-	* [The Transjective Perspective][19]
-		* [Ways of Seeing][20]
-		* [Sensing with Soul][21]
+	* [Guerrilla Metaphysics][13]
+		* [Emergentism][14]
+		* [Reject Materialism][15]
+		* [Concentric Circles of Self][16]
+		* [Game Change][17]
+	* [The Transjective Perspective][18]
+		* [Ways of Seeing][19]
+		* [Sensing with Soul][20]
 	* Ways of Knowing
-		* [Meta-rationality][22]
+		* [Meta-rationality][21]
 * The Phoenix: Values
-	* [Contribution][23]
+	* [Contribution][22]
+	* [Bioharmony][23]
 * The Phoenix: Responding to Collapse
 	* [Coming from Gratitude][24]
 	* [Reclaiming Utopia][25]
@@ -62,27 +63,28 @@
 	* [Street Epistemology][47]
 
 [1]:	Welcome%20to%20The%20Phoenix%20Project.md
-[3]:	Phoenix%20DNA.md
-[4]:	inequality.md
-[5]:	alienation.md
-[6]:	environment.md
-[7]:	The%20Meaning%20Crisis.md
-[8]:	Neoliberalism.md
-[9]:	Capitalist%20Realism.md
-[10]:	Neo-Colonialism.md
-[11]:	metamodernism.md
-[12]:	The%20Fluid%20Mode.md
-[13]:	Social%20Ecology.md
-[14]:	Guerrilla%20Metaphysics.md
-[15]:	Emergentism.md
-[16]:	Reject%20Materialism
-[17]:	Concentric%20Circles%20of%20Self.md
-[18]:	Game%20Change.md
-[19]:	The%20Transjective%20Perspective.md
-[20]:	Ways%20of%20Seeing.md
-[21]:	Sensing%20with%20Soul.md
-[22]:	Meta-rationality.md
-[23]:	contribution.md
+[2]:	inequality.md
+[3]:	alienation.md
+[4]:	environment.md
+[5]:	The%20Meaning%20Crisis.md
+[6]:	Neoliberalism.md
+[7]:	Capitalist%20Realism.md
+[8]:	Neo-Colonialism.md
+[9]:	Phoenix%20DNA.md
+[10]:	metamodernism.md
+[11]:	The%20Fluid%20Mode.md
+[12]:	Social%20Ecology.md
+[13]:	Guerrilla%20Metaphysics.md
+[14]:	Emergentism.md
+[15]:	Reject%20Materialism
+[16]:	Concentric%20Circles%20of%20Self.md
+[17]:	Game%20Change.md
+[18]:	The%20Transjective%20Perspective.md
+[19]:	Ways%20of%20Seeing.md
+[20]:	Sensing%20with%20Soul.md
+[21]:	Meta-rationality.md
+[22]:	contribution.md
+[23]:	Bioharmony.md
 [24]:	Coming%20From%20Gratitude.md
 [25]:	Reclaiming%20Utopia.md
 [26]:	The%20Bio-Emotive%20Framework.md
