@@ -475,6 +475,18 @@
 					<integer>14</integer>
 				</dict>
 			</dict>
+			<key>Reclaiming Utopia Workshop.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>582644081.02021599</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>144</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>342</integer>
+				</dict>
+			</dict>
 			<key>Reclaiming Utopia.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -730,6 +742,9 @@
 			<string>Reclaiming Utopia.md</string>
 		</array>
 		<array>
+			<string>Reclaiming Utopia Workshop.md</string>
+		</array>
+		<array>
 			<string>Tools for Prefigurative Movements.md</string>
 		</array>
 		<array>
@@ -891,7 +906,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>144</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>339</integer>
+			<integer>343</integer>
 		</dict>
 	</dict>
 </dict>
