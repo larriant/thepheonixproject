@@ -15,4 +15,4 @@
 [5]:	Reclaiming%20Utopia.md
 [6]:	Game%20Change.md
 [7]:	Concentric%20Circles%20of%20Self.md
-[8]:	Prefiguration.md
+[8]:	https://wiki.thephoenixproject.site/#/Reclaiming%20Utopia?id=prefiguration
