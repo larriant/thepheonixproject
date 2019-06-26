@@ -10,6 +10,18 @@ Advantages of Gratitude:
 + Even though our world is in crisis, this in no way diminishes the wonder of this present moment. Gratitude is not dependent on our external circumstances.
 + Gratitude also helps fight against the consumerism upon which capitalism depends. If we are satisfied we no longer need to consume.
 
+# Gratitude and Game Change
+
+Game denial is a crime against actuality.
+
+Game acceptance is a crime against potentiality.
+
+Game change lies between the two: we are in touch with both actuality and potentiality. With both reality and vision. In the context of today’s world, this means connecting to both collapse scenarios and utopian possibilities. This connection should be emotional as well as intellectual. Only then can we fully open to the reality of collapse, and in that uncharted space of incredible uncertainty, start to pursue a dignified and inspiring vision for humanity’s way forward.
+
+The mindset of game change embraces both actuality and potentiality. In doing so it embraces the uncertainty that most people shy away from - but which is in fact a land of unprecedented opportunity.
+
+Gratitude allows us to do this: we can find the beauty in living that allows us go on in spite of collapse, and to locate the seeds of hope on which we can attempt to build a new world.
+
 # References
 1. Active Hope by Joanna Macy Ch. 3
 

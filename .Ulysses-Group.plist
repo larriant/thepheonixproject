@@ -47,6 +47,22 @@
 					<integer>189</integer>
 				</dict>
 			</dict>
+			<key>Bioharmony - 2.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>583244782.73294306</real>
+				<key>lastModification</key>
+				<real>583244782.73294306</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>144</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>356</integer>
+				</dict>
+			</dict>
 			<key>Bioharmony.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -93,6 +109,18 @@
 					<integer>144</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>297</integer>
+				</dict>
+			</dict>
+			<key>Complex Systems Principles.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>583241856.38338399</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>144</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>354</integer>
 				</dict>
 			</dict>
 			<key>Concentric Circles of Self.md</key>
@@ -571,6 +599,18 @@
 					<integer>255</integer>
 				</dict>
 			</dict>
+			<key>The Edge of Chaos.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>583241720.25269198</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>144</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>350</integer>
+				</dict>
+			</dict>
 			<key>The Fluid Mode.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -730,6 +770,9 @@
 			<string>Hallmarks of the Monster Factory.md</string>
 		</array>
 		<array>
+			<string>Bioharmony - 2.md</string>
+		</array>
+		<array>
 			<string>Phoenix DNA.md</string>
 		</array>
 		<array>
@@ -797,6 +840,12 @@
 		</array>
 		<array>
 			<string>Coming from Gratitude.md</string>
+		</array>
+		<array>
+			<string>The Edge of Chaos.md</string>
+		</array>
+		<array>
+			<string>Complex Systems Principles.md</string>
 		</array>
 		<array>
 			<string>Capitalist Realism.md</string>
@@ -906,7 +955,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>144</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>343</integer>
+			<integer>356</integer>
 		</dict>
 	</dict>
 </dict>
