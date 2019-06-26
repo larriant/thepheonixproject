@@ -1,3 +1,4 @@
+# The Edge of Chaos
 
 Overlooking technical definitions, entropy is a synonym for disorder, and you can take it to mean that throughout this post. A high entropy system has lots more ‘going on’ than an ordered one. On the one hand this disorder can lead to chaos (unpredictable, seemingly random behaviour), but on another it can lead to emergence (complex patterns that occur when elements of the system spontaneously come together in certain ways).
 
