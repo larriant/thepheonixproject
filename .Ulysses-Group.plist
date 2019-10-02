@@ -47,22 +47,6 @@
 					<integer>189</integer>
 				</dict>
 			</dict>
-			<key>Bioharmony - 2.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>583244782.73294306</real>
-				<key>lastModification</key>
-				<real>583244782.73294306</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>144</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>356</integer>
-				</dict>
-			</dict>
 			<key>Bioharmony.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -85,6 +69,18 @@
 					<integer>144</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>291</integer>
+				</dict>
+			</dict>
+			<key>Circling.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>591710117.93628502</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>144</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>365</integer>
 				</dict>
 			</dict>
 			<key>Climate-Ecological Emergency and Deep Adaptation.md</key>
@@ -575,6 +571,18 @@
 					<integer>211</integer>
 				</dict>
 			</dict>
+			<key>The Autonomist Tradition.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>583432588.07730103</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>144</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>361</integer>
+				</dict>
+			</dict>
 			<key>The Bio-Emotive Framework.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -683,6 +691,22 @@
 					<integer>328</integer>
 				</dict>
 			</dict>
+			<key>Untitled.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>591716456.43162203</real>
+				<key>lastModification</key>
+				<real>591716456.43162203</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>144</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>369</integer>
+				</dict>
+			</dict>
 			<key>Ways of Seeing.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -770,10 +794,10 @@
 			<string>Hallmarks of the Monster Factory.md</string>
 		</array>
 		<array>
-			<string>Bioharmony - 2.md</string>
+			<string>Phoenix DNA.md</string>
 		</array>
 		<array>
-			<string>Phoenix DNA.md</string>
+			<string>The Autonomist Tradition.md</string>
 		</array>
 		<array>
 			<string>The Will to Power.md</string>
@@ -831,6 +855,12 @@
 		</array>
 		<array>
 			<string>_sidebar.md</string>
+		</array>
+		<array>
+			<string>Circling.md</string>
+		</array>
+		<array>
+			<string>Untitled.md</string>
 		</array>
 		<array>
 			<string>Sensing With Soul.md</string>
@@ -955,7 +985,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>144</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>356</integer>
+			<integer>369</integer>
 		</dict>
 	</dict>
 </dict>
