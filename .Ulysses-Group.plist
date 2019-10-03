@@ -59,6 +59,18 @@
 					<integer>338</integer>
 				</dict>
 			</dict>
+			<key>Bohmian Dialogue.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>591802260.77917302</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>144</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>376</integer>
+				</dict>
+			</dict>
 			<key>Capitalist Realism.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -177,6 +189,18 @@
 					<integer>59</integer>
 					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
 					<integer>245</integer>
+				</dict>
+			</dict>
+			<key>Empathy Circles.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>591795992.82481301</real>
+				<key>version</key>
+				<dict>
+					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
+					<integer>144</integer>
+					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
+					<integer>372</integer>
 				</dict>
 			</dict>
 			<key>Environment.md</key>
@@ -691,22 +715,6 @@
 					<integer>328</integer>
 				</dict>
 			</dict>
-			<key>Untitled.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>591716456.43162203</real>
-				<key>lastModification</key>
-				<real>591716456.43162203</real>
-				<key>version</key>
-				<dict>
-					<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
-					<integer>144</integer>
-					<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-					<integer>369</integer>
-				</dict>
-			</dict>
 			<key>Ways of Seeing.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -857,10 +865,13 @@
 			<string>_sidebar.md</string>
 		</array>
 		<array>
+			<string>Bohmian Dialogue.md</string>
+		</array>
+		<array>
 			<string>Circling.md</string>
 		</array>
 		<array>
-			<string>Untitled.md</string>
+			<string>Empathy Circles.md</string>
 		</array>
 		<array>
 			<string>Sensing With Soul.md</string>
@@ -985,7 +996,7 @@
 			<key>8609cede70c89f5083f04ecfeb6fd1fb26dc7a548d2bdd75cceaa33eed05f10d</key>
 			<integer>144</integer>
 			<key>9d3212972465d188f6b1ce4d39d96d2fbd899cc94ec59251e2d8a362520ec213</key>
-			<integer>369</integer>
+			<integer>377</integer>
 		</dict>
 	</dict>
 </dict>

@@ -35,31 +35,33 @@
 * The Phoenix: Interpersonal
 	* [Group Practices][26]
 	* [Circling][27]
-	* [Non Violent Communication][28]
-	* [Authentic Relating][29]
-	* [The Work That Reconnects][30]
-	* [Reclaiming Utopia Workshop][31]
-	* [Organisational Design][32]
+	* [Empathy Circles][28]
+	* [Bohmian Dialogue][29]
+	* [Non Violent Communication][30]
+	* [Authentic Relating][31]
+	* [The Work That Reconnects][32]
+	* [Reclaiming Utopia Workshop][33]
+	* [Organisational Design][34]
 * The Phoenix: Natural World
-	* [Deep Ecology][33]
-	* [Gaia][34]
+	* [Deep Ecology][35]
+	* [Gaia][36]
 * The Phoenix: Economics
-	* [Platform Co-operatives][35]
+	* [Platform Co-operatives][37]
 * Phoenix Feathers
-	* [Organisations][36]
-	* [People][37]
-	* [Places][38]
-	* [Conferences][39]
+	* [Organisations][38]
+	* [People][39]
+	* [Places][40]
+	* [Conferences][41]
 * Other
-	* [Places to Post Articles][40]
-	* [Quotes][41]
-	* [Open Questions][42]
-	* [Meta-modern Art][43]
-	* [Feedback][44]
-	* [World Shattering Ideas][45]
-	* [Philosophical Terms][46]
-	* [Cultural Code][47]
-	* [Street Epistemology][48]
+	* [Places to Post Articles][42]
+	* [Quotes][43]
+	* [Open Questions][44]
+	* [Meta-modern Art][45]
+	* [Feedback][46]
+	* [World Shattering Ideas][47]
+	* [Philosophical Terms][48]
+	* [Cultural Code][49]
+	* [Street Epistemology][50]
 
 [1]:	Welcome%20to%20The%20Phoenix%20Project.md
 [2]:	inequality.md
@@ -88,24 +90,26 @@
 [25]:	The%20Bio-Emotive%20Framework.md
 [26]:	Group%20Practices.md
 [27]:	Circling.md "Circling"
-[28]:	Non%20Violent%20Communication.md
-[29]:	Authentic%20Relating.md
-[30]:	The%20Work%20That%20Reconnects.md
-[31]:	Reclaiming%20Utopia%20Workshop.md
-[32]:	Organisational%20Design.md
-[33]:	Deep%20Ecology.md
-[34]:	Gaia.md
-[35]:	Platform%20Co-ops.md
-[36]:	organisations.md
-[37]:	people.md
-[38]:	places.md
-[39]:	conferences.md
-[40]:	Places%20To%20Post%20Articles.md
-[41]:	quotes.md
-[42]:	Open%20Questions.md
-[43]:	Metamodern%20Art.md
-[44]:	feedback.md
-[45]:	World%20Shattering%20Ideas.md
-[46]:	Philosophical%20Terms.md
-[47]:	Culture%20Code.md
-[48]:	Street%20Epistemology.md
+[28]:	Empathy%20Circles.md
+[29]:	Bohmian%20Dialogue.md
+[30]:	Non%20Violent%20Communication.md
+[31]:	Authentic%20Relating.md
+[32]:	The%20Work%20That%20Reconnects.md
+[33]:	Reclaiming%20Utopia%20Workshop.md
+[34]:	Organisational%20Design.md
+[35]:	Deep%20Ecology.md
+[36]:	Gaia.md
+[37]:	Platform%20Co-ops.md
+[38]:	organisations.md
+[39]:	people.md
+[40]:	places.md
+[41]:	conferences.md
+[42]:	Places%20To%20Post%20Articles.md
+[43]:	quotes.md
+[44]:	Open%20Questions.md
+[45]:	Metamodern%20Art.md
+[46]:	feedback.md
+[47]:	World%20Shattering%20Ideas.md
+[48]:	Philosophical%20Terms.md
+[49]:	Culture%20Code.md
+[50]:	Street%20Epistemology.md
